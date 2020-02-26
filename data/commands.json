@@ -257,7 +257,7 @@
             {
                 "storage": "1",
                 "varName": "762",
-                "fieldName": "Best/Highest Pen",
+                "fieldName": "```Best/Highest Pen```",
                 "message": "BP 638 ₽ \nClass 5 - 1-3 shots\nClass 6 - 4-5 shots\n47 Pen - 58 Damage\nRecoil +5%\nAccuracy -3%\nPrapor LL3 \nThe Punisher - Part 3",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -265,7 +265,7 @@
             {
                 "storage": "1",
                 "varName": "762",
-                "fieldName": "Highest Flesh",
+                "fieldName": "```Highest Flesh```",
                 "message": "HP 62 ₽\n15 Pen - 83 Damage\nAccuracy -5%\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -273,7 +273,7 @@
             {
                 "storage": "1",
                 "varName": "762",
-                "fieldName": "Budget",
+                "fieldName": "```Budget```",
                 "message": "PS 87 ₽\nClass 4 - 2-4 shots\nClass 5 - 5-7 shots\n34 Pen - 54 Damage\nPrapor LL1\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -308,7 +308,7 @@
             {
                 "storage": "1",
                 "varName": "n762",
-                "fieldName": "Best",
+                "fieldName": "```Best```",
                 "message": "M62 (if you buy ≥ 10 )\n4.2 $ Per Unit \nClass 5 - 1 shot\nClass 6 - 1-3 shots \n54 Pen - 79 Damage\nPeacekeeper LL3 \nSpa Tour - Part 6",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -316,7 +316,7 @@
             {
                 "storage": "1",
                 "varName": "n762",
-                "fieldName": "Highest Flesh",
+                "fieldName": "```Highest Flesh```",
                 "message": "Ultra Nosler 327 ₽\n15 Pen - 102 Damage\nRecoil -5%\nAccuracy +5%\nJaeger LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -324,7 +324,7 @@
             {
                 "storage": "1",
                 "varName": "n762",
-                "fieldName": "Highest Pen",
+                "fieldName": "```Highest Pen```",
                 "message": "M61 10 $\nClass 6 - 1 shot\n68 Pen - 70 Damage\nRecoil +10%\nAccuracy +3%\nPeacekeeper LL4 \nWet Job - Part 6",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -332,7 +332,7 @@
             {
                 "storage": "1",
                 "varName": "n762",
-                "fieldName": "Budget 1",
+                "fieldName": "```Budget 1```",
                 "message": "M80 (if you buy ≥ 50)\n1.8 $ Per Unit \nClass 5 - 1-3 shots\nClass 6 - 3-5 shots\n41 Pen - 80 Damage\nPeacekeeper LL2\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -340,7 +340,7 @@
             {
                 "storage": "1",
                 "varName": "n762",
-                "fieldName": "Budget 2",
+                "fieldName": "```Budget 2```",
                 "message": "BPZ FMJ 153 ₽\n31 Pen - 88 Damage\nClass 4 - 3-6 shots\nClass 5 - 10-12 shots\nRecoil -3%\nJaeger LL2",
                 "inline": "1",
                 "name": "Add Embed Field"
@@ -375,7 +375,7 @@
             {
                 "storage": "1",
                 "varName": "r762",
-                "fieldName": "Highest Pen",
+                "fieldName": "```Highest Pen```",
                 "message": "7N37 956 ₽\nClass 6 - 1 shot\n72 Pen - 70 Damage\nPrapor LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -383,7 +383,7 @@
             {
                 "storage": "1",
                 "varName": "r762",
-                "fieldName": "Best/Highest Flesh",
+                "fieldName": "```Best/Highest Flesh```",
                 "message": "7N1 570 ₽\nClass 5 - 1-3 shots\nClass 6 - 3-4 shots\n45 Pen - 86 Damage\nRecoil +8%\nAccuracy +10%\nPrapor LL3\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -391,7 +391,7 @@
             {
                 "storage": "1",
                 "varName": "r762",
-                "fieldName": "Budget",
+                "fieldName": "```Budget```",
                 "message": "LPS Gzh 179 ₽\nClass 5 - 2-3 shots\nClass 6 - 3-5 shots\n42 Pen - 81 Damage\nPrapor LL1\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -426,7 +426,7 @@
             {
                 "storage": "1",
                 "varName": "918",
-                "fieldName": "Best/Highest Pen",
+                "fieldName": "```Best/Highest Pen```",
                 "message": "PMM 144 ₽\nClass 3 - 2-5 shots\nClass 4 - 5-10 shots\n25 Pen - 56 Damage\nRecoil +5%\nPrapor LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -434,7 +434,7 @@
             {
                 "storage": "1",
                 "varName": "918",
-                "fieldName": "Highest Flesh",
+                "fieldName": "```Highest Flesh```",
                 "message": "SP7 gzh 158 ₽\n2 Pen - 77 Damage\nPrapor LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -442,7 +442,7 @@
             {
                 "storage": "1",
                 "varName": "918",
-                "fieldName": "Budget 1",
+                "fieldName": "```Budget 1```",
                 "message": "SP8 66 ₽\n1 Pen - 67 Damage\nPrapor LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -450,7 +450,7 @@
             {
                 "storage": "1",
                 "varName": "918",
-                "fieldName": "Budget 2",
+                "fieldName": "```Budget 2```",
                 "message": "PSV 71 ₽\n3 Pen - 69 Damage\nJaeger LL2",
                 "inline": "1",
                 "name": "Add Embed Field"
@@ -485,7 +485,7 @@
             {
                 "storage": "1",
                 "varName": "919",
-                "fieldName": "Best/Highest Pen",
+                "fieldName": "```Best/Highest Pen```",
                 "message": "AP 6.3 (if you buy ≥ 100)\n4.55 $\nClass 3 - 2-5 shots\nClass 4 - 5-8 shots\n25 Pen - 52 Damage\nPeacekeeper LL3\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -493,7 +493,7 @@
             {
                 "storage": "1",
                 "varName": "919",
-                "fieldName": "Highest Flesh",
+                "fieldName": "```Highest Flesh```",
                 "message": "RIP\n10/02-20 Flea Market Price:\nApprox 700 ₽ Per Unit\n2 Pen - 102 Damage\nRecoil +20%\nFM | AI | FIR | Crafting\nSkier LL4 Barter\n2x Chainlets -> 20 bullets\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -501,7 +501,7 @@
             {
                 "storage": "1",
                 "varName": "919",
-                "fieldName": "Budget Pen",
+                "fieldName": "```Budget Pen```",
                 "message": "Pst gzh (if you buy ≥ 50)\n0.62 $ Per Unit or 65 ₽ \nClass 2 - 3-5 shots\nClass 3 - Magdump\n18 Pen - 54 Damage\nPeacekeeper LL2/Prapor LL2/Mechanic LL1",
                 "inline": "1",
                 "name": "Add Embed Field"
@@ -509,7 +509,7 @@
             {
                 "storage": "1",
                 "varName": "919",
-                "fieldName": "Alternative Flesh",
+                "fieldName": "```Alternative Flesh```",
                 "message": "Luger CCI 350 ₽\n10 Pen - 70 Damage\nSkier LL4\n",
                 "inline": "1",
                 "name": "Add Embed Field"
@@ -544,7 +544,7 @@
             {
                 "storage": "1",
                 "varName": "921",
-                "fieldName": "Best/Highest Pen",
+                "fieldName": "```Best/Highest Pen```",
                 "message": "SP13 251 ₽\nClass 4 - 2-3 shots\nClass 5 - 5-7 shots\n36 Pen - 62 Damage\nPrapor LL4\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -552,7 +552,7 @@
             {
                 "storage": "1",
                 "varName": "921",
-                "fieldName": "Highest Flesh",
+                "fieldName": "```Highest Flesh```",
                 "message": "SP12 205 ₽\n14 Pen - 75 Damage\nPrapor LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -560,7 +560,7 @@
             {
                 "storage": "1",
                 "varName": "921",
-                "fieldName": "Budget ",
+                "fieldName": "```Budget```",
                 "message": "SP10 146 ₽ \nClass 3 - 1 shot\nClass 4 - 3-5 shots\n32 Pen - 49 Damage\nPrapor LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -595,7 +595,7 @@
             {
                 "storage": "1",
                 "varName": "939",
-                "fieldName": "Best/Highest Pen",
+                "fieldName": "```Best/Highest Pen```",
                 "message": "7N12 BP\n10/02-20 Flea Market Price:\n1490 ₽ - 1500 ₽ Per Unit\nClass 5 - 1 shot\nClass 6 - 3-4 shots\n50 Pen - 60 Damage\nAccuracy +15% \nRecoil +5%\nFM | AI | FIR | Crafting\nPrapor LL4 Barter after Grenadier \n1x strike -> 8 bullets",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -603,7 +603,7 @@
             {
                 "storage": "1",
                 "varName": "939",
-                "fieldName": "Highest Flesh",
+                "fieldName": "```Highest Flesh```",
                 "message": "SP-5 142 ₽\nClass 4 - 3-5 shots\nClass 5 - 7-8 shots\n35 Pen - 68 Damage\nPrapor LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -611,7 +611,7 @@
             {
                 "storage": "1",
                 "varName": "939",
-                "fieldName": "Alternative 1",
+                "fieldName": "```Alternative 1```",
                 "message": "SP-6 615 ₽\nClass 5 - 2-4 shots\nClass 6 - 5-6 shots\n43 Pen - 58 Damage\nRecoil +7%\nPrapor LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -619,7 +619,7 @@
             {
                 "storage": "1",
                 "varName": "939",
-                "fieldName": "Alternative 2",
+                "fieldName": "```Alternative 2```",
                 "message": "7N9 SPP 857 ₽\nClass 5 - 1-3 shots\nClass 6 - 4-6 shots\n45 Pen - 67 Damage\nAccuracy +10%\nRecoil +5%\nPrapor LL4",
                 "inline": "1",
                 "name": "Add Embed Field"
@@ -654,7 +654,7 @@
             {
                 "storage": "1",
                 "varName": "12gb",
-                "fieldName": "Best/Highest Pen",
+                "fieldName": "```Best/Highest Pen```",
                 "message": "Flechette 77 ₽\nClass 4 - 2-3 shots\nClass 5 - 3-4 shots\n28 Pen - 19 x 8 Damage \nAccuracy -25%\nJaeger LL3\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -662,7 +662,7 @@
             {
                 "storage": "1",
                 "varName": "12gb",
-                "fieldName": "Highest Flesh",
+                "fieldName": "```Highest Flesh```",
                 "message": "8.5 mm “Magnum” 51 ₽\n2 Pen - 44 x 8 Damage \nRecoil +115%\nAccuracy -15%\nJaeger LL2\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -670,7 +670,7 @@
             {
                 "storage": "1",
                 "varName": "12gb",
-                "fieldName": "Budget/Low Level",
+                "fieldName": "```Budget/Low Level```",
                 "message": "7mm 31 ₽\n3 Pen - 32 x 8 Damage \nJaeger LL1/Prapor LL1",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -705,7 +705,7 @@
             {
                 "storage": "1",
                 "varName": "12gs",
-                "fieldName": "Best/Highest Pen",
+                "fieldName": "```Best/Highest Pen```",
                 "message": "AP-20 182 ₽ \nClass 4 - 2-3 shots\nClass 5 - 5-6 shots\n32 Pen - 164 Damage\nRecoil +50%\nAccuracy +125%\nJaeger LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -713,7 +713,7 @@
             {
                 "storage": "1",
                 "varName": "12gs",
-                "fieldName": "Highest Flesh",
+                "fieldName": "```Highest Flesh```",
                 "message": "RIP\n10/02-20 Flea Market Price:\n1000 ₽ - 2000 ₽ Per Unit\n0 Pen - 235 Damage\nAccuracy +80%\nRecoil +35%\nFM | AI | FIR | Crafting\nSkier LL3 Barter after Bullshit\n1x T-plug -> 5 slugs",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -721,7 +721,7 @@
             {
                 "storage": "1",
                 "varName": "12gb",
-                "fieldName": "Budget",
+                "fieldName": "```Budget```",
                 "message": "Poleva-6u 70 ₽\nClass 2 - 1 shot\nClass 3 -  3-8 shots\n20 Pen - 140 Damage\nRecoil -10%\nAccuracy +95%\nJaeger LL2\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -756,7 +756,7 @@
             {
                 "storage": "1",
                 "varName": "20gb",
-                "fieldName": "Best/Highest Flesh",
+                "fieldName": "```Best/Highest Flesh```",
                 "message": "7.3mm 39 ₽\n3 Pen - 22 damage x 9\nRecoil +15%\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -791,7 +791,7 @@
             {
                 "storage": "1",
                 "varName": "20gs",
-                "fieldName": "Best/Highest Flesh",
+                "fieldName": "```Best/Highest Flesh```",
                 "message": "Devastator Slug 184 ₽\n4 Pen - 188 Damage\nRecoil +30%\nAccuracy +115%\nJaeger LL3\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -799,7 +799,7 @@
             {
                 "storage": "1",
                 "varName": "20gs",
-                "fieldName": "Highest Pen",
+                "fieldName": "```Highest Pen```",
                 "message": "Poleva-6u 67 ₽\nClass 2 50/50 chance 1-10 shots\n17 pen - 120 Damage\nRecoil -10%\nAccuracy +95%\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -834,7 +834,7 @@
             {
                 "storage": "1",
                 "varName": "762tt",
-                "fieldName": "Best/Highest Flesh",
+                "fieldName": "```Best/Highest Flesh```",
                 "message": "LRNPC 70 ₽\n5 Pen - 66 Damage\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -842,7 +842,7 @@
             {
                 "storage": "1",
                 "varName": "762tt",
-                "fieldName": "Highest Pen",
+                "fieldName": "```Highest Pen```",
                 "message": "Pst gzh 73 ₽\nClass 2 - 1 shot\nClass 3 - 3-6 \n24 Pen - 50 Damage\nPrapor LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -877,7 +877,7 @@
             {
                 "storage": "1",
                 "varName": "366",
-                "fieldName": "Best/Highest Flesh",
+                "fieldName": "```Best/Highest Flesh```",
                 "message": "Geksa 59 ₽\n14 Pen - 80 Damage\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -885,7 +885,7 @@
             {
                 "storage": "1",
                 "varName": "366",
-                "fieldName": "Highest Pen",
+                "fieldName": "```Highest Pen```",
                 "message": "EKO 87 ₽\nClass 2 - 1 shot\nClass 3 - 1-4 shots \n30 Pen - 65 Damage\nRecoil -15%\nAccuracy -10%\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -920,7 +920,7 @@
             {
                 "storage": "1",
                 "varName": "127",
-                "fieldName": "Best/Highest Pen",
+                "fieldName": "```Best/Highest Pen```",
                 "message": "PS12b 592 ₽\nClass 5 - 1-3 shots\nClass 6 - 3-5 shots\n46 Pen - 102 Damage\nRecoil +15%\nPrapor LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -928,7 +928,7 @@
             {
                 "storage": "1",
                 "varName": "127",
-                "fieldName": "Highest Flesh",
+                "fieldName": "```Highest Flesh```",
                 "message": "PS12a 292 ₽\n10 Pen - 165 Damage\nRecoil +7%\nAccuracy -15%\nPrapor LL4\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -936,7 +936,7 @@
             {
                 "storage": "1",
                 "varName": "127",
-                "fieldName": "Alternative",
+                "fieldName": "```Alternative```",
                 "message": "PS12 354 ₽\nClass 3 - 1-3 shots\nClass 4 - 3-5 shots\n28 Pen - 115 Damage\nRecoil +10%\nPrapor LL4\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -971,7 +971,7 @@
             {
                 "storage": "1",
                 "varName": "armor",
-                "fieldName": "Example",
+                "fieldName": "```Example```",
                 "message": "Name of the armor - 5.11 Tactec Plate Carrier\n\nSlots will only show if it is possible - Slots: 18\n\nWhich areas the armor protects - Area: Thorax\n\nTrue Durability and Durability - 111/50\nfor more info on True Durability type command %td\n\nRepairability which might be good to know if you plan on reusing a armor: Very good\n\nDifferent Penalties a armor will give you if you wear it: MoveSp -7%  | TurnSp -3%  | Ergo -3\n\nThis will only show trader price in cash. No barters or any approximates for flea: No trader price.",
                 "inline": "0",
                 "name": "Add Embed Field"
