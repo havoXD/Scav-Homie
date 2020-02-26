@@ -1345,7 +1345,7 @@
             {
                 "storage": "1",
                 "varName": "cmd",
-                "fieldName": "Commands",
+                "fieldName": "Undergoing testing",
                 "message": "Prefix is %\nCredits - my sources and their authors\nWiki - A link to the EFT wiki   \nPenvalues - a little explanation about pen values in EFT\nAmmocmd - Shows ammo commands\nArmorcmd - Shows armor commands\nWeaponcmd - Shows Budget and Best builds \nMaps - Shows map commands\n\n",
                 "inline": "0",
                 "name": "Add Embed Field"
