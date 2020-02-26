@@ -22,7 +22,7 @@
                 "storage": "1",
                 "varName": "545",
                 "fieldName": "```Best```",
-                "message": "BS 890 ₽\nClass 5 - 1 shot \nClass 6 - 2-3 shots\n51 Pen - 40 Damage\nRecoil +10%\nAccuracy -3% \nPrapor LL4",
+                "message": "`BS` 890 ₽\nClass 5 - 1 shot \nClass 6 - 2-3 shots\n51 Pen - 40 Damage\nRecoil +10%\nAccuracy -3% \nPrapor LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -30,7 +30,7 @@
                 "storage": "1",
                 "varName": "545",
                 "fieldName": "```Highest Flesh```",
-                "message": "HP 70 ₽\n11 Pen - 74 Damage\nRecoil +5%\nJaeger LL2",
+                "message": "`HP` 70 ₽\n11 Pen - 74 Damage\nRecoil +5%\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -38,7 +38,7 @@
                 "storage": "1",
                 "varName": "545",
                 "fieldName": "```Budget 1```",
-                "message": "BT 425 ₽ \nClass 4 - 1-2 shots\nClass 5 - 4-6 shots\n37 Pen - 44 Damage\nRecoil +5%\nPrapor LL2",
+                "message": "`BT` 425 ₽ \nClass 4 - 1-2 shots\nClass 5 - 4-6 shots\n37 Pen - 44 Damage\nRecoil +5%\nPrapor LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -46,7 +46,7 @@
                 "storage": "1",
                 "varName": "545",
                 "fieldName": "```Budget 2```",
-                "message": "BP 269 ₽ \nClass 4 - 3-5 shots\nClass 5 - 7-9 shots\n32 Pen - 48 Damage\nPrapor LL3",
+                "message": "`BP` 269 ₽ \nClass 4 - 3-5 shots\nClass 5 - 7-9 shots\n32 Pen - 48 Damage\nPrapor LL3",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -54,7 +54,7 @@
                 "storage": "1",
                 "varName": "545",
                 "fieldName": "```Highest Pen```",
-                "message": "7N39 Igolnik\n10/02-20 Flea Market Price: \n970 ₽ - 1000 ₽ Per Unit\nClass 6 - 1 shot\n62 Pen - 37 Damage\nRecoil +15%\nFM | AI | FIR | Crafting",
+                "message": "`7N39 Igolnik`\n10/02-20 Flea Market Price: \n970 ₽ - 1000 ₽ Per Unit\nClass 6 - 1 shot\n62 Pen - 37 Damage\nRecoil +15%\nFM | AI | FIR | Crafting",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -89,7 +89,7 @@
                 "storage": "1",
                 "varName": "556",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "M995 14 $ \nClass 5 - 1 shot\nClass 6 - 1-3 shots\n53 Pen - 41 Damage\nRecoil +8\nPeacekeeper LL4",
+                "message": "`M995` 14 $ \nClass 5 - 1 shot\nClass 6 - 1-3 shots\n53 Pen - 41 Damage\nRecoil +8\nPeacekeeper LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -97,7 +97,7 @@
                 "storage": "1",
                 "varName": "556",
                 "fieldName": "```Highest Flesh```",
-                "message": "Warmage\n10/02-20 Flea Market Price:\n690 ₽ - 770 ₽ Per Unit\n3 Pen - 85 Damage\nRecoil +10%\nAccuracy +10%\nFM | AI | FIR | Crafting\n",
+                "message": "`Warmage`\n10/02-20 Flea Market Price:\n690 ₽ - 770 ₽ Per Unit\n3 Pen - 85 Damage\nRecoil +10%\nAccuracy +10%\nFM | AI | FIR | Crafting\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -105,7 +105,7 @@
                 "storage": "1",
                 "varName": "556",
                 "fieldName": "```Budget 1```",
-                "message": "M855A1 (if you buy ≥ 50)\n2.22 $ Per Unit  \nClass 5 - 3-5 shots\nClass 6 - 6-7 shots\n40 Pen - 44 Damage\nAccuracy -7%\nPeacekeeper LL3",
+                "message": "`M855A1` (if you buy ≥ 50)\n2.22 $ Per Unit  \nClass 5 - 3-5 shots\nClass 6 - 6-7 shots\n40 Pen - 44 Damage\nAccuracy -7%\nPeacekeeper LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -113,7 +113,7 @@
                 "storage": "1",
                 "varName": "556",
                 "fieldName": "```Budget 2```",
-                "message": "M855 (if you buy ≥ 50)\n1.6 $ Per Unit \nClass 3 - 1-4 shots\nClass 4 - 4-5+ shots \n26 Pen - 49 Damage\nAccuracy +5%\nPeacekeeper LL1",
+                "message": "`M855` (if you buy ≥ 50)\n1.6 $ Per Unit \nClass 3 - 1-4 shots\nClass 4 - 4-5+ shots \n26 Pen - 49 Damage\nAccuracy +5%\nPeacekeeper LL1",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -148,7 +148,7 @@
                 "storage": "1",
                 "varName": "46",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "AP SX 624 ₽\nClass 5 - 1-3 shots  \nClass 6 - 3-4 shots\n47 Pen - 35 Damage\nRecoil +10%\nMechanic LL4",
+                "message": "`AP SX` 624 ₽\nClass 5 - 1-3 shots  \nClass 6 - 3-4 shots\n47 Pen - 35 Damage\nRecoil +10%\nMechanic LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -156,7 +156,7 @@
                 "storage": "1",
                 "varName": "46",
                 "fieldName": "```Highest Flesh```",
-                "message": "Action SX\n(if you buy ≥ 100)\n0.99 $ Per Unit or 102 ₽\n13 Pen - 65 Damage\nMechanic LL1/Peacekeeper LL3",
+                "message": "`Action SX`\n(if you buy ≥ 100)\n0.99 $ Per Unit or 102 ₽\n13 Pen - 65 Damage\nMechanic LL1/Peacekeeper LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -164,7 +164,7 @@
                 "storage": "1",
                 "varName": "46",
                 "fieldName": "```Budget 1```",
-                "message": "Subsonic SX 220 ₽ \nClass 4 - 1-4 shots\nClass 5 - 5-7 shots\n34 Pen - 41 Damage  \nRecoil -20%\nMechanic LL3",
+                "message": "`Subsonic SX` 220 ₽ \nClass 4 - 1-4 shots\nClass 5 - 5-7 shots\n34 Pen - 41 Damage  \nRecoil -20%\nMechanic LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -172,7 +172,7 @@
                 "storage": "1",
                 "varName": "46",
                 "fieldName": "```Budget 2```",
-                "message": "FMJ SX \n(if you buy ≥ 100)\n1.25 $ Per Unit \nClass 4 - 3-5 shots\nClass 5 - 9-11 shots\n30 Pen - 43 Damage\nPeacekeeper LL3\n",
+                "message": "`FMJ SX` \n(if you buy ≥ 100)\n1.25 $ Per Unit \nClass 4 - 3-5 shots\nClass 5 - 9-11 shots\n30 Pen - 43 Damage\nPeacekeeper LL3\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -207,7 +207,7 @@
                 "storage": "1",
                 "varName": "fiveseven",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "SB193(Subsonic)\n(if you buy ≥ 50) \n2.08 $ Per Unit\nClass 4 - 2-4 shots\nClass 5 - 7-9 shots\n35 Pen - 54 Damage\nRecoil -20%\nPeacekeeper LL4\n\nL191(Tracer)\n(if you buy ≥ 50)\n1.46 $ Per Unit\nClass 4 - 2-4 shots\nClass 5 - 7-9 shots\n33 Pen - 58 Damage\nPeacekeeper LL3\n\nSS190\n(if you buy ≥ 50)\n1.52 $ Per Unit \nClass 4 - 3-4 shots\nClass 5 - 8-10 shots\n32 Pen - 57 Damage\nPeacekeeper LL3",
+                "message": "`SB193(Subsonic)`\n(if you buy ≥ 50) \n2.08 $ Per Unit\nClass 4 - 2-4 shots\nClass 5 - 7-9 shots\n35 Pen - 54 Damage\nRecoil -20%\nPeacekeeper LL4\n\n`L191(Tracer)`\n(if you buy ≥ 50)\n1.46 $ Per Unit\nClass 4 - 2-4 shots\nClass 5 - 7-9 shots\n33 Pen - 58 Damage\nPeacekeeper LL3\n\n`SS190`\n(if you buy ≥ 50)\n1.52 $ Per Unit \nClass 4 - 3-4 shots\nClass 5 - 8-10 shots\n32 Pen - 57 Damage\nPeacekeeper LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -215,7 +215,7 @@
                 "storage": "1",
                 "varName": "fiveseven",
                 "fieldName": "```Highest Flesh```",
-                "message": "R37.F 224 ₽\n8 Pen - 98 Damage\nMechanic LL4",
+                "message": "`R37.F` 224 ₽\n8 Pen - 98 Damage\nMechanic LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -223,7 +223,7 @@
                 "storage": "1",
                 "varName": "fiveseven",
                 "fieldName": "```Budget```",
-                "message": "SS190",
+                "message": "`SS190`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -258,7 +258,7 @@
                 "storage": "1",
                 "varName": "762",
                 "fieldName": "`Best/Highest Pen`",
-                "message": "BP 638 ₽ \nClass 5 - 1-3 shots\nClass 6 - 4-5 shots\n47 Pen - 58 Damage\nRecoil +5%\nAccuracy -3%\nPrapor LL3 \nThe Punisher - Part 3",
+                "message": "`BP` 638 ₽ \nClass 5 - 1-3 shots\nClass 6 - 4-5 shots\n47 Pen - 58 Damage\nRecoil +5%\nAccuracy -3%\nPrapor LL3 \nThe Punisher - Part 3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -266,7 +266,7 @@
                 "storage": "1",
                 "varName": "762",
                 "fieldName": "`Highest Flesh`",
-                "message": "HP 62 ₽\n15 Pen - 83 Damage\nAccuracy -5%\nJaeger LL2",
+                "message": "`HP` 62 ₽\n15 Pen - 83 Damage\nAccuracy -5%\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -274,7 +274,7 @@
                 "storage": "1",
                 "varName": "762",
                 "fieldName": "`Budget`",
-                "message": "PS 87 ₽\nClass 4 - 2-4 shots\nClass 5 - 5-7 shots\n34 Pen - 54 Damage\nPrapor LL1\n",
+                "message": "`PS` 87 ₽\nClass 4 - 2-4 shots\nClass 5 - 5-7 shots\n34 Pen - 54 Damage\nPrapor LL1\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -309,7 +309,7 @@
                 "storage": "1",
                 "varName": "n762",
                 "fieldName": "```Best```",
-                "message": "M62 (if you buy ≥ 10 )\n4.2 $ Per Unit \nClass 5 - 1 shot\nClass 6 - 1-3 shots \n54 Pen - 79 Damage\nPeacekeeper LL3 \nSpa Tour - Part 6",
+                "message": "`M62` (if you buy ≥ 10 )\n4.2 $ Per Unit \nClass 5 - 1 shot\nClass 6 - 1-3 shots \n54 Pen - 79 Damage\nPeacekeeper LL3 \nSpa Tour - Part 6",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -317,7 +317,7 @@
                 "storage": "1",
                 "varName": "n762",
                 "fieldName": "```Highest Flesh```",
-                "message": "Ultra Nosler 327 ₽\n15 Pen - 102 Damage\nRecoil -5%\nAccuracy +5%\nJaeger LL4",
+                "message": "`Ultra Nosler` 327 ₽\n15 Pen - 102 Damage\nRecoil -5%\nAccuracy +5%\nJaeger LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -325,7 +325,7 @@
                 "storage": "1",
                 "varName": "n762",
                 "fieldName": "```Highest Pen```",
-                "message": "M61 10 $\nClass 6 - 1 shot\n68 Pen - 70 Damage\nRecoil +10%\nAccuracy +3%\nPeacekeeper LL4 \nWet Job - Part 6",
+                "message": "`M61` 10 $\nClass 6 - 1 shot\n68 Pen - 70 Damage\nRecoil +10%\nAccuracy +3%\nPeacekeeper LL4 \nWet Job - Part 6",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -333,7 +333,7 @@
                 "storage": "1",
                 "varName": "n762",
                 "fieldName": "```Budget 1```",
-                "message": "M80 (if you buy ≥ 50)\n1.8 $ Per Unit \nClass 5 - 1-3 shots\nClass 6 - 3-5 shots\n41 Pen - 80 Damage\nPeacekeeper LL2\n",
+                "message": "`M80` (if you buy ≥ 50)\n1.8 $ Per Unit \nClass 5 - 1-3 shots\nClass 6 - 3-5 shots\n41 Pen - 80 Damage\nPeacekeeper LL2\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -341,7 +341,7 @@
                 "storage": "1",
                 "varName": "n762",
                 "fieldName": "```Budget 2```",
-                "message": "BPZ FMJ 153 ₽\n31 Pen - 88 Damage\nClass 4 - 3-6 shots\nClass 5 - 10-12 shots\nRecoil -3%\nJaeger LL2",
+                "message": "`BPZ FMJ` 153 ₽\n31 Pen - 88 Damage\nClass 4 - 3-6 shots\nClass 5 - 10-12 shots\nRecoil -3%\nJaeger LL2",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -376,7 +376,7 @@
                 "storage": "1",
                 "varName": "r762",
                 "fieldName": "```Highest Pen```",
-                "message": "7N37 956 ₽\nClass 6 - 1 shot\n72 Pen - 70 Damage\nPrapor LL4",
+                "message": "`7N37` 956 ₽\nClass 6 - 1 shot\n72 Pen - 70 Damage\nPrapor LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -384,7 +384,7 @@
                 "storage": "1",
                 "varName": "r762",
                 "fieldName": "```Best/Highest Flesh```",
-                "message": "7N1 570 ₽\nClass 5 - 1-3 shots\nClass 6 - 3-4 shots\n45 Pen - 86 Damage\nRecoil +8%\nAccuracy +10%\nPrapor LL3\n",
+                "message": "`7N1` 570 ₽\nClass 5 - 1-3 shots\nClass 6 - 3-4 shots\n45 Pen - 86 Damage\nRecoil +8%\nAccuracy +10%\nPrapor LL3\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -392,7 +392,7 @@
                 "storage": "1",
                 "varName": "r762",
                 "fieldName": "```Budget```",
-                "message": "LPS Gzh 179 ₽\nClass 5 - 2-3 shots\nClass 6 - 3-5 shots\n42 Pen - 81 Damage\nPrapor LL1\n",
+                "message": "`LPS Gzh` 179 ₽\nClass 5 - 2-3 shots\nClass 6 - 3-5 shots\n42 Pen - 81 Damage\nPrapor LL1\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -427,7 +427,7 @@
                 "storage": "1",
                 "varName": "918",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "PMM 144 ₽\nClass 3 - 2-5 shots\nClass 4 - 5-10 shots\n25 Pen - 56 Damage\nRecoil +5%\nPrapor LL3",
+                "message": "`PMM` 144 ₽\nClass 3 - 2-5 shots\nClass 4 - 5-10 shots\n25 Pen - 56 Damage\nRecoil +5%\nPrapor LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -435,7 +435,7 @@
                 "storage": "1",
                 "varName": "918",
                 "fieldName": "```Highest Flesh```",
-                "message": "SP7 gzh 158 ₽\n2 Pen - 77 Damage\nPrapor LL3",
+                "message": "`SP7 gzh` 158 ₽\n2 Pen - 77 Damage\nPrapor LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -443,7 +443,7 @@
                 "storage": "1",
                 "varName": "918",
                 "fieldName": "```Budget 1```",
-                "message": "SP8 66 ₽\n1 Pen - 67 Damage\nPrapor LL3",
+                "message": "`SP8 gzh` 66 ₽\n1 Pen - 67 Damage\nPrapor LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -451,7 +451,7 @@
                 "storage": "1",
                 "varName": "918",
                 "fieldName": "```Budget 2```",
-                "message": "PSV 71 ₽\n3 Pen - 69 Damage\nJaeger LL2",
+                "message": "`PSV` 71 ₽\n3 Pen - 69 Damage\nJaeger LL2",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -486,7 +486,7 @@
                 "storage": "1",
                 "varName": "919",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "AP 6.3 (if you buy ≥ 100)\n4.55 $\nClass 3 - 2-5 shots\nClass 4 - 5-8 shots\n25 Pen - 52 Damage\nPeacekeeper LL3\n",
+                "message": "`AP 6.3` (if you buy ≥ 100)\n4.55 $\nClass 3 - 2-5 shots\nClass 4 - 5-8 shots\n25 Pen - 52 Damage\nPeacekeeper LL3\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -494,7 +494,7 @@
                 "storage": "1",
                 "varName": "919",
                 "fieldName": "```Highest Flesh```",
-                "message": "RIP\n10/02-20 Flea Market Price:\nApprox 700 ₽ Per Unit\n2 Pen - 102 Damage\nRecoil +20%\nFM | AI | FIR | Crafting\nSkier LL4 Barter\n2x Chainlets -> 20 bullets\n",
+                "message": "`RIP`\n10/02-20 Flea Market Price:\nApprox 700 ₽ Per Unit\n2 Pen - 102 Damage\nRecoil +20%\nFM | AI | FIR | Crafting\nSkier LL4 Barter\n2x Chainlets -> 20 bullets\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -502,7 +502,7 @@
                 "storage": "1",
                 "varName": "919",
                 "fieldName": "```Budget Pen```",
-                "message": "Pst gzh (if you buy ≥ 50)\n0.62 $ Per Unit or 65 ₽ \nClass 2 - 3-5 shots\nClass 3 - Magdump\n18 Pen - 54 Damage\nPeacekeeper LL2/Prapor LL2/Mechanic LL1",
+                "message": "`Pst gzh` (if you buy ≥ 50)\n0.62 $ Per Unit or 65 ₽ \nClass 2 - 3-5 shots\nClass 3 - Magdump\n18 Pen - 54 Damage\nPeacekeeper LL2/Prapor LL2/Mechanic LL1",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -510,7 +510,7 @@
                 "storage": "1",
                 "varName": "919",
                 "fieldName": "```Alternative Flesh```",
-                "message": "Luger CCI 350 ₽\n10 Pen - 70 Damage\nSkier LL4\n",
+                "message": "`Luger CCI` 350 ₽\n10 Pen - 70 Damage\nSkier LL4\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -545,7 +545,7 @@
                 "storage": "1",
                 "varName": "921",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "SP13 251 ₽\nClass 4 - 2-3 shots\nClass 5 - 5-7 shots\n36 Pen - 62 Damage\nPrapor LL4\n",
+                "message": "`SP13` 251 ₽\nClass 4 - 2-3 shots\nClass 5 - 5-7 shots\n36 Pen - 62 Damage\nPrapor LL4\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -553,7 +553,7 @@
                 "storage": "1",
                 "varName": "921",
                 "fieldName": "```Highest Flesh```",
-                "message": "SP12 205 ₽\n14 Pen - 75 Damage\nPrapor LL3",
+                "message": "`SP12` 205 ₽\n14 Pen - 75 Damage\nPrapor LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -561,7 +561,7 @@
                 "storage": "1",
                 "varName": "921",
                 "fieldName": "```Budget```",
-                "message": "SP10 146 ₽ \nClass 3 - 1 shot\nClass 4 - 3-5 shots\n32 Pen - 49 Damage\nPrapor LL4",
+                "message": "`SP10` 146 ₽ \nClass 3 - 1 shot\nClass 4 - 3-5 shots\n32 Pen - 49 Damage\nPrapor LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -596,7 +596,7 @@
                 "storage": "1",
                 "varName": "939",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "7N12 BP\n10/02-20 Flea Market Price:\n1490 ₽ - 1500 ₽ Per Unit\nClass 5 - 1 shot\nClass 6 - 3-4 shots\n50 Pen - 60 Damage\nAccuracy +15% \nRecoil +5%\nFM | AI | FIR | Crafting\nPrapor LL4 Barter after Grenadier \n1x strike -> 8 bullets",
+                "message": "`7N12 BP`\n10/02-20 Flea Market Price:\n1490 ₽ - 1500 ₽ Per Unit\nClass 5 - 1 shot\nClass 6 - 3-4 shots\n50 Pen - 60 Damage\nAccuracy +15% \nRecoil +5%\nFM | AI | FIR | Crafting\nPrapor LL4 Barter after Grenadier \n1x strike -> 8 bullets",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -604,7 +604,7 @@
                 "storage": "1",
                 "varName": "939",
                 "fieldName": "```Highest Flesh```",
-                "message": "SP-5 142 ₽\nClass 4 - 3-5 shots\nClass 5 - 7-8 shots\n35 Pen - 68 Damage\nPrapor LL2",
+                "message": "`SP-5` 142 ₽\nClass 4 - 3-5 shots\nClass 5 - 7-8 shots\n35 Pen - 68 Damage\nPrapor LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -612,7 +612,7 @@
                 "storage": "1",
                 "varName": "939",
                 "fieldName": "```Alternative 1```",
-                "message": "SP-6 615 ₽\nClass 5 - 2-4 shots\nClass 6 - 5-6 shots\n43 Pen - 58 Damage\nRecoil +7%\nPrapor LL3",
+                "message": "`SP-6` 615 ₽\nClass 5 - 2-4 shots\nClass 6 - 5-6 shots\n43 Pen - 58 Damage\nRecoil +7%\nPrapor LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -620,7 +620,7 @@
                 "storage": "1",
                 "varName": "939",
                 "fieldName": "```Alternative 2```",
-                "message": "7N9 SPP 857 ₽\nClass 5 - 1-3 shots\nClass 6 - 4-6 shots\n45 Pen - 67 Damage\nAccuracy +10%\nRecoil +5%\nPrapor LL4",
+                "message": "`7N9 SPP` 857 ₽\nClass 5 - 1-3 shots\nClass 6 - 4-6 shots\n45 Pen - 67 Damage\nAccuracy +10%\nRecoil +5%\nPrapor LL4",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -655,7 +655,7 @@
                 "storage": "1",
                 "varName": "12gb",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "Flechette 77 ₽\nClass 4 - 2-3 shots\nClass 5 - 3-4 shots\n28 Pen - 19 x 8 Damage \nAccuracy -25%\nJaeger LL3\n",
+                "message": "`Flechette` 77 ₽\nClass 4 - 2-3 shots\nClass 5 - 3-4 shots\n28 Pen - 19 x 8 Damage \nAccuracy -25%\nJaeger LL3\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -663,7 +663,7 @@
                 "storage": "1",
                 "varName": "12gb",
                 "fieldName": "```Highest Flesh```",
-                "message": "8.5 mm “Magnum” 51 ₽\n2 Pen - 44 x 8 Damage \nRecoil +115%\nAccuracy -15%\nJaeger LL2\n",
+                "message": "`8.5 mm “Magnum”` 51 ₽\n2 Pen - 44 x 8 Damage \nRecoil +115%\nAccuracy -15%\nJaeger LL2\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -671,7 +671,7 @@
                 "storage": "1",
                 "varName": "12gb",
                 "fieldName": "```Budget/Low Level```",
-                "message": "7mm 31 ₽\n3 Pen - 32 x 8 Damage \nJaeger LL1/Prapor LL1",
+                "message": "`7mm` 31 ₽\n3 Pen - 32 x 8 Damage \nJaeger LL1/Prapor LL1",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -706,7 +706,7 @@
                 "storage": "1",
                 "varName": "12gs",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "AP-20 182 ₽ \nClass 4 - 2-3 shots\nClass 5 - 5-6 shots\n32 Pen - 164 Damage\nRecoil +50%\nAccuracy +125%\nJaeger LL4",
+                "message": "`AP-20` 182 ₽ \nClass 4 - 2-3 shots\nClass 5 - 5-6 shots\n32 Pen - 164 Damage\nRecoil +50%\nAccuracy +125%\nJaeger LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -714,7 +714,7 @@
                 "storage": "1",
                 "varName": "12gs",
                 "fieldName": "```Highest Flesh```",
-                "message": "RIP\n10/02-20 Flea Market Price:\n1000 ₽ - 2000 ₽ Per Unit\n0 Pen - 235 Damage\nAccuracy +80%\nRecoil +35%\nFM | AI | FIR | Crafting\nSkier LL3 Barter after Bullshit\n1x T-plug -> 5 slugs",
+                "message": "`RIP`\n10/02-20 Flea Market Price:\n1000 ₽ - 2000 ₽ Per Unit\n0 Pen - 235 Damage\nAccuracy +80%\nRecoil +35%\nFM | AI | FIR | Crafting\nSkier LL3 Barter after Bullshit\n1x T-plug -> 5 slugs",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -722,7 +722,7 @@
                 "storage": "1",
                 "varName": "12gb",
                 "fieldName": "```Budget```",
-                "message": "Poleva-6u 70 ₽\nClass 2 - 1 shot\nClass 3 -  3-8 shots\n20 Pen - 140 Damage\nRecoil -10%\nAccuracy +95%\nJaeger LL2\n",
+                "message": "`Poleva-6u` 70 ₽\nClass 2 - 1 shot\nClass 3 -  3-8 shots\n20 Pen - 140 Damage\nRecoil -10%\nAccuracy +95%\nJaeger LL2\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -757,7 +757,7 @@
                 "storage": "1",
                 "varName": "20gb",
                 "fieldName": "```Best/Highest Flesh```",
-                "message": "7.3mm 39 ₽\n3 Pen - 22 damage x 9\nRecoil +15%\nJaeger LL2",
+                "message": "`7.3mm` 39 ₽\n3 Pen - 22 damage x 9\nRecoil +15%\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -792,7 +792,7 @@
                 "storage": "1",
                 "varName": "20gs",
                 "fieldName": "```Best/Highest Flesh```",
-                "message": "Devastator Slug 184 ₽\n4 Pen - 188 Damage\nRecoil +30%\nAccuracy +115%\nJaeger LL3\n",
+                "message": "`Devastator Slug` 184 ₽\n4 Pen - 188 Damage\nRecoil +30%\nAccuracy +115%\nJaeger LL3\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -800,7 +800,7 @@
                 "storage": "1",
                 "varName": "20gs",
                 "fieldName": "```Highest Pen```",
-                "message": "Poleva-6u 67 ₽\nClass 2 50/50 chance 1-10 shots\n17 pen - 120 Damage\nRecoil -10%\nAccuracy +95%\nJaeger LL2",
+                "message": "`Poleva-6u` 67 ₽\nClass 2 50/50 chance 1-10 shots\n17 pen - 120 Damage\nRecoil -10%\nAccuracy +95%\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -835,7 +835,7 @@
                 "storage": "1",
                 "varName": "762tt",
                 "fieldName": "```Best/Highest Flesh```",
-                "message": "LRNPC 70 ₽\n5 Pen - 66 Damage\nJaeger LL2",
+                "message": "`LRNPC` 70 ₽\n5 Pen - 66 Damage\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -843,7 +843,7 @@
                 "storage": "1",
                 "varName": "762tt",
                 "fieldName": "```Highest Pen```",
-                "message": "Pst gzh 73 ₽\nClass 2 - 1 shot\nClass 3 - 3-6 \n24 Pen - 50 Damage\nPrapor LL3",
+                "message": "`Pst gzh` 73 ₽\nClass 2 - 1 shot\nClass 3 - 3-6 \n24 Pen - 50 Damage\nPrapor LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -878,7 +878,7 @@
                 "storage": "1",
                 "varName": "366",
                 "fieldName": "```Best/Highest Flesh```",
-                "message": "Geksa 59 ₽\n14 Pen - 80 Damage\nJaeger LL2",
+                "message": "`Geksa` 59 ₽\n14 Pen - 80 Damage\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -886,7 +886,7 @@
                 "storage": "1",
                 "varName": "366",
                 "fieldName": "```Highest Pen```",
-                "message": "EKO 87 ₽\nClass 2 - 1 shot\nClass 3 - 1-4 shots \n30 Pen - 65 Damage\nRecoil -15%\nAccuracy -10%\nJaeger LL2",
+                "message": "`EKO` 87 ₽\nClass 2 - 1 shot\nClass 3 - 1-4 shots \n30 Pen - 65 Damage\nRecoil -15%\nAccuracy -10%\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -921,7 +921,7 @@
                 "storage": "1",
                 "varName": "127",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "PS12b 592 ₽\nClass 5 - 1-3 shots\nClass 6 - 3-5 shots\n46 Pen - 102 Damage\nRecoil +15%\nPrapor LL4",
+                "message": "`PS12b` 592 ₽\nClass 5 - 1-3 shots\nClass 6 - 3-5 shots\n46 Pen - 102 Damage\nRecoil +15%\nPrapor LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -929,7 +929,7 @@
                 "storage": "1",
                 "varName": "127",
                 "fieldName": "```Highest Flesh```",
-                "message": "PS12a 292 ₽\n10 Pen - 165 Damage\nRecoil +7%\nAccuracy -15%\nPrapor LL4\n",
+                "message": "`PS12a` 292 ₽\n10 Pen - 165 Damage\nRecoil +7%\nAccuracy -15%\nPrapor LL4\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -937,7 +937,7 @@
                 "storage": "1",
                 "varName": "127",
                 "fieldName": "```Alternative```",
-                "message": "PS12 354 ₽\nClass 3 - 1-3 shots\nClass 4 - 3-5 shots\n28 Pen - 115 Damage\nRecoil +10%\nPrapor LL4\n",
+                "message": "`PS12` 354 ₽\nClass 3 - 1-3 shots\nClass 4 - 3-5 shots\n28 Pen - 115 Damage\nRecoil +10%\nPrapor LL4\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1007,7 +1007,7 @@
                 "storage": "1",
                 "varName": "class2",
                 "fieldName": "The Worst Class",
-                "message": "PACA\nArea: Thorax + Stomach\nTrue Durability/Durability: 200/50\nRepairability: Good\nPenalties: MoveSp -6% | TurnSp -5% | Ergo -6\nRagman LL1 18706 ₽ | Peacekeeper LL2 190 $\n\nModule-3M\nArea: Thorax + Stomach \nTrue Durability/Durability: 160/40\nRepairability: Good\nPenalties: MoveSp -7% | TurnSp -6% | Ergo -4\nNo trader price.\n\n6B2\nArea: Thorax + Stomach\nTrue Durability/Durability: 145/80\nRepairability: Good\nPenalties: MoveSp -6%  | TurnSp -3%  | Ergo -7 \nRagman LL2 27122 ₽",
+                "message": "`PACA`\nArea: Thorax + Stomach\nTrue Durability/Durability: 200/50\nRepairability: Good\nPenalties: MoveSp -6% | TurnSp -5% | Ergo -6\nRagman LL1 18706 ₽ | Peacekeeper LL2 190 $\n\n`Module-3M`\nArea: Thorax + Stomach \nTrue Durability/Durability: 160/40\nRepairability: Good\nPenalties: MoveSp -7% | TurnSp -6% | Ergo -4\nNo trader price.\n\n`6B2`\nArea: Thorax + Stomach\nTrue Durability/Durability: 145/80\nRepairability: Good\nPenalties: MoveSp -6%  | TurnSp -3%  | Ergo -7 \nRagman LL2 27122 ₽",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1042,7 +1042,7 @@
                 "storage": "1",
                 "varName": "class3",
                 "fieldName": "Budget Class",
-                "message": "MF-Untar \nArea: Thorax + Stomach\nTrue Durability/Durability: 75/45\nRepairability: Good\nPenalties: MoveSp -18%  | TurnSp -6%  | Ergo -8 \nPeacekeeper LL2 406 $ \n\n6B23-1 \nArea: Thorax + Stomach\nTrue Durability/Durability: 86/60\nRepairability: Very Good\nPenalties: MoveSp -11%  | TurnSp -5%  | Ergo -9 \nRagman LL2 42315 ₽\n\nZhuk-3 Press\nArea: Thorax + Stomach\nTrue Durability/Durability: 111/50\nRepairability: Very Good\nPenalties: MoveSp -10%  | TurnSp -4%  | Ergo -5 \nNo trader price.\n\nBNTI Kirasa-N\nArea: Thorax + Stomach\nTrue Durability/Durability: 140/70\nRepairability: OK\nPenalties: MoveSp -8%  | TurnSp -5%  | Ergo -6 \nRagman LL3 61064 ₽\n\n6B5-15 Zh-86 \"Uley\" Rig (Armored Rig)\nArea: Thorax + Stomach\nTrue Durability/Durability: 145/80\nRepairability: Good\nPenalties: MoveSp -9%  | TurnSp -5%  | Ergo -12 \nNo trader price.",
+                "message": "`MF-Untar` \nArea: Thorax + Stomach\nTrue Durability/Durability: 75/45\nRepairability: Good\nPenalties: MoveSp -18%  | TurnSp -6%  | Ergo -8 \nPeacekeeper LL2 406 $ \n\n`6B23-1` \nArea: Thorax + Stomach\nTrue Durability/Durability: 86/60\nRepairability: Very Good\nPenalties: MoveSp -11%  | TurnSp -5%  | Ergo -9 \nRagman LL2 42315 ₽\n\n`Zhuk-3 Press`\nArea: Thorax + Stomach\nTrue Durability/Durability: 111/50\nRepairability: Very Good\nPenalties: MoveSp -10%  | TurnSp -4%  | Ergo -5 \nNo trader price.\n\n`BNTI Kirasa-N`\nArea: Thorax + Stomach\nTrue Durability/Durability: 140/70\nRepairability: OK\nPenalties: MoveSp -8%  | TurnSp -5%  | Ergo -6 \nRagman LL3 61064 ₽\n\n`6B5-15 Zh-86 \"Uley\" Rig (Armored Rig)`\nArea: Thorax + Stomach\nTrue Durability/Durability: 145/80\nRepairability: Good\nPenalties: MoveSp -9%  | TurnSp -5%  | Ergo -12 \nNo trader price.",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1077,7 +1077,7 @@
                 "storage": "1",
                 "varName": "class4",
                 "fieldName": "Decent Class",
-                "message": "6B13\nArea: Thorax + Stomach\nTrue Durability/Durability: 59/47\nRepairability: Bad \nPenalties: MoveSp -12%  | TurnSp -3%  | Ergo -5 \nRagman LL3 64155 ₽\n\n6B23-2\nArea: Thorax + Stomach\nTrue Durability/Durability: 69/55\nRepairability: Bad\nPenalties: MoveSp -11%  | TurnSp -3%  | Ergo -9 \nRagman LL3 71925 ₽ \n\nHighcom Trooper TFO\nArea: Thorax\nTrue Durability/Durability: 156/70\nRepairability: Very Good\nPenalties: MoveSp -9%  | TurnSp -5%  | Ergo -3 \nNo trader price.",
+                "message": "`6B13`\nArea: Thorax + Stomach\nTrue Durability/Durability: 59/47\nRepairability: Bad \nPenalties: MoveSp -12%  | TurnSp -3%  | Ergo -5 \nRagman LL3 64155 ₽\n\n`6B23-2`\nArea: Thorax + Stomach\nTrue Durability/Durability: 69/55\nRepairability: Bad\nPenalties: MoveSp -11%  | TurnSp -3%  | Ergo -9 \nRagman LL3 71925 ₽ \n\n`Highcom Trooper TFO`\nArea: Thorax\nTrue Durability/Durability: 156/70\nRepairability: Very Good\nPenalties: MoveSp -9%  | TurnSp -5%  | Ergo -3 \nNo trader price.",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1085,7 +1085,7 @@
                 "storage": "1",
                 "varName": "class4",
                 "fieldName": "Armored Rigs",
-                "message": "6B3TM-01M \nSlots: 12\nArea: Thorax + Stomach\nTrue Durability/Durability: 73/40\nRepairability: Good\nPenalties: MoveSp -10%  | TurnSp -5%  | Ergo -15 \nNo trader price.\n\nANA Tactical M2 Armored Rig\nSlots: 18\nArea: Thorax + Stomach\nTrue Durability/Durability: 109/60\nRepairability: Good\nPenalties: MoveSp -8%  | TurnSp -5%  | Ergo -2 \nNo trader price. \n\nANA Tactical M1 Armored Rig\nSlots: 20\nArea: Thorax + Stomach\nTrue Durability/Durability: 118/65\nRepairability: Good\nPenalties: MoveSp -10%  | TurnSp -5%  | Ergo -5 \nNo trader price.\n\nWartech TV-110 Plate Carrier \nSlots: 23\nArea: Thorax \nTrue Durability/Durability: 121/85\nRepairability: Very Good\nPenalties: MoveSp -6%  | TurnSp -4%  | Ergo -5 \nRagman LL4 95760 ₽ \n\nCrye Precision AVS \nSlots: 23\nArea: Thorax + Stomach\nTrue Durability/Durability: 140/70\nRepairability: OK\nPenalties: MoveSp -10%  | TurnSp -2%  | Ergo -2 \nNo trader price.\n",
+                "message": "`6B3TM-01M` \nSlots: 12\nArea: Thorax + Stomach\nTrue Durability/Durability: 73/40\nRepairability: Good\nPenalties: MoveSp -10%  | TurnSp -5%  | Ergo -15 \nNo trader price.\n\n`ANA Tactical M2 Armored Rig`\nSlots: 18\nArea: Thorax + Stomach\nTrue Durability/Durability: 109/60\nRepairability: Good\nPenalties: MoveSp -8%  | TurnSp -5%  | Ergo -2 \nNo trader price. \n\n`ANA Tactical M1 Armored Rig`\nSlots: 20\nArea: Thorax + Stomach\nTrue Durability/Durability: 118/65\nRepairability: Good\nPenalties: MoveSp -10%  | TurnSp -5%  | Ergo -5 \nNo trader price.\n\n`Wartech TV-110 Plate Carrier` \nSlots: 23\nArea: Thorax \nTrue Durability/Durability: 121/85\nRepairability: Very Good\nPenalties: MoveSp -6%  | TurnSp -4%  | Ergo -5 \nRagman LL4 95760 ₽ \n\n`Crye Precision AVS` \nSlots: 23\nArea: Thorax + Stomach\nTrue Durability/Durability: 140/70\nRepairability: OK\nPenalties: MoveSp -10%  | TurnSp -2%  | Ergo -2 \nNo trader price.\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1093,7 +1093,7 @@
                 "storage": "1",
                 "varName": "class4",
                 "fieldName": "Armored Rigs Continued",
-                "message": "Ars Arma A18 Skanda Plate Carrier (Armored Rig)\nSlots: 25\nArea: Thorax \nTrue Durability/Durability: 160/80\nRepairability: Ok \nPenalties: MoveSp -7%  | TurnSp -4%  | Ergo -6 \nNo trader price.",
+                "message": "`Ars Arma A18 Skanda Plate Carrier (Armored Rig)`\nSlots: 25\nArea: Thorax \nTrue Durability/Durability: 160/80\nRepairability: Ok \nPenalties: MoveSp -7%  | TurnSp -4%  | Ergo -6 \nNo trader price.",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1128,7 +1128,7 @@
                 "storage": "1",
                 "varName": "class5",
                 "fieldName": "Scav Homie think this is the best class",
-                "message": "5.11 Tactec Plate Carrier\nSlots: 18\nArea: Thorax \nTrue Durability/Durability: 111/50\nRepairability: Very Good\nPenalties: MoveSp -7%  | TurnSp -3%  | Ergo -3 \nNo trader price.\n\nIOTV Gen4 HMK\nArea: Thorax + Stomach\nTrue Durability/Durability: 113/62\nRepairability: Good\nPenalties: MoveSp -11%  | TurnSp -15%  | Ergo -11 \nNo trader price.\n\nFORT Redut-M\nArea: Thorax + Stomach\nTrue Durability/Durability: 114/57\nRepairability: OK\nPenalties: MoveSp -13%  | TurnSp -12%  | Ergo -11 \nRagman LL3 226838 ₽ \n\nIOTV Gen4 Assault\nArea: Thorax + Stomach + Arms\nTrue Durability/Durability: 124/68\nRepairability: Good\nPenalties: MoveSp -17%  | TurnSp -9%  | Ergo -8 \nNo trader price.\n\n6B13 M Assault\nArea: Thorax + Stomach\nTrue Durability/Durability: 133/60\nRepairability: Very Good \nPenalties: MoveSp -9%  | TurnSp -3%  | Ergo -5 \nNo trader price. Scav Boss Armor (Killa)\n",
+                "message": "`5.11 Tactec Plate Carrier`\nSlots: 18\nArea: Thorax \nTrue Durability/Durability: 111/50\nRepairability: Very Good\nPenalties: MoveSp -7%  | TurnSp -3%  | Ergo -3 \nNo trader price.\n\n`IOTV Gen4 HMK`\nArea: Thorax + Stomach\nTrue Durability/Durability: 113/62\nRepairability: Good\nPenalties: MoveSp -11%  | TurnSp -15%  | Ergo -11 \nNo trader price.\n\n`FORT Redut-M`\nArea: Thorax + Stomach\nTrue Durability/Durability: 114/57\nRepairability: OK\nPenalties: MoveSp -13%  | TurnSp -12%  | Ergo -11 \nRagman LL3 226838 ₽ \n\n`IOTV Gen4 Assault`\nArea: Thorax + Stomach + Arms\nTrue Durability/Durability: 124/68\nRepairability: Good\nPenalties: MoveSp -17%  | TurnSp -9%  | Ergo -8 \nNo trader price.\n\n`6B13 M Assault`\nArea: Thorax + Stomach\nTrue Durability/Durability: 133/60\nRepairability: Very Good \nPenalties: MoveSp -9%  | TurnSp -3%  | Ergo -5 \nNo trader price. Scav Boss Armor (Killa)\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1136,7 +1136,7 @@
                 "storage": "1",
                 "varName": "class5",
                 "fieldName": "Class 5",
-                "message": "IOTV Gen4 Full\nArea: Thorax + Stomach + Arms\nTrue Durability/Durability: 145/80\nRepairability: Good\nPenalties: MoveSp -33%  | TurnSp -15%  | Ergo -18 \nNo trader price.\n\nFORT Redut-T5\nArea: Thorax + Stomach + Arms\nTrue Durability/Durability: 190/95\nRepairability: OK \nPenalties: MoveSp -37%  | TurnSp -15%  | Ergo -14 \nNo trader price.\n\nBNTI Gzhel-K\nArea: Thorax + Stomach\nTrue Durability/Durability: 82/65\nRepairability: Bad\nPenalties: MoveSp -10%  | TurnSp -3%  | Ergo -4 \nRagman LL3 after \"Supervisor\" 119521 ₽ ",
+                "message": "`IOTV Gen4 Full`\nArea: Thorax + Stomach + Arms\nTrue Durability/Durability: 145/80\nRepairability: Good\nPenalties: MoveSp -33%  | TurnSp -15%  | Ergo -18 \nNo trader price.\n\n`FORT Redut-T5`\nArea: Thorax + Stomach + Arms\nTrue Durability/Durability: 190/95\nRepairability: OK \nPenalties: MoveSp -37%  | TurnSp -15%  | Ergo -14 \nNo trader price.\n\n`BNTI Gzhel-K`\nArea: Thorax + Stomach\nTrue Durability/Durability: 82/65\nRepairability: Bad\nPenalties: MoveSp -10%  | TurnSp -3%  | Ergo -4 \nRagman LL3 after \"Supervisor\" 119521 ₽ ",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1171,7 +1171,7 @@
                 "storage": "1",
                 "varName": "class6",
                 "fieldName": "Highest Class",
-                "message": "Zhuk-6a Heavy\nArea: Thorax + Stomach\nTrue Durability/Durability: 94/75\nRepairability: Bad\nPenalties: MoveSp -13%  | TurnSp -5%  | Ergo -6 \nNo trader price.\n\n6B43 Zabralo-Sh 6A (Fort)\nArea: Thorax + Stomach + Arms\nTrue Durability/Durability: 150/75\nRepairability: OK\nPenalties: MoveSp -40%  | TurnSp -18%  | Ergo -27 \nNo trader price.",
+                "message": "`Zhuk-6a Heavy`\nArea: Thorax + Stomach\nTrue Durability/Durability: 94/75\nRepairability: Bad\nPenalties: MoveSp -13%  | TurnSp -5%  | Ergo -6 \nNo trader price.\n\n`6B43 Zabralo-Sh 6A (Fort)`\nArea: Thorax + Stomach + Arms\nTrue Durability/Durability: 150/75\nRepairability: OK\nPenalties: MoveSp -40%  | TurnSp -18%  | Ergo -27 \nNo trader price.",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
