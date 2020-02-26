@@ -73,7 +73,7 @@
         "restriction": "1",
         "actions": [
             {
-                "title": "5.56x45mm",
+                "title": "```css 5.56x45mm```",
                 "author": "",
                 "color": "",
                 "timestamp": "false",
@@ -89,7 +89,7 @@
                 "storage": "1",
                 "varName": "556",
                 "fieldName": "Best/Highest Pen",
-                "message": "M995 14 $ \nClass 5 - 1 shot\nClass 6 - 1-3 shots\n53 Pen - 41 Damage\nRecoil +8\nPeacekeeper LL4",
+                "message": "```M995``` 14 $ \nClass 5 - 1 shot\nClass 6 - 1-3 shots\n```53 Pen - 41 Damage```\nRecoil +8\nPeacekeeper LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -97,7 +97,7 @@
                 "storage": "1",
                 "varName": "556",
                 "fieldName": "Highest Flesh",
-                "message": "```Warmage```\n10/02-20 Flea Market Price:\n690 ₽ - 770 ₽ Per Unit\n3 Pen - 85 Damage\nRecoil +10%\nAccuracy +10%\nFM | AI | FIR | Crafting\n",
+                "message": "```Warmage```\n10/02-20 Flea Market Price:\n690 ₽ - 770 ₽ Per Unit\n```3 Pen - 85 Damage```\nRecoil +10%\nAccuracy +10%\nFM | AI | FIR | Crafting\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -105,7 +105,7 @@
                 "storage": "1",
                 "varName": "556",
                 "fieldName": "Budget 1",
-                "message": "M855A1 (if you buy ≥ 50)\n2.22 $ Per Unit  \nClass 5 - 3-5 shots\nClass 6 - 6-7 shots\n40 Pen - 44 Damage\nAccuracy -7%\nPeacekeeper LL3",
+                "message": "```M855A1``` (if you buy ≥ 50)\n2.22 $ Per Unit  \nClass 5 - 3-5 shots\nClass 6 - 6-7 shots\n```40 Pen - 44 Damage```\nAccuracy -7%\nPeacekeeper LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -113,7 +113,7 @@
                 "storage": "1",
                 "varName": "556",
                 "fieldName": "Budget 2",
-                "message": "M855 (if you buy ≥ 50)\n1.6 $ Per Unit \nClass 3 - 1-4 shots\nClass 4 - 4-5+ shots \n26 Pen - 49 Damage\nAccuracy +5%\nPeacekeeper LL1",
+                "message": "```M855``` (if you buy ≥ 50)\n1.6 $ Per Unit \nClass 3 - 1-4 shots\nClass 4 - 4-5+ shots \n```26 Pen - 49 Damage```\nAccuracy +5%\nPeacekeeper LL1",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
