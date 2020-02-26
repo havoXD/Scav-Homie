@@ -1345,8 +1345,8 @@
             {
                 "storage": "1",
                 "varName": "cmd",
-                "fieldName": "```Undergoing testing```",
-                "message": "Prefix is %\nCredits - my sources and their authors\nWiki - A link to the EFT wiki   \nPenvalues - a little explanation about pen values in EFT\nAmmocmd - Shows ammo commands\nArmorcmd - Shows armor commands\nWeaponcmd - Shows Budget and Best builds \nMaps - Shows map commands\n\n",
+                "fieldName": "Undergoing testing",
+                "message": "Prefix is %\n```Credits``` - my sources and their authors\n```Wiki``` - A link to the EFT wiki   \n```Penvalues``` - a little explanation about pen values in EFT\n```Ammocmd``` - Shows ammo commands\n```Armorcmd``` - Shows armor commands\n```Weaponcmd``` - Shows Budget and Best builds \n```Maps``` - Shows map commands\n\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1354,7 +1354,7 @@
                 "storage": "1",
                 "varName": "cmd",
                 "fieldName": "Bot Version: 1.0.0",
-                "message": "Update - Shows latest update\nAllupdates - Shows all updats since release\nLast Updated: 16/02-20\nBased on game version: 0.12.3.5834",
+                "message": "```Update``` - Shows latest update\n```Allupdates``` - Shows all updats since release\nLast Updated: ```16/02-20```\nBased on game version: ```0.12.3.5834```",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
