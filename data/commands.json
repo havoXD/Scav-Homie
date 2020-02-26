@@ -257,7 +257,7 @@
             {
                 "storage": "1",
                 "varName": "762",
-                "fieldName": "```Best/Highest Pen```",
+                "fieldName": "`Best/Highest Pen`",
                 "message": "BP 638 ₽ \nClass 5 - 1-3 shots\nClass 6 - 4-5 shots\n47 Pen - 58 Damage\nRecoil +5%\nAccuracy -3%\nPrapor LL3 \nThe Punisher - Part 3",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -265,7 +265,7 @@
             {
                 "storage": "1",
                 "varName": "762",
-                "fieldName": "```Highest Flesh```",
+                "fieldName": "`Highest Flesh`",
                 "message": "HP 62 ₽\n15 Pen - 83 Damage\nAccuracy -5%\nJaeger LL2",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -273,7 +273,7 @@
             {
                 "storage": "1",
                 "varName": "762",
-                "fieldName": "```Budget```",
+                "fieldName": "`Budget`",
                 "message": "PS 87 ₽\nClass 4 - 2-4 shots\nClass 5 - 5-7 shots\n34 Pen - 54 Damage\nPrapor LL1\n",
                 "inline": "0",
                 "name": "Add Embed Field"
@@ -1346,7 +1346,7 @@
                 "storage": "1",
                 "varName": "cmd",
                 "fieldName": "Undergoing testing",
-                "message": "Prefix is %\n```Credits``` - my sources and their authors\n```Wiki``` - A link to the EFT wiki   \n```Penvalues``` - a little explanation about pen values in EFT\n```Ammocmd``` - Shows ammo commands\n```Armorcmd``` - Shows armor commands\n```Weaponcmd``` - Shows Budget and Best builds \n```Maps``` - Shows map commands\n\n",
+                "message": "Prefix is %\n`Credits` - my sources and their authors\n`Wiki` - A link to the EFT wiki   \n`Penvalues`- a little explanation about pen values in EFT\n`Ammocmd` - Shows ammo commands\n`Armorcmd` - Shows armor commands\n`Weaponcmd` - Shows Budget and Best builds \n`Maps` - Shows map commands\n\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1354,7 +1354,7 @@
                 "storage": "1",
                 "varName": "cmd",
                 "fieldName": "Bot Version: 1.0.0",
-                "message": "```Update``` - Shows latest update\n```Allupdates``` - Shows all updats since release\nLast Updated: ```16/02-20```\nBased on game version: ```0.12.3.5834```",
+                "message": "`Update` - Shows latest update\n`Allupdates` - Shows all updats since release\nLast Updated: `16/02-20`\nBased on game version: `0.12.3.5834`\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
