@@ -2140,7 +2140,7 @@
                 "storage": "1",
                 "varName": "br74nmods",
                 "fieldName": "Suppressors",
-                "message": "Best Suppressor: PBS-4",
+                "message": "Best Suppressor: `PBS-4`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2215,7 +2215,7 @@
                 "storage": "1",
                 "varName": "aks74u",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BT/BP\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2223,7 +2223,7 @@
                 "storage": "1",
                 "varName": "braks74umods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-4",
+                "message": "Best suppressor: `PBS-4`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2298,7 +2298,7 @@
                 "storage": "1",
                 "varName": "aks74u",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BT/BP\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2306,7 +2306,7 @@
                 "storage": "1",
                 "varName": "braks74umods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-4",
+                "message": "Best suppressor: `PBS-4`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2381,7 +2381,7 @@
                 "storage": "1",
                 "varName": "aks74u",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BT/BP\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2389,7 +2389,7 @@
                 "storage": "1",
                 "varName": "braks74umods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-4",
+                "message": "Best suppressor: `PBS-4`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2464,7 +2464,7 @@
                 "storage": "1",
                 "varName": "braks74n",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BT/BP\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2472,7 +2472,7 @@
                 "storage": "1",
                 "varName": "braks74nmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-4",
+                "message": "Best suppressor: `PBS-4`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2547,7 +2547,7 @@
                 "storage": "1",
                 "varName": "braks74n",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BT/BP\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2555,7 +2555,7 @@
                 "storage": "1",
                 "varName": "braks74nmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-4",
+                "message": "Best suppressor: `PBS-4`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2630,7 +2630,7 @@
                 "storage": "1",
                 "varName": "brak105",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BT/BP\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2638,7 +2638,7 @@
                 "storage": "1",
                 "varName": "brak105mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-4",
+                "message": "Best suppressor: `PBS-4`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2713,7 +2713,7 @@
                 "storage": "1",
                 "varName": "beak105",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BT/BP\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2721,7 +2721,7 @@
                 "storage": "1",
                 "varName": "beak105mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-4",
+                "message": "Best suppressor: `PBS-4`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2796,7 +2796,7 @@
                 "storage": "1",
                 "varName": "brrpk",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BT/BP\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2804,7 +2804,7 @@
                 "storage": "1",
                 "varName": "brrpkstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, change following:\n22\" barrel -> 15\" barrel\nRK-2 -> Fortis Shift",
+                "message": "For best ergo, change following:\n`22\" barrel` -> `15\" barrel`\n`RK-2` -> `Fortis Shift`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2812,7 +2812,7 @@
                 "storage": "1",
                 "varName": "brrpkmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Hexagon AK-74",
+                "message": "Best suppressor: `Hexagon AK-74`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2895,7 +2895,7 @@
                 "storage": "1",
                 "varName": "brak101stats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as AK-74n except the stock.",
+                "message": "For best ergo, same as `AK-74n` except the stock.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2903,7 +2903,7 @@
                 "storage": "1",
                 "varName": "brak101mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Rotor 43",
+                "message": "Best suppressor: `Rotor 43`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2986,7 +2986,7 @@
                 "storage": "1",
                 "varName": "brak102stats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as AK-105.",
+                "message": "For best ergo, same as `AK-105`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2994,7 +2994,7 @@
                 "storage": "1",
                 "varName": "brak102mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Rotor 43",
+                "message": "Best suppressor: `Rotor 43`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3077,7 +3077,7 @@
                 "storage": "1",
                 "varName": "brhk",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3160,7 +3160,7 @@
                 "storage": "1",
                 "varName": "behkmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3243,7 +3243,7 @@
                 "storage": "1",
                 "varName": "brmdrstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, change following:\nRK-2 -> Fortis Shift",
+                "message": "For best ergo, change following:\n`RK-2` -> `Fortis Shift`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3251,7 +3251,7 @@
                 "storage": "1",
                 "varName": "brmdrmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3334,7 +3334,7 @@
                 "storage": "1",
                 "varName": "bradarstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as M4A1.",
+                "message": "For best ergo, same as `M4A1`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3342,7 +3342,7 @@
                 "storage": "1",
                 "varName": "bradarmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3425,7 +3425,7 @@
                 "storage": "1",
                 "varName": "brtx15stats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as M4A1.",
+                "message": "For best ergo, same as `M4A1`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3433,7 +3433,7 @@
                 "storage": "1",
                 "varName": "brtx15mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3508,7 +3508,7 @@
                 "storage": "1",
                 "varName": "brtt",
                 "fieldName": "Ammunition",
-                "message": "Best ammo: TT Pst gzh",
+                "message": "Best ammo: `TT Pst gzh`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -3516,7 +3516,7 @@
                 "storage": "1",
                 "varName": "brttmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Makeshift TT silencer",
+                "message": "Best suppressor: `Makeshift TT silencer`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3591,7 +3591,7 @@
                 "storage": "1",
                 "varName": "brak103",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -3599,7 +3599,7 @@
                 "storage": "1",
                 "varName": "brak103stats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as AK-74N except stock.",
+                "message": "For best ergo, same as `AK-74N` except stock.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3607,7 +3607,7 @@
                 "storage": "1",
                 "varName": "brak103mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-1",
+                "message": "Best suppressor: `PBS-1`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3682,7 +3682,7 @@
                 "storage": "1",
                 "varName": "brak104",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -3690,7 +3690,7 @@
                 "storage": "1",
                 "varName": "brak104stats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as AK-105.",
+                "message": "For best ergo, same as `AK-105`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3698,7 +3698,7 @@
                 "storage": "1",
                 "varName": "brak104mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-1",
+                "message": "Best suppressor: `PBS-1`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3773,7 +3773,7 @@
                 "storage": "1",
                 "varName": "brakm",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -3781,7 +3781,7 @@
                 "storage": "1",
                 "varName": "brakmstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as AK-74N.",
+                "message": "For best ergo, same as `AK-74N`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3789,7 +3789,7 @@
                 "storage": "1",
                 "varName": "brakmmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-1",
+                "message": "Best suppressor: `PBS-1`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3864,7 +3864,7 @@
                 "storage": "1",
                 "varName": "brakm",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -3872,7 +3872,7 @@
                 "storage": "1",
                 "varName": "brakmstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as AK-74N.",
+                "message": "For best ergo, same as `AK-74N`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3880,7 +3880,7 @@
                 "storage": "1",
                 "varName": "brakmmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-1",
+                "message": "Best suppressor: `PBS-1`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3955,7 +3955,7 @@
                 "storage": "1",
                 "varName": "brakm",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -3963,7 +3963,7 @@
                 "storage": "1",
                 "varName": "brakmstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as AK-74N.",
+                "message": "For best ergo, same as `AK-74N`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3971,7 +3971,7 @@
                 "storage": "1",
                 "varName": "brakmmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-1",
+                "message": "Best suppressor: `PBS-1`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4046,7 +4046,7 @@
                 "storage": "1",
                 "varName": "brakm",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -4054,7 +4054,7 @@
                 "storage": "1",
                 "varName": "brakmstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as AK-74N except stock.",
+                "message": "For best ergo, same as `AK-74N` except stock.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4062,7 +4062,7 @@
                 "storage": "1",
                 "varName": "brakmmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-1",
+                "message": "Best suppressor: `PBS-1`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4137,7 +4137,7 @@
                 "storage": "1",
                 "varName": "brakm",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -4145,7 +4145,7 @@
                 "storage": "1",
                 "varName": "brakmstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as AK-74N except stock.",
+                "message": "For best ergo, same as `AK-74N` except stock.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4153,7 +4153,7 @@
                 "storage": "1",
                 "varName": "brakmmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: PBS-1",
+                "message": "Best suppressor: `PBS-1`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4228,7 +4228,7 @@
                 "storage": "1",
                 "varName": "brsks",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -4236,7 +4236,7 @@
                 "storage": "1",
                 "varName": "brsksstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as OP-SKS except stock.",
+                "message": "For best ergo, same as `OP-SKS` except stock.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4244,7 +4244,7 @@
                 "storage": "1",
                 "varName": "brsksmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Hexagon SKS",
+                "message": "Best suppressor: `Hexagon SKS`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4277,7 +4277,7 @@
         "restriction": "1",
         "actions": [
             {
-                "title": "Best Recoil OP-SKS",
+                "title": "Best Recoil `OP-SKS`",
                 "author": "",
                 "color": "",
                 "timestamp": "false",
@@ -4319,7 +4319,7 @@
                 "storage": "1",
                 "varName": "brsks",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -4327,7 +4327,7 @@
                 "storage": "1",
                 "varName": "brsksmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Hexagon SKS",
+                "message": "Best suppressor: `Hexagon SKS`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4360,7 +4360,7 @@
         "restriction": "1",
         "actions": [
             {
-                "title": "Best Recoil OP-SKS",
+                "title": "Best Recoil `OP-SKS`",
                 "author": "",
                 "color": "",
                 "timestamp": "false",
@@ -4402,7 +4402,7 @@
                 "storage": "1",
                 "varName": "brsks",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -4410,7 +4410,7 @@
                 "storage": "1",
                 "varName": "brsksmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Hexagon SKS",
+                "message": "Best suppressor: `Hexagon SKS`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4485,7 +4485,7 @@
                 "storage": "1",
                 "varName": "brsa58",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: M80\nTop tier ammo: M61/M62",
+                "message": "Budget ammo: `M80`\nTop tier ammo: `M61` or `M62`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -4493,7 +4493,7 @@
                 "storage": "1",
                 "varName": "brsa58mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4568,7 +4568,7 @@
                 "storage": "1",
                 "varName": "besa58",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: M80\nTop tier ammo: M61/M62",
+                "message": "Budget ammo: `M80`\nTop tier ammo: `M61` or `M62`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -4576,7 +4576,7 @@
                 "storage": "1",
                 "varName": "besa58mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4651,7 +4651,7 @@
                 "storage": "1",
                 "varName": "brm1a",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: M80\nTop tier ammo: M61/M62",
+                "message": "Budget ammo: `M80`\nTop tier ammo: `M61` or `M62`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -4659,7 +4659,7 @@
                 "storage": "1",
                 "varName": "brm1amods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4734,7 +4734,7 @@
                 "storage": "1",
                 "varName": "bem1a",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: M80\nTop tier ammo: M61/M62",
+                "message": "Budget ammo: `M80`\nTop tier ammo: `M61` or `M62`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -4742,7 +4742,7 @@
                 "storage": "1",
                 "varName": "bem1amods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4817,7 +4817,7 @@
                 "storage": "1",
                 "varName": "brrsass",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: M80\nTop tier ammo: M61/M62",
+                "message": "Budget ammo: `M80`\nTop tier ammo: `M61` or `M62`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -4825,7 +4825,7 @@
                 "storage": "1",
                 "varName": "brrsassstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, change following:\nHK E1 -> PRS GEN3\nRK-2 -> Fortis Shift\n",
+                "message": "For best ergo, change following:\n`HK E1` -> `PRS GEN3`\n`RK-2` -> `Fortis Shift`\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4833,7 +4833,7 @@
                 "storage": "1",
                 "varName": "brrsassmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4908,7 +4908,7 @@
                 "storage": "1",
                 "varName": "brm700",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: M80\nTop tier ammo: M61/M62",
+                "message": "Budget ammo: `M80`\nTop tier ammo: `M61` or `M62`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -4916,7 +4916,7 @@
                 "storage": "1",
                 "varName": "brm700stats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, change following:\nHK E1 -> PRS GEN3\nRK-2 -> Fortis Shift\n",
+                "message": "For best ergo, change following:\n`HK E1` -> `PRS GEN3`\n`RK-2` -> `Fortis Shift`\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4924,7 +4924,7 @@
                 "storage": "1",
                 "varName": "brm700mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4999,7 +4999,7 @@
                 "storage": "1",
                 "varName": "brdtmdr",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: M80\nTop tier ammo: M61/M62",
+                "message": "Budget ammo: `M80`\nTop tier ammo: `M61` or `M62`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5007,7 +5007,7 @@
                 "storage": "1",
                 "varName": "brdtmdrstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, change following:\nRK-2 -> Fortis Shift\n",
+                "message": "For best ergo, change following:\n`RK-2` -> `Fortis Shift`\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5015,7 +5015,7 @@
                 "storage": "1",
                 "varName": "brdtmdrmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake\n",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5098,7 +5098,7 @@
                 "storage": "1",
                 "varName": "brsr25stats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, change following:\nHK E1 -> PRS GEN3\nRK-2 -> Fortis Shift\n",
+                "message": "For best ergo, change following:\n`HK E1` -> `PRS GEN3`\n`RK-2` -> `Fortis Shift`\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5106,7 +5106,7 @@
                 "storage": "1",
                 "varName": "brsr25mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Wave QD suppr. + Wave Muzzlebrake\n",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5181,7 +5181,7 @@
                 "storage": "1",
                 "varName": "brsr25",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: LPS gzh\nTop tier ammo: 7N1/SNB/7N37",
+                "message": "Budget ammo: `LPS gzh`\nTop tier Pen ammo: `7N37`\nTop tier Flesh ammo: `7N1`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5189,7 +5189,7 @@
                 "storage": "1",
                 "varName": "brsvdstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, change following:\nRK-2 -> Fortis Shift\nNo Suppressor\n",
+                "message": "For best ergo, change following:\n`RK-2` -> `Fortis Shift`\nNo Suppressor\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5197,7 +5197,7 @@
                 "storage": "1",
                 "varName": "brsvdmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Rotor 43 7.62x54\n",
+                "message": "Best suppressor: `Rotor 43 7.62x54`\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5272,7 +5272,7 @@
                 "storage": "1",
                 "varName": "brmosin",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: LPS gzh\nTop tier ammo: 7N1/SNB/7N37",
+                "message": "Budget ammo: `LPS gzh`\nTop tier Pen ammo: `7N37`\nTop tier Flesh ammo: `7N1`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5280,7 +5280,7 @@
                 "storage": "1",
                 "varName": "brmosinmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Tiger Rock Adapter + Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Tiger Rock Adapter` + `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5355,7 +5355,7 @@
                 "storage": "1",
                 "varName": "brmosin",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: LPS gzh\nTop tier ammo: 7N1/SNB/7N37",
+                "message": "Budget ammo: `LPS gzh`\nTop tier Pen ammo: `7N37`\nTop tier Flesh ammo: `7N1`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5363,7 +5363,7 @@
                 "storage": "1",
                 "varName": "brmosinmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Tiger Rock Adapter + Wave QD suppr. + Wave Muzzlebrake",
+                "message": "Best suppressor: `Tiger Rock Adapter` + `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5438,7 +5438,7 @@
                 "storage": "1",
                 "varName": "brsv98",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: LPS gzh\nTop tier ammo: 7N1/SNB/7N37",
+                "message": "Budget ammo: `LPS gzh`\nTop tier Pen ammo: `7N37`\nTop tier Flesh ammo: `7N1`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5446,7 +5446,7 @@
                 "storage": "1",
                 "varName": "brsv98mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Regular SV-98 silencer",
+                "message": "Best suppressor: `Regular SV-98 silencer`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5521,7 +5521,7 @@
                 "storage": "1",
                 "varName": "brmp5",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: Pst gzh\nTop tier ammo: AP 6.3",
+                "message": "Budget ammo: `Pst gzh`\nTop tier Pen ammo: `AP 6.3`\nTop tier Flesh ammo: `RIP` or `Luger CCI`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5529,7 +5529,7 @@
                 "storage": "1",
                 "varName": "brmp5mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: MP5SD Silencer",
+                "message": "Best suppressor: `MP5SD Silencer`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5604,7 +5604,7 @@
                 "storage": "1",
                 "varName": "bemp5",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: Pst gzh\nTop tier ammo: AP 6.3",
+                "message": "Budget ammo: `Pst gzh`\nTop tier Pen ammo: `AP 6.3`\nTop tier Flesh ammo: `RIP` or `Luger CCI`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5612,7 +5612,7 @@
                 "storage": "1",
                 "varName": "bemp5mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Sig SRD 9",
+                "message": "Best suppressor: `Sig SRD 9`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5687,7 +5687,7 @@
                 "storage": "1",
                 "varName": "brmpx",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: Pst gzh\nTop tier ammo: AP 6.3",
+                "message": "Budget ammo: `Pst gzh`\nTop tier Pen ammo: `AP 6.3`\nTop tier Flesh ammo: `RIP` or `Luger CCI`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5695,7 +5695,7 @@
                 "storage": "1",
                 "varName": "brmpxmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Sig SRD 9",
+                "message": "Best suppressor: `Sig SRD 9`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5770,7 +5770,7 @@
                 "storage": "1",
                 "varName": "bempx",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: Pst gzh\nTop tier ammo: AP 6.3",
+                "message": "Budget ammo: `Pst gzh`\nTop tier Pen ammo: `AP 6.3`\nTop tier Flesh ammo: `RIP` or `Luger CCI`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5778,7 +5778,7 @@
                 "storage": "1",
                 "varName": "bempxmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Sig SRD 9",
+                "message": "Best suppressor: `Sig SRD 9`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5853,7 +5853,7 @@
                 "storage": "1",
                 "varName": "brpp19",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: Pst gzh\nTop tier ammo: AP 6.3",
+                "message": "Budget ammo: `Pst gzh`\nTop tier Pen ammo: `AP 6.3`\nTop tier Flesh ammo: `RIP` or `Luger CCI`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5861,7 +5861,7 @@
                 "storage": "1",
                 "varName": "brpp19mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Sig SRD 9",
+                "message": "Best suppressor: `Sig SRD 9`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5936,7 +5936,7 @@
                 "storage": "1",
                 "varName": "brg17",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: Pst gzh\nTop tier ammo: AP 6.3",
+                "message": "Budget ammo: `Pst gzh`\nTop tier Pen ammo: `AP 6.3`\nTop tier Flesh ammo: `RIP` or `Luger CCI`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5944,7 +5944,7 @@
                 "storage": "1",
                 "varName": "brg17mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Sig SRD 9",
+                "message": "Best suppressor: `Sig SRD 9`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6019,7 +6019,7 @@
                 "storage": "1",
                 "varName": "brg18",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: Pst gzh\nTop tier ammo: AP 6.3",
+                "message": "Budget ammo: `Pst gzh`\nTop tier Pen ammo: `AP 6.3`\nTop tier Flesh ammo: `RIP` or `Luger CCI`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -6027,7 +6027,7 @@
                 "storage": "1",
                 "varName": "brg18mods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: Sig SRD 9",
+                "message": "Best suppressor: `Sig SRD 9`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6102,7 +6102,7 @@
                 "storage": "1",
                 "varName": "brval",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: SP-5\nTop tier ammo: 7N12 BP/7N9 SPP",
+                "message": "Budget ammo: `SP-5`\nTop tier Pen ammo: `7N12 BP`\nTop tier Trader ammo: `7N9 SPP`\nTop tier Flesh ammo: `SP-6`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -6110,7 +6110,7 @@
                 "storage": "1",
                 "varName": "brvalstats",
                 "fieldName": "VSS config",
-                "message": "VSS has the same mount and grip.",
+                "message": "`VSS` has the same mount and grip.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6185,7 +6185,7 @@
                 "storage": "1",
                 "varName": "beval",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: SP-5\nTop tier ammo: 7N12 BP/7N9 SPP",
+                "message": "Budget ammo: `SP-5`\nTop tier Pen ammo: `7N12 BP`\nTop tier Trader ammo: `7N9 SPP`\nTop tier Flesh ammo: `SP-6`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -6193,7 +6193,7 @@
                 "storage": "1",
                 "varName": "bevalstats",
                 "fieldName": "VSS config",
-                "message": "VSS has the same mount and grip but can not change stock.",
+                "message": "`VSS` has the same mount and grip but can not change stock.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6268,7 +6268,7 @@
                 "storage": "1",
                 "varName": "bak74",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BP/BT\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -6276,7 +6276,7 @@
                 "storage": "1",
                 "varName": "bak74mods",
                 "fieldName": "Approx. Price",
-                "message": "Approx. 65k ₽\n\nAK-74N - Prapor LL2 - 38k ₽\nGP-25k - Prapor LL2 - 3k ₽\nAK-100 - Prapor LL1 - 1k ₽\nEPK-8 - Prapor LL1 - 9k ₽\nRK-0 - Skier LL3 - 7k ₽\nDTK-1 - Skier LL2 - 5k ₽\n",
+                "message": "Approx. **65k ₽**\n\n`AK-74N` - __Prapor LL2__ - **38k ₽**\n`GP-25k` - __Prapor LL2__ - **3k ₽**\n`AK-100` - __Prapor LL1__ - **1k ₽**\n`EPK-8` - __Prapor LL1__ - **9k ₽**\n`RK-0` - __Skier LL3__ - **7k ₽**\n`DTK-1` - __Skier LL2__ - **5k ₽**\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6351,7 +6351,7 @@
                 "storage": "1",
                 "varName": "bm4",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: M855A1\nTop tier ammo: M995",
+                "message": "Budget ammo: `M855A1`\nTop tier ammo: `M995`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -6359,7 +6359,7 @@
                 "storage": "1",
                 "varName": "bm4mods",
                 "fieldName": "Approx. Price",
-                "message": "Approx. 110 k ₽\n\nM4A1 - Mechanic LL3 - 63k ₽\nRK-0 - Skier LL3 - 7k ₽\nMOE Stock - Peacekeeper LL3 - 8k ₽\nRubber butt pad - Skier LL3 - 5k ₽\nPWS CQB 5.56 - Skier LL3 - 11k ₽\nEPK-8-18 - Prapor LL2 - 10k ₽\nMk12 Gas Block - Mechanic LL2 - 5k ₽\n\n",
+                "message": "Approx. **110k ₽**\n\n`M4A1` - __Mechanic LL3__ - **63k ₽**\n`RK-0` - __Skier LL3__ - **7k ₽**\n`MOE Stock` - __Peacekeeper LL3__ - **8k ₽**\n`Rubber butt pad` - __Skier LL3__ - **5k ₽**\n`PWS CQB 5.56` - __Skier LL3__ - **11k ₽**\n`EPK-8-18` - __Prapor LL2__ - **10k ₽**\n`Mk12 Gas Block` - __Mechanic LL2__ - **5k ₽**\n\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6434,7 +6434,7 @@
                 "storage": "1",
                 "varName": "badar",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: M855A1\nTop tier ammo: M995",
+                "message": "Budget ammo: `M855A1`\nTop tier ammo: `M995`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -6442,7 +6442,7 @@
                 "storage": "1",
                 "varName": "badarmods",
                 "fieldName": "Approx. Price",
-                "message": "Approx. 90 k ₽\n\nADAR - Flea Market - ~25k ₽\nMOE SL - Skier LL2 - 12k ₽\nM-LOK 4.1 - Mechanic LL2 - 1k\nRK-0 - Skier LL3 - 7k ₽\nMOE Stock - Peacekeeper LL3 - 8k ₽\nRubber butt pad - Skier LL3 - 5k ₽\nPWS CQB 5.56 - Skier LL3 - 11k ₽\nEPK-8-18 - Prapor LL2 - 10k ₽\nMk12 Gas Block - Mechanic LL2 - 5k ₽\nHogue Pistol Grip - Peacekeeper LL3 - 3k ₽\n",
+                "message": "Approx. **90k ₽**\n\n`ADAR` - __Flea Market__ - **~25k ₽**\n`MOE SL` - __Skier LL2__ - **12k ₽**\n`M-LOK 4.1\"` - __Mechanic LL2__ - **1k**\n`RK-0` - __Skier LL3__ - **7k ₽**\n`MOE Stock` - __Peacekeeper LL3__ - **8k ₽**\n`Rubber butt pad` - __Skier LL3__ - **5k ₽**\n`PWS CQB 5.56` - __Skier LL3__ - **11k ₽**\n`EPK-8-18` - __Prapor LL2__ - **10k ₽**\n`Mk12 Gas Block` - __Mechanic LL2__ - **5k ₽**\n`Hogue Pistol Grip` - __Peacekeeper LL3__ - **3k ₽**\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6517,7 +6517,7 @@
                 "storage": "1",
                 "varName": "bhk",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: M855A1\nTop tier ammo: M995",
+                "message": "Budget ammo: `M855A1`\nTop tier ammo: `M995`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -6525,7 +6525,7 @@
                 "storage": "1",
                 "varName": "bhkmods",
                 "fieldName": "Approx. Price",
-                "message": "Approx. 100 k ₽\n\nHK - Flea Market - ~60k ₽\nRK-0 - Skier LL3 - 7k ₽\nMOE Stock - Peacekeeper LL3 - 8k ₽\nRubber butt pad - Skier LL3 - 5k ₽\nPWS CQB 5.56 - Skier LL3 - 11k ₽\nEPK-8-18 - Prapor LL2 - 10k ₽\n\nFor an alternative hk type: bhk2",
+                "message": "Approx. **100k ₽**\n\n`HK` - __Flea Market__ - **~60k ₽**\n`RK-0` - __Skier LL3__ - **7k ₽**\n`MOE Stock` - __Peacekeeper LL3__ - **8k ₽**\n`Rubber butt pad` - __Skier LL3__ - **5k ₽**\n`PWS CQB 5.56` - __Skier LL3__ - **11k ₽**\n`EPK-8-18` - __Prapor LL2__ - **10k ₽**\n\nFor an alternative hk type: `bhk2`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6600,7 +6600,7 @@
                 "storage": "1",
                 "varName": "bhk2",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: M855A1\nTop tier ammo: M995",
+                "message": "Budget ammo: `M855A1`\nTop tier ammo: `M995`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -6608,7 +6608,7 @@
                 "storage": "1",
                 "varName": "bhk2mods",
                 "fieldName": "Approx. Price",
-                "message": "Approx. 150-160k ₽\n\nHK - Flea Market - ~60k ₽\nRK-0 - Skier LL3 - 7k ₽\nMOE Stock - Peacekeeper LL3 - 8k ₽\nRubber butt pad - Skier LL3 - 5k ₽\nPWS CQB 5.56 - Skier LL3 - 11k ₽\nEPK-8-18 - Prapor LL2 - 10k ₽\nHK MRS 14\" - Mechanic LL3 - 14k ₽\n20\" Barrel - Mechanic LL4 - 39k ₽\nStrike 6\" - Mechanic LL3 - 2k ₽",
+                "message": "Approx. **150-160k ₽**\n\n`HK` - __Flea Market__ - **~60k ₽**\n`RK-0` - __Skier LL3__ - **7k ₽**\n`MOE Stock` - __Peacekeeper LL3__ - **8k ₽**\n`Rubber butt pad` - __Skier LL3__ - **5k ₽**\n`PWS CQB 5.56` - __Skier LL3__ - **11k ₽**\n`EPK-8-18` - Prapor LL2 - **10k ₽**\n`HK MRS 14\"` - __Mechanic LL3__ - **14k ₽**\n`20\" Barrel` - __Mechanic LL4__ - **39k ₽**\n`Strike 6\"` - __Mechanic LL3__ - **2k ₽**",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6683,7 +6683,7 @@
                 "storage": "1",
                 "varName": "baks74un",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BP/BT\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -6691,7 +6691,7 @@
                 "storage": "1",
                 "varName": "baks74unstats",
                 "fieldName": "Only works for UN/UB",
-                "message": "This Build only works for AKS-74UN/UB if you want to use a sight.\nThe UN/UB have a mount for the sight which U does not have.",
+                "message": "This Build only works for `AKS-74UN/UB` if you want to use a sight.\nThe `UN/UB` have a mount for the sight which `U` does not have.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6699,7 +6699,7 @@
                 "storage": "1",
                 "varName": "baks74unmods",
                 "fieldName": "Approx. Price",
-                "message": "Approx. 63k ₽\n\nAKS-74UN - Prapor LL2 - 33k ₽\nGP-25k - Prapor LL2 - 3k ₽\nB-11  - Skier LL2 - 6k ₽\nEPK-8 - Prapor LL1 - 9k ₽\nRK-0 - Skier LL3 - 7k ₽\nDTK-1 - Skier LL2 - 5k ₽\n",
+                "message": "Approx. **63k ₽**\n\n`AKS-74UN` - __Prapor LL2__ - **33k ₽**\n`GP-25k` - __Prapor LL2__ - **3k ₽**\n`B-11`  - Skier LL2 - **6k ₽**\n`EPK-8` - __Prapor LL1__ - **9k ₽**\n`RK-0` - __Skier LL3__ - **7k ₽**\n`DTK-1` - __Skier LL2__ - **5k ₽**\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6774,7 +6774,7 @@
                 "storage": "1",
                 "varName": "baks74un",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BP/BT\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -6865,7 +6865,7 @@
                 "storage": "1",
                 "varName": "baks74un",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BP/BT\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -6881,7 +6881,7 @@
                 "storage": "1",
                 "varName": "baks74unmods",
                 "fieldName": "Approx. Price",
-                "message": "Approx. 38k ₽\n\nAKS-74U - Flea Market - ~17k ₽\nGP-25k - Prapor LL2 - 3k ₽\nB-11  - Skier LL2 - 6k ₽\nRK-0 - Skier LL3 - 7k ₽\nDTK-1 - Skier LL2 - 5k ₽\n",
+                "message": "Approx. **38k ₽**\n\n`AKS-74U` - __Flea Market__ - **~17k ₽**\n`GP-25k` - __Prapor LL2__ - **3k ₽**\n`B-11`  - __Skier LL2__ - **6k ₽**\n`RK-0` - __Skier LL3__ - **7k ₽**\n`DTK-1` - __Skier LL2__ - **5k ₽**\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6956,7 +6956,7 @@
                 "storage": "1",
                 "varName": "bak74m",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: BP/BT\nTop tier ammo: BS",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -6964,7 +6964,7 @@
                 "storage": "1",
                 "varName": "bak74mmods",
                 "fieldName": "Approx. Price",
-                "message": "Approx. 60-70k ₽\n\nAK-74M Trade \nMilitary Cable + 3x Malboro \nMechanic LL3 - ~40k ₽\nRK-0 - Skier LL3 - 7k ₽\nAny sight - 10-20k ₽\n",
+                "message": "Approx. **60-70k ₽**\n\n`AK-74M` Trade \nMilitary Cable + 3x Malboro \n__Mechanic LL3__ - **~40k ₽**\n`RK-0` - __Skier LL3__ - **7k ₽**\nAny sight - **10-20k ₽**\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -7039,7 +7039,7 @@
                 "storage": "1",
                 "varName": "bakm",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -7047,7 +7047,7 @@
                 "storage": "1",
                 "varName": "bakmmods",
                 "fieldName": "Approx. Price",
-                "message": "Approx. 80k ₽\n\nAKM - Prapor LL2 - 41k ₽\nGP-25k - Prapor LL2 - 3k ₽\nB-10 - Skier LL2 - 7k ₽\nEPK-8-18 - Prapor LL1 - 10k ₽\nRK-0 - Skier LL3 - 7k ₽\nDTK-1 - Skier LL2 - 5k ₽\nBastion - Skier LL2 - 6k ₽\nTaktika Tula - Skier LL2 - 1k ₽",
+                "message": "Approx. **80k ₽** \n\n`AKM` - __Prapor LL2__ - **41k ₽**\n`GP-25k` - __Prapor LL2__ - **3k ₽**\n`B-10` - __Skier LL2__ - **7k ₽**\n`EPK-8-18` - __Prapor LL1__ - **10k ₽**\n`RK-0` - __Skier LL3__ - **7k ₽**\n`DTK-1` - __Skier LL2__ - **5k ₽**\n`Bastion` - __Skier LL2__ - **6k ₽**\n`Taktika Tula` - __Skier LL2__ - **1k ₽**",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -7122,7 +7122,7 @@
                 "storage": "1",
                 "varName": "bakm",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -7130,7 +7130,7 @@
                 "storage": "1",
                 "varName": "bakmmods",
                 "fieldName": "Approx. Price",
-                "message": "Approx. 85k ₽\n\nAKMN - Prapor LL3 - 46k ₽\nGP-25k - Prapor LL2 - 3k ₽\nB-10 - Skier LL2 - 7k ₽\nEPK-8-18 - Prapor LL1 - 10k ₽\nRK-0 - Skier LL3 - 7k ₽\nDTK-1 - Skier LL2 - 5k ₽\nBastion - Skier LL2 - 6k ₽\nTaktika Tula - Skier LL2 - 1k ₽",
+                "message": "Approx. **85k ₽**\n\n`AKMN` - __Prapor LL3__ - **46k ₽**\n`GP-25k` - __Prapor LL2__ - **3k ₽**\n`B-10` - __Skier LL2__ - **7k ₽**\n`EPK-8-18` - __Prapor LL1__ - **10k ₽**\n`RK-0`- __Skier LL3__ - **7k ₽**\n`DTK-1` - __Skier LL2__ - **5k ₽**\n`Bastion` - __Skier LL2__ - **6k ₽**\n`Taktika Tula` - __Skier LL2__ - **1k ₽**",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -7205,7 +7205,7 @@
                 "storage": "1",
                 "varName": "bakm",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -7213,7 +7213,7 @@
                 "storage": "1",
                 "varName": "bakmmods",
                 "fieldName": "Approx. Price",
-                "message": "Approx. 60k ₽\n\nVPO-136 - Flea Market - ~20k ₽\nGP-25k - Prapor LL2 - 3k ₽\nB-10 - Skier LL2 - 7k ₽\nEPK-8-18 - Prapor LL1 - 10k ₽\nRK-0 - Skier LL3 - 7k ₽\nDTK-1 - Skier LL2 - 5k ₽\nBastion - Skier LL2 - 6k ₽\nTaktika Tula - Skier LL2 - 1k ₽",
+                "message": "Approx. **60k ₽**\n\n`VPO-136` - __Flea Market__ - **~20k ₽**\n`GP-25k` - __Prapor LL2__ - **3k ₽**\n`B-10` - __Skier LL2__ - **7k ₽**\n`EPK-8-18` - __Prapor LL1__ - **10k ₽**\n`RK-0` - __Skier LL3__- **7k ₽**\n`DTK-1` - __Skier LL2__- **5k ₽**\n`Bastion` - __Skier LL2__ - **6k ₽**\n`Taktika Tula` - __Skier LL2__ - **1k ₽**",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -7288,7 +7288,7 @@
                 "storage": "1",
                 "varName": "bopsks",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: PS\nTop tier ammo: BP",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -7296,7 +7296,7 @@
                 "storage": "1",
                 "varName": "bopsksmods",
                 "fieldName": "Approx. Price",
-                "message": "Approx. 80k ₽\n\nOP-SKS - Flea Market - 25-30k ₽\nRK-0 - Skier LL3 - 7k ₽\nINTRAFUSE - Mechanic LL2 - 9k ₽\nTapco tube - Mechanic LL2 - 2k ₽\nTapco SAW - Mechanic LL2 - 3k ₽\nMOE Stock - Peacekeeper LL3 - 7k ₽\nMagpul Pad - Skier LL3 - 5k ₽\nPSO scope - Flea Market - ~15k ₽\n",
+                "message": "Approx. **80k ₽**\n\n`OP-SKS` - __Flea Market__ - **25-30k ₽**\n`RK-0` - __Skier LL3__ - **7k ₽**\n`INTRAFUSE` - __Mechanic LL2__ - **9k ₽**\n`Tapco tube` - __Mechanic LL2__ - **2k ₽**\n`Tapco SAW` - __Mechanic LL2__ - **3k ₽**\n`MOE Stock` - __Peacekeeper LL3__ - **7k ₽**\n`Magpul Pad` - __Skier LL3__ - **5k ₽**\n`PSO scope` - __Flea Market__ - **~15k ₽**\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -7345,7 +7345,7 @@
                 "storage": "1",
                 "varName": "reserve",
                 "fieldName": "Keys/Doors Map",
-                "message": "Type \"Reservekeys\" to get a map that shows all \nwhere all Reserve keys go. ",
+                "message": "Type __**Reservekeys**__ to get a map that \nshows where all Reserve keys go. ",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -7407,7 +7407,7 @@
                 "storage": "1",
                 "varName": "customs",
                 "fieldName": "Other types of maps",
-                "message": "Type \"CustomsHS\" to get a map that shows \nall the hidden stashes.\n\nType \"Customskeys\" to get a map that shows \nwhere all customs keys go.\n\n\n\n\n",
+                "message": "Type __**CustomsHS**__ to get a map that shows \nall the hidden stashes.\n\nType __**Customskeys**__ to get a map that shows \nwhere all customs keys go.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -7496,7 +7496,7 @@
                 "storage": "1",
                 "varName": "interchange",
                 "fieldName": "Hidden Stash Map",
-                "message": "type \"InterchangeHS\" to get a map that shows\nall hidden stashes.",
+                "message": "type __**InterchangeHS**__ to get a map that shows\nall hidden stashes.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -7585,7 +7585,7 @@
                 "storage": "1",
                 "varName": "shoreline",
                 "fieldName": "Other types of maps",
-                "message": "Type \"ShorelineHS\" to get map that shows \nall hidden stashes\n\nType \"ShorelineHR\" to get a map that shows \nwhere all the resort keys go.\n\nType \"ShorelineKS\" to get a map that shows\nwhere keys can spawn on shoreline.",
+                "message": "Type __**ShorelineHS**__to get map that shows \nall hidden stashes\n\nType __**ShorelineHR**__ to get a map that shows \nwhere all the resort keys go.\n\nType __**ShorelineKS**__ to get a map that shows\nwhere keys can spawn on shoreline.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -7701,7 +7701,7 @@
                 "storage": "1",
                 "varName": "woods",
                 "fieldName": "Hidden Stash Map",
-                "message": "Type \"WoodsHS\" to get a map that shows \nall hidden stashes.",
+                "message": "Type __**WoodsHS**__ to get a map that shows \nall hidden stashes.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -7865,7 +7865,7 @@
                 "storage": "1",
                 "varName": "upd",
                 "fieldName": "Latest update",
-                "message": "Bot Version 1.0.1\n\n2020-02-27 1.0.1\nMinor changes of info on bullets and builds.\nAdded Info command for support, suggestions and bot list website.\nMinor changes of text formatting for aesthetics.",
+                "message": "Bot Version **1.0.1**\n\n```2020-02-27 1.0.1```\nMinor changes of info on bullets and builds.\nAdded Info command for support, suggestions and bot list website.\nAdded markdown to text for aesthetics.",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -7900,7 +7900,7 @@
                 "storage": "1",
                 "varName": "allupd",
                 "fieldName": "1 update so far",
-                "message": "Bot Version 1.0.1\n\n```2020-02-27 1.0.1```\nMinor changes of info on bullets and builds.\nAdded Info command for support, suggestions and bot list website.\nMinor changes of text formatting for aesthetics.\n\n",
+                "message": "Bot Version **1.0.1**\n\n```2020-02-27 1.0.1```\nMinor changes of info on bullets and builds.\nAdded Info command for support, suggestions and bot list website.\nMinor changes of text formatting for aesthetics.\n\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
