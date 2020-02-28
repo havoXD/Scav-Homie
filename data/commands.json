@@ -6102,8 +6102,8 @@
                 "storage": "1",
                 "varName": "brval",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: `SP-5`\nTop tier Pen ammo: `7N12 BP`\nTop tier Trader ammo: `7N9 SPP`\nTop tier Flesh ammo: `SP-6`",
-                "inline": "0",
+                "message": "Budget ammo: `SP-5`\nTop tier Pen ammo: `7N12 BP`\nTop tier Trader ammo: `7N9 SPP`\nMost used ammo: `SP-6`",
+                "inline": "1",
                 "name": "Add Embed Field"
             },
             {
@@ -6185,7 +6185,7 @@
                 "storage": "1",
                 "varName": "beval",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: `SP-5`\nTop tier Pen ammo: `7N12 BP`\nTop tier Trader ammo: `7N9 SPP`\nTop tier Flesh ammo: `SP-6`",
+                "message": "Budget ammo: `SP-5`\nTop tier Pen ammo: `7N12 BP`\nTop tier Trader ammo: `7N9 SPP`\nMost used ammo: `SP-6`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
