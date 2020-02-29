@@ -1093,7 +1093,7 @@
                 "storage": "1",
                 "varName": "class4",
                 "fieldName": "Armored Rigs Continued",
-                "message": "```Ars Arma A18 \nSlots: 25\nArea: Thorax \nTD/Durability: 160/80\nRepairability: Ok \nPenalties:\nMoveSp **-7%**\nTurnSp -4%\nErgo -6\nNo trader price.```\n`Wartech TV-110` \nSlots: 23\nArea: Thorax \nTrue Durability/Durability: 121/85\nRepairability: Very Good\nPenalties: MoveSp -6%  | TurnSp -4%  | Ergo -5 \nRagman LL4 95760 ₽ \n\n`Crye Precision AVS` \nSlots: 23\nArea: Thorax + Stomach\nTrue Durability/Durability: 140/70\nRepairability: OK\nPenalties: MoveSp -10%  | TurnSp -2%  | Ergo -2 \nNo trader price.\n",
+                "message": "```Ars Arma A18 \nSlots: 25\nArea: Thorax \nTD/Durability: 160/80\nRepairability: Ok \nPenalties:\nMoveSp -7%\nTurnSp -4%\nErgo -6\nNo trader price.```\n`Wartech TV-110` \nSlots: 23\nArea: Thorax \nTrue Durability/Durability: 121/85\nRepairability: Very Good\nPenalties: MoveSp -6%  | TurnSp -4%  | Ergo -5 \nRagman LL4 95760 ₽ \n\n`Crye Precision AVS` \nSlots: 23\nArea: Thorax + Stomach\nTrue Durability/Durability: 140/70\nRepairability: OK\nPenalties: MoveSp -10%  | TurnSp -2%  | Ergo -2 \nNo trader price.\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
