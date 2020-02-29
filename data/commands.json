@@ -1077,7 +1077,7 @@
                 "storage": "1",
                 "varName": "class4",
                 "fieldName": "Decent Class",
-                "message": "`6B13`\nArea: Thorax + Stomach\nTrue Durability/Durability: 59/47\nRepairability: Bad \nPenalties: MoveSp -12%  | TurnSp -3%  | Ergo -5 \nRagman LL3 64155 ₽\n\n`6B23-2`\nArea: Thorax + Stomach\nTrue Durability/Durability: 69/55\nRepairability: Bad\nPenalties: MoveSp -11%  | TurnSp -3%  | Ergo -9 \nRagman LL3 71925 ₽ \n\n`Highcom Trooper TFO`\nArea: Thorax\nTrue Durability/Durability: 156/70\nRepairability: Very Good\nPenalties: MoveSp -9%  | TurnSp -5%  | Ergo -3 \nNo trader price.",
+                "message": "```6B13\nArea:\nThorax + Stomach\nTD/Durability: 59/47\nRepairability: Bad \nPenalties:\nMoveSp -12%\nTurnSp -3%\nErgo -5 \nRagman LL3 64155 ₽\n\n`6B23-2`\nArea:\nThorax + Stomach\nTD/Durability: 69/55\nRepairability: Bad\nPenalties:\nMoveSp -11%\nTurnSp -3%\nErgo -9 \nRagman LL3 71925 ₽ \n\n`Highcom Trooper TFO`\nArea: Thorax\nTD/Durability: 156/70\nRepairability: Very Good\nPenalties:\nMoveSp -9%\nTurnSp -5%\nErgo -3 \nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1085,7 +1085,7 @@
                 "storage": "1",
                 "varName": "class4",
                 "fieldName": "Armored Rigs",
-                "message": "`6B3TM-01M` \nSlots: 12\nArea: Thorax + Stomach\nTrue Durability/Durability: 73/40\nRepairability: Good\nPenalties: MoveSp -10%  | TurnSp -5%  | Ergo -15 \nRagman LL2 47565 ₽\n\n`ANA Tactical M2`\nSlots: 18\nArea: Thorax + Stomach\nTrue Durability/Durability: 109/60\nRepairability: Good\nPenalties: MoveSp -8%  | TurnSp -5%  | Ergo -2 \nNo trader price. \n\n`ANA Tactical M1`\nSlots: 20\nArea: Thorax + Stomach\nTrue Durability/Durability: 118/65\nRepairability: Good\nPenalties: MoveSp -10%  | TurnSp -5%  | Ergo -5 \nNo trader price.",
+                "message": "```6B3TM-01M \nSlots: 12\nArea:\nThorax + Stomach\nTD/Durability: 73/40\nRepairability: Good\nPenalties:\nMoveSp -10%\nTurnSp -5%\nErgo -15 \nRagman LL2 47565 ₽```\n```ANA Tactical M2\nSlots: 18\nArea: Thorax + Stomach\nTD/Durability: 109/60\nRepairability: Good\nPenalties:\nMoveSp -8%\nTurnSp -5%\nErgo -2 \nNo trader price.```\n```ANA Tactical M1\nSlots: 20\nArea:\nThorax + Stomach\nTD/Durability: 118/65\nRepairability: Good\nPenalties\nMoveSp -10%\nTurnSp -5%\nErgo -5 \nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1093,7 +1093,7 @@
                 "storage": "1",
                 "varName": "class4",
                 "fieldName": "Armored Rigs Continued",
-                "message": "```Ars Arma A18 \nSlots: 25\nArea: Thorax \nTD/Durability: 160/80\nRepairability: Ok \nPenalties:\nMoveSp -7%\nTurnSp -4%\nErgo -6\nNo trader price.```\n`Wartech TV-110` \nSlots: 23\nArea: Thorax \nTrue Durability/Durability: 121/85\nRepairability: Very Good\nPenalties: MoveSp -6%  | TurnSp -4%  | Ergo -5 \nRagman LL4 95760 ₽ \n\n`Crye Precision AVS` \nSlots: 23\nArea: Thorax + Stomach\nTrue Durability/Durability: 140/70\nRepairability: OK\nPenalties: MoveSp -10%  | TurnSp -2%  | Ergo -2 \nNo trader price.\n",
+                "message": "```Ars Arma A18 \nSlots: 25\nArea: Thorax \nTD/Durability: 160/80\nRepairability: Ok \nPenalties:\nMoveSp -7%\nTurnSp -4%\nErgo -6\nNo trader price.```\n```Wartech TV-110 \nSlots: 23\nArea: Thorax \nTrue Durability/Durability: 121/85\nRepairability: Very Good\nPenalties: MoveSp -6%  | TurnSp -4%  | Ergo -5 \nRagman LL4 95760 ₽```\n\n```Crye Precision AVS\nSlots: 23\nArea: Thorax + Stomach\nTrue Durability/Durability: 140/70\nRepairability: OK\nPenalties: MoveSp -10%  | TurnSp -2%  | Ergo -2 \nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
