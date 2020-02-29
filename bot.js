@@ -1,7 +1,7 @@
 /*
- * Discord Bot Builder Bot
- * Version 1.2.0
- * Robert Borghese
+ * Scav Homie
+ * Version 1.0.1
+ * havoX#7808
  */
 
 const Files = require(require('path').join(__dirname, 'js', 'Main.js')).Files;
