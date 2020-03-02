@@ -2007,7 +2007,7 @@
         "restriction": "1",
         "actions": [
             {
-                "title": "Best recoil AK-74/74N",
+                "title": "Best Ergo AK-74/74N",
                 "author": "",
                 "color": "",
                 "timestamp": "false",
@@ -2090,7 +2090,7 @@
         "restriction": "1",
         "actions": [
             {
-                "title": "Best recoil AK-74/74N",
+                "title": "Best Ergo AK-74/74N",
                 "author": "",
                 "color": "",
                 "timestamp": "false",
@@ -2671,7 +2671,7 @@
         "restriction": "1",
         "actions": [
             {
-                "title": "Best Recoil AK-105",
+                "title": "Best Ergo AK-105",
                 "author": "",
                 "color": "",
                 "timestamp": "false",
@@ -4360,7 +4360,7 @@
         "restriction": "1",
         "actions": [
             {
-                "title": "Best Recoil `OP-SKS`",
+                "title": "Best Ergo `OP-SKS`",
                 "author": "",
                 "color": "",
                 "timestamp": "false",
@@ -5280,7 +5280,7 @@
                 "storage": "1",
                 "varName": "brmosinmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: `Tiger Rock Adapter` + `Wave QD suppr.` + `Wave Muzzlebrake`",
+                "message": "Best suppressor:\n`Tiger Rock Adapter` + `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -5363,7 +5363,7 @@
                 "storage": "1",
                 "varName": "brmosinmods",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: `Tiger Rock Adapter` + `Wave QD suppr.` + `Wave Muzzlebrake`",
+                "message": "Best suppressor:\n`Tiger Rock Adapter` + `Wave QD suppr.` + `Wave Muzzlebrake`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -6392,7 +6392,90 @@
         "restriction": "1",
         "actions": [
             {
-                "title": "Budget AK-74N",
+                "title": "Budget AK-74/74N",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/3rGSHgqv/bak74-2.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "bak74",
+                "name": "Create Embed Message"
+            },
+            {
+                "title": "Stats",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/nLLS8N8F/bak74-3.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "bak74stats",
+                "name": "Create Embed Message"
+            },
+            {
+                "title": "Modifications",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/Zn6VFSNc/bak74-4.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "bak74mods",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "bak74",
+                "fieldName": "Ammunition",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "bak74mods",
+                "fieldName": "Approx. Price",
+                "message": "Approx. **65k ₽**\n\n`AK-74N` - __Prapor LL2__ - **38k ₽**\n`GP-25k` - __Prapor LL2__ - **3k ₽**\n`AK-100` - __Prapor LL1__ - **1k ₽**\n`EPK-8` - __Prapor LL1__ - **9k ₽**\n`RK-0` - __Skier LL3__ - **7k ₽**\n`DTK-1` - __Skier LL2__ - **5k ₽**\n",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "bak74",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "bak74stats",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "bak74mods",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Bak74",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Budget AK-74/74N",
                 "author": "",
                 "color": "",
                 "timestamp": "false",
