@@ -8445,7 +8445,7 @@
                 "storage": "1",
                 "varName": "bmpx",
                 "fieldName": "Ammo for the build",
-                "message": "**Penetration Ammo**\n```Budget ammo: Pst gzh (18 Pen / 54 Dmg)\n__Mechanic LL1__ 65 ₽\nTop tier ammo: AP 6.3 (25 Pen / 52 Dmg)\nPeacekeeper LL3 5 $```\n**Flesh Damage Ammo**```Alt. ammo: Luger CCI (10 Pen / 70 Dmg)\nSkier LL4 350 ₽ or\nMarket Price as of 03-03: 420 ₽ \nTop tier ammo: RIP (2 Pen / 102 Dmg)\nMarket Price as of 03-03: ~750 ₽```\n",
+                "message": "**Penetration Ammo**\n```Budget ammo: Pst gzh (18 Pen / 54 Dmg)\n__Mechanic LL1__ 65 ₽\nTop tier ammo: AP 6.3 (25 Pen / 52 Dmg)\nPeacekeeper LL3 5 $```**Flesh Damage Ammo**```Alt. ammo: Luger CCI (10 Pen / 70 Dmg)\nSkier LL4 350 ₽ or\nMarket Price as of 03-03: 420 ₽ \nTop tier ammo: RIP (2 Pen / 102 Dmg)\nMarket Price as of 03-03: ~750 ₽```\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
