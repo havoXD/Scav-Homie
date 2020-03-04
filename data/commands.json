@@ -1007,7 +1007,7 @@
                 "storage": "1",
                 "varName": "class2",
                 "fieldName": "The Worst Class",
-                "message": "```PACA\nArea: Thorax + Stomach\nTD/Durability: 200/50\nRepairability: Good\nPenalties:\nMoveSp -6% | TurnSp -5% | Ergo -6\nRagman LL1 18706 ₽\nPeacekeeper LL2 190 $```\n```Module-3M\nArea: Thorax + Stomach \nTD/Durability: 160/40\nRepairability: Good\nPenalties:\nMoveSp -7% | TurnSp -6% | Ergo -4\nNo trader price.```\n```6B2\nArea:Thorax + Stomach\nTD/Durability: 145/80\nRepairability: Good\nPenalties:\nMoveSp -6% | TurnSp -3% | Ergo -7\nRagman LL2 27122 ₽```",
+                "message": "```PACA Area: Thorax + Stomach\nTD/Durability: 200/50\nRepairability: Good\nPenalties:\nMoveSp -6% | TurnSp -5% | Ergo -6\nRagman LL1 18706 ₽\nPeacekeeper LL2 190 $```\n```Module-3M Area: Thorax + Stomach \nTD/Durability: 160/40\nRepairability: Good\nPenalties:\nMoveSp -7% | TurnSp -6% | Ergo -4\nNo trader price.```\n```6B2 Area:Thorax + Stomach\nTD/Durability: 145/80\nRepairability: Good\nPenalties:\nMoveSp -6% | TurnSp -3% | Ergo -7\nRagman LL2 27122 ₽```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1042,7 +1042,7 @@
                 "storage": "1",
                 "varName": "class3",
                 "fieldName": "Budget Class",
-                "message": "```MF-Untar\nArea: Thorax + Stomach\nTD/Durability: 75/45\nRepairability: Good\nPenalties:\nMoveSp -18% | TurnSp -6% | Ergo -8\nPeacekeeper LL2 406 $```\n```6B23-1\nArea: Thorax + Stomach\nTD/Durability: 86/60\nRepairability: Very Good\nPenalties:\nMoveSp -11% | TurnSp -5% | Ergo -9 \nRagman LL2 42315 ₽```\n```Zhuk-3 Press\nArea: Thorax + Stomach\nTD/Durability: 111/50\nRepairability: Very Good\nPenalties:\nMoveSp -10% | TurnSp -4% | Ergo -5\nNo trader price.```\n```BNTI Kirasa-N\nArea: Thorax + Stomach\nTD/Durability: 140/70\nRepairability: OK\nPenalties:\nMoveSp -8% | TurnSp -5% | Ergo -6\nRagman LL3 61064 ₽```\n```6B5-15 Zh-86\nArea: Thorax + Stomach\nTD/Durability: 145/80\nRepairability: Good\nPenalties:\nMoveSp -9% | TurnSp -5% | Ergo -12\nNo trader price.```",
+                "message": "```MF-Untar \nArea: Thorax + Stomach\nTD/Durability: 75/45\nRepairability: Good\nPenalties:\nMoveSp -18% | TurnSp -6% | Ergo -8\nPeacekeeper LL2 406 $```\n```6B23-1 \nArea: Thorax + Stomach\nTD/Durability: 86/60\nRepairability: Very Good\nPenalties:\nMoveSp -11% | TurnSp -5% | Ergo -9 \nRagman LL2 42315 ₽```\n```Zhuk-3 Press\nArea: Thorax + Stomach\nTD/Durability: 111/50\nRepairability: Very Good\nPenalties:\nMoveSp -10% | TurnSp -4% | Ergo -5\nNo trader price.```\n```BNTI Kirasa-N\nArea: Thorax + Stomach\nTD/Durability: 140/70\nRepairability: OK\nPenalties:\nMoveSp -8% | TurnSp -5% | Ergo -6\nRagman LL3 61064 ₽```\n```6B5-15 Zh-86\nArea: Thorax + Stomach\nTD/Durability: 145/80\nRepairability: Good\nPenalties:\nMoveSp -9% | TurnSp -5% | Ergo -12\nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
