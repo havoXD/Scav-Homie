@@ -1085,7 +1085,7 @@
                 "storage": "1",
                 "varName": "class4",
                 "fieldName": "Armored Rigs",
-                "message": "```6B3TM-01M \nSlots: 12\nArea:\nThorax + Stomach\nTD/Durability: 73/40\nRepairability: Good\nPenalties:\nMoveSp -10%\nTurnSp -5%\nErgo -15 \nRagman LL2 47565 ₽```\n```ANA Tactical M2\nSlots: 18\nArea: Thorax + Stomach\nTD/Durability: 109/60\nRepairability: Good\nPenalties:\nMoveSp -8%\nTurnSp -5%\nErgo -2 \nNo trader price.```\n```ANA Tactical M1\nSlots: 20\nArea:\nThorax + Stomach\nTD/Durability: 118/65\nRepairability: Good\nPenalties\nMoveSp -10%\nTurnSp -5%\nErgo -5 \nNo trader price.```",
+                "message": "```6B3TM-01M \nSlots: 12\nArea:\nThorax + Stomach\nTD/Durability: 73/40\nRepairability: Good\nPenalties:\nMoveSp -10%\nTurnSp -5%\nErgo -15 \nRagman LL2 47565 ₽```\n```ANA Tactical M2\nSlots: 18\nArea:\nThorax + Stomach\nTD/Durability: 109/60\nRepairability: Good\nPenalties:\nMoveSp -8%\nTurnSp -5%\nErgo -2 \nNo trader price.```\n```ANA Tactical M1\nSlots: 20\nArea:\nThorax + Stomach\nTD/Durability: 118/65\nRepairability: Good\nPenalties\nMoveSp -10%\nTurnSp -5%\nErgo -5 \nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1128,7 +1128,7 @@
                 "storage": "1",
                 "varName": "class5",
                 "fieldName": "Scav Homie think this is the best class",
-                "message": "```5.11 Tactec\nSlots: 18\nArea: Thorax \nTD/Durability: 111/50\nRepairability: Very Good\nPenalties: MoveSp -7%, TurnSp -3%, Ergo -3\nNo trader price.```\n```IOTV Gen4 HMK\nArea: Thorax + Stomach\nTD/Durability: 113/62\nRepairability: Good\nPenalties: MoveSp -11%, TurnSp -15%, Ergo -11\nNo trader price.```\n```FORT Redut-M\nArea: Thorax + Stomach\nTD/Durability: 114/57\nRepairability: OK\nPenalties: MoveSp -13%, TurnSp -12%, Ergo -11\nRagman LL3 226838 ₽```\n```IOTV Gen4 Assault\nArea: Thorax + Stomach + Arms\nTD/Durability: 124/68\nRepairability: Good\nPenalties: MoveSp -17%, TurnSp -9%, Ergo -8\nNo trader price.```",
+                "message": "```5.11 Tactec\nSlots: 18\nArea: Thorax \nTD/Durability: 111/50\nRepairability: Very Good\nPenalties: MoveSp -7%,\nTurnSp -3%, Ergo -3\nNo trader price.```\n```IOTV Gen4 HMK\nArea: Thorax + Stomach\nTD/Durability: 113/62\nRepairability: Good\nPenalties: MoveSp -11%, TurnSp -15%, Ergo -11\nNo trader price.```\n```FORT Redut-M\nArea: Thorax + Stomach\nTD/Durability: 114/57\nRepairability: OK\nPenalties: MoveSp -13%, TurnSp -12%, Ergo -11\nRagman LL3 226838 ₽```\n```IOTV Gen4 Assault\nArea: Thorax + Stomach + Arms\nTD/Durability: 124/68\nRepairability: Good\nPenalties: MoveSp -17%, TurnSp -9%, Ergo -8\nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1136,7 +1136,7 @@
                 "storage": "1",
                 "varName": "class5",
                 "fieldName": "Class 5",
-                "message": "```IOTV Gen4 Full\nArea: Thorax + Stomach + Arms\nTD/Durability: 145/80\nRepairability: Good\nPenalties: MoveSp -33%, TurnSp -15%, Ergo -18\nNo trader price.```\n```FORT Redut-T\nArea: Thorax + Stomach + Arms\nTD/Durability: 190/95\nRepairability: OK \nPenalties: MoveSp -37%, TurnSp -15%, Ergo -14 \nNo trader price.```\n```BNTI Gzhel-K\nArea: Thorax + Stomach\nTD/Durability: 82/65\nRepairability: Bad\nPenalties: MoveSp -10%, TurnSp -3%, Ergo -4\nRagman LL3 after \"Supervisor\" 119521 ₽```\n```6B13 M Assault\nArea: Thorax + Stomach\nTD/Durability: 133/60\nRepairability: Very Good \nPenalties: MoveSp -9%, TurnSp -3%, Ergo -5\nNo trader price.\nScav Boss Armor (Killa)```",
+                "message": "```IOTV Gen4 Full\nArea: Thorax + Stomach + Arms\nTD/Durability: 145/80\nRepairability: Good\nPenalties: MoveSp -33%, TurnSp -15%, Ergo -18\nNo trader price.```\n```FORT Redut-T\nArea: Thorax + Stomach + Arms\nTD/Durability: 190/95\nRepairability: OK \nPenalties: MoveSp -37%, TurnSp -15%, Ergo -14 \nNo trader price.```\n```BNTI Gzhel-K\nArea: Thorax + Stomach\nTD/Durability: 82/65\nRepairability: Bad\nPenalties: MoveSp -10%, TurnSp -3%, Ergo -4\nRagman LL3 after \"Supervisor\" 119521 ₽```\n```6B13 M Assault\nArea: Thorax + Stomach\nTD/Durability: 133/60\nRepairability: Very Good \nPenalties: MoveSp -9%,\nTurnSp -3%, Ergo -5\nNo trader price.\nScav Boss Armor (Killa)```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
