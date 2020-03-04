@@ -1354,7 +1354,7 @@
                 "storage": "1",
                 "varName": "cmd",
                 "fieldName": "Bot Version: 1.0.1",
-                "message": "`Info` - Support, suggestions and voting for my bot. \n`Update` - Shows latest update\n`Allupdates` - Shows all updats since release\nLast Updated: `03/03-20`\nBased on game version: `0.12.3.6090`\n",
+                "message": "`Info` - Support, suggestions and voting for my bot. \n`Update` - Shows latest update\n`Allupdates` - Shows all updats since release\nLast Updated: `03/04-20`\nBased on game version: `0.12.3.6152`\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -8445,7 +8445,7 @@
                 "storage": "1",
                 "varName": "bmpx",
                 "fieldName": "Ammo for the build",
-                "message": "**Penetration Ammo**\n```Budget ammo: Pst gzh (18 Pen / 54 Dmg)\n__Mechanic LL1__ 65 ₽\nTop tier ammo: AP 6.3 (25 Pen / 52 Dmg)\nPeacekeeper LL3 5 $```**Flesh Damage Ammo**```Alt. ammo: Luger CCI (10 Pen / 70 Dmg)\nSkier LL4 350 ₽ or\nMarket Price as of 03-03: 420 ₽ \nTop tier ammo: RIP (2 Pen / 102 Dmg)\nMarket Price as of 03-03: ~750 ₽```\n",
+                "message": "**Penetration Ammo**\n```Budget ammo: Pst gzh (18 Pen / 54 Dmg)\nMechanic LL1 65 ₽\nTop tier ammo: AP 6.3 (25 Pen / 52 Dmg)\nPeacekeeper LL3 5 $```**Flesh Damage Ammo**```Alt. ammo: Luger CCI (10 Pen / 70 Dmg)\nSkier LL4 350 ₽ or\nMarket Price as of 03-03: 420 ₽ \nTop tier ammo: RIP (2 Pen / 102 Dmg)\nMarket Price as of 03-03: ~750 ₽```\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
