@@ -2002,9 +2002,13 @@
         ]
     },
     {
-        "name": "BEak74",
-        "name": "BEak74n",
-        "permissions": "NONE",
+        "name": [
+            {
+                "name1": "BEak74",
+                "name2": "BEak74n"
+            }
+        ],
+        "permissions": "NONE",  
         "restriction": "1",
         "actions": [
             {
@@ -2066,7 +2070,7 @@
         ]
     },
     {
-        "name": "BRaks74u",
+        "names": "BRaks74u",
         "permissions": "NONE",
         "restriction": "1",
         "actions": [
