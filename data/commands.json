@@ -2002,12 +2002,7 @@
         ]
     },
     {
-        "name": [
-            {
-                "name1": "BEak74",
-                "name2": "BEak74n"
-            }
-        ],
+        "name": "beak74",
         "permissions": "NONE",  
         "restriction": "1",
         "actions": [
