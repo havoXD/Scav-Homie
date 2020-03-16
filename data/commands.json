@@ -2076,23 +2076,10 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/dVx8N4bQ/agaiu-Vq-2.png",
+                "imageUrl": "https://i.postimg.cc/j5w8kQsJ/beak74x.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "br74n",
-                "name": "Create Embed Message"
-            },
-            {
-                "title": "Stats",
-                "author": "",
-                "color": "",
-                "timestamp": "false",
-                "url": "",
-                "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/MKt0VWtQ/agaiu-Vq-3.png",
-                "thumbUrl": "",
-                "storage": "1",
-                "varName": "br74nstats",
                 "name": "Create Embed Message"
             },
             {
@@ -2102,7 +2089,7 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/L8XtVr00/agaiu-Vq-4.png",
+                "imageUrl": "",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "br74nmods",
@@ -2127,13 +2114,6 @@
             {
                 "storage": "1",
                 "varName": "br74n",
-                "channel": "0",
-                "varName2": "",
-                "name": "Send Embed Message"
-            },
-            {
-                "storage": "1",
-                "varName": "br74nstats",
                 "channel": "0",
                 "varName2": "",
                 "name": "Send Embed Message"
