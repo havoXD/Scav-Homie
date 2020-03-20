@@ -207,7 +207,7 @@
                 "storage": "1",
                 "varName": "fiveseven",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "`SB193(Subsonic)`\n(if you buy ≥ 50) \n2.08 $ Per Unit\nClass 4 - 2-4 shots\nClass 5 - 7-9 shots\n35 Pen - 54 Damage\nRecoil -20%\nPeacekeeper LL4\n\n`L191(Tracer)`\n(if you buy ≥ 50)\n1.46 $ Per Unit\nClass 4 - 2-4 shots\nClass 5 - 7-9 shots\n33 Pen - 58 Damage\nPeacekeeper LL3\n\n`SS190`\n(if you buy ≥ 50)\n1.52 $ Per Unit \nClass 4 - 3-4 shots\nClass 5 - 8-10 shots\n32 Pen - 57 Damage\nPeacekeeper LL3",
+                "message": "`SB193(Subsonic)`\n(if you buy ≥ 50) \n2.08 $ Per Unit\nClass 4 - 2-4 shots\nClass 5 - 7-9 shots\n35 Pen - 54 Damage\nRecoil -20%\nPeacekeeper LL4\n\n`L191(Tracer)`\n(if you buy ≥ 50)\n1.46 $ Per Unit\nClass 4 - 2-4 shots\nClass 5 - 7-9 shots\n33 Pen - 58 Damage\nPeacekeeper LL3\n\n`SS190`\n(if you buy ≥ 50)\n1.52 $ Per Unit \nClass 4 - 3-4 shots\nClass 5 - 8-10 shots\n37 Pen - 49 Damage\nPeacekeeper LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2007,7 +2007,7 @@
         "restriction": "1",
         "actions": [
             {
-                "title": "Best Ergo AK-74/74N",
+                "title": "Best Ergo AK-74/74N, VPO-136/209 and AKM/AKMN",
                 "author": "",
                 "color": "",
                 "timestamp": "false",
@@ -2070,7 +2070,259 @@
         "restriction": "1",
         "actions": [
             {
-                "title": "Best Ergo AK-74/74N",
+                "title": "Best Ergo AK-74/74N, VPO-136/209 and AKM/AKMN",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/j5w8kQsJ/beak74x.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "br74n",
+                "name": "Create Embed Message"
+            },
+            {
+                "title": "Modifications",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "br74nmods",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "br74n",
+                "fieldName": "Ammunition",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "br74nmods",
+                "fieldName": "Suppressors",
+                "message": "Best Suppressor: `PBS-4`",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "br74n",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "br74nmods",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "BEakm",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Ergo AK-74/74N, VPO-136/209 and AKM/AKMN",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/j5w8kQsJ/beak74x.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "br74n",
+                "name": "Create Embed Message"
+            },
+            {
+                "title": "Modifications",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "br74nmods",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "br74n",
+                "fieldName": "Ammunition",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "br74nmods",
+                "fieldName": "Suppressors",
+                "message": "Best Suppressor: `PBS-4`",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "br74n",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "br74nmods",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "BEakmn",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Ergo AK-74/74N, VPO-136/209 and AKM/AKMN",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/j5w8kQsJ/beak74x.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "br74n",
+                "name": "Create Embed Message"
+            },
+            {
+                "title": "Modifications",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "br74nmods",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "br74n",
+                "fieldName": "Ammunition",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "br74nmods",
+                "fieldName": "Suppressors",
+                "message": "Best Suppressor: `PBS-4`",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "br74n",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "br74nmods",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "BEvpo136",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Ergo AK-74/74N, VPO-136/209 and AKM/AKMN",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/j5w8kQsJ/beak74x.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "br74n",
+                "name": "Create Embed Message"
+            },
+            {
+                "title": "Modifications",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "br74nmods",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "br74n",
+                "fieldName": "Ammunition",
+                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "br74nmods",
+                "fieldName": "Suppressors",
+                "message": "Best Suppressor: `PBS-4`",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "br74n",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "br74nmods",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "BEvpo209",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Ergo AK-74/74N, VPO-136/209 and AKM/AKMN",
                 "author": "",
                 "color": "",
                 "timestamp": "false",
