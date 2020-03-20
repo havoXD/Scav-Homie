@@ -2162,7 +2162,7 @@
                 "storage": "1",
                 "varName": "br74n",
                 "fieldName": "Ammunition",
-                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
+                "message": "`Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2170,7 +2170,7 @@
                 "storage": "1",
                 "varName": "br74nmods",
                 "fieldName": "Suppressors",
-                "message": "Best Suppressor: `PBS-4`",
+                "message": "Best Suppressor: `PBS-1`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2225,7 +2225,7 @@
                 "storage": "1",
                 "varName": "br74n",
                 "fieldName": "Ammunition",
-                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2233,7 +2233,7 @@
                 "storage": "1",
                 "varName": "br74nmods",
                 "fieldName": "Suppressors",
-                "message": "Best Suppressor: `PBS-4`",
+                "message": "Best Suppressor: `PBS-1`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2288,7 +2288,7 @@
                 "storage": "1",
                 "varName": "br74n",
                 "fieldName": "Ammunition",
-                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2296,7 +2296,7 @@
                 "storage": "1",
                 "varName": "br74nmods",
                 "fieldName": "Suppressors",
-                "message": "Best Suppressor: `PBS-4`",
+                "message": "Best Suppressor: `PBS-1`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2351,7 +2351,7 @@
                 "storage": "1",
                 "varName": "br74n",
                 "fieldName": "Ammunition",
-                "message": "Cheap ammo: `BP`\nBudget ammo: `BT`\nTop tier ammo: `BS`\n",
+                "message": "Best ammo: `EKO`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -2359,7 +2359,7 @@
                 "storage": "1",
                 "varName": "br74nmods",
                 "fieldName": "Suppressors",
-                "message": "Best Suppressor: `PBS-4`",
+                "message": "Best Suppressor: `Rotor 43 .366`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
