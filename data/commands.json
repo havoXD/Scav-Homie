@@ -148,7 +148,7 @@
                 "storage": "1",
                 "varName": "46",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "`AP SX` 624 ₽\nClass 5 - 1-3 shots  \nClass 6 - 3-4 shots\n47 Pen - 35 Damage\nRecoil +10%\nMechanic LL4",
+                "message": "`AP SX` 730 ₽\nClass 5 - 1-3 shots  \nClass 6 - 3-4 shots\n47 Pen - 35 Damage\nRecoil +10%\nMechanic LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -164,7 +164,7 @@
                 "storage": "1",
                 "varName": "46",
                 "fieldName": "```Budget 1```",
-                "message": "`Subsonic SX` 220 ₽ \nClass 4 - 1-4 shots\nClass 5 - 5-7 shots\n34 Pen - 41 Damage  \nRecoil -20%\nMechanic LL3",
+                "message": "`Subsonic SX` 262 ₽ \nClass 4 - 1-4 shots\nClass 5 - 5-7 shots\n34 Pen - 41 Damage  \nRecoil -20%\nMechanic LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -172,7 +172,7 @@
                 "storage": "1",
                 "varName": "46",
                 "fieldName": "```Budget 2```",
-                "message": "`FMJ SX` \n(if you buy ≥ 100)\n1.25 $ Per Unit \nClass 4 - 3-5 shots\nClass 5 - 9-11 shots\n30 Pen - 43 Damage\nPeacekeeper LL3\n",
+                "message": "`FMJ SX` \n(if you buy ≥ 50)\n1.13 $ Per Unit \nClass 4 - 3-5 shots\nClass 5 - 9-11 shots\n30 Pen - 43 Damage\nPeacekeeper LL3\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -207,7 +207,7 @@
                 "storage": "1",
                 "varName": "fiveseven",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "`SB193(Subsonic)`\n(if you buy ≥ 50) \n2.08 $ Per Unit\nClass 4 - 2-4 shots\nClass 5 - 7-9 shots\n35 Pen - 54 Damage\nRecoil -20%\nPeacekeeper LL4\n\n`L191(Tracer)`\n(if you buy ≥ 50)\n1.46 $ Per Unit\nClass 4 - 2-4 shots\nClass 5 - 7-9 shots\n33 Pen - 58 Damage\nPeacekeeper LL3\n\n`SS190`\n(if you buy ≥ 50)\n1.52 $ Per Unit \nClass 4 - 3-4 shots\nClass 5 - 8-10 shots\n37 Pen - 49 Damage\nPeacekeeper LL3",
+                "message": "`SB193(Subsonic)`\n(if you buy ≥ 50) \n1.88 $ Per Unit\nClass 4 - 2-4 shots\nClass 5 - 7-9 shots\n35 Pen - 54 Damage\nRecoil -20%\nPeacekeeper LL4\n\n`L191(Tracer)`\n(if you buy ≥ 50)\n1.32 $ Per Unit\nClass 4 - 2-4 shots\nClass 5 - 7-9 shots\n33 Pen - 58 Damage\nPeacekeeper LL3\n\n`SS190`\n(if you buy ≥ 50)\n1.52 $ Per Unit \nClass 4 - 3-4 shots\nClass 5 - 8-10 shots\n37 Pen - 49 Damage\nPeacekeeper LL3",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -309,7 +309,7 @@
                 "storage": "1",
                 "varName": "n762",
                 "fieldName": "```Best```",
-                "message": "`M62` (if you buy ≥ 10 )\n4.2 $ Per Unit \nClass 5 - 1 shot\nClass 6 - 1-3 shots \n54 Pen - 79 Damage\nPeacekeeper LL3 \nSpa Tour - Part 6",
+                "message": "`M62` (if you buy ≥ 10 )\n3.8 $ Per Unit \nClass 5 - 1 shot\nClass 6 - 1-3 shots \n54 Pen - 79 Damage\nPeacekeeper LL3 \nSpa Tour - Part 6",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -325,7 +325,7 @@
                 "storage": "1",
                 "varName": "n762",
                 "fieldName": "```Highest Pen```",
-                "message": "`M61` 10 $\nClass 6 - 1 shot\n68 Pen - 70 Damage\nRecoil +10%\nAccuracy +3%\nPeacekeeper LL4 \nWet Job - Part 6",
+                "message": "`M61` 9 $\nClass 6 - 1 shot\n68 Pen - 70 Damage\nRecoil +10%\nAccuracy +3%\nPeacekeeper LL4 \nWet Job - Part 6",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -333,7 +333,7 @@
                 "storage": "1",
                 "varName": "n762",
                 "fieldName": "```Budget 1```",
-                "message": "`M80` (if you buy ≥ 50)\n1.8 $ Per Unit \nClass 5 - 1-3 shots\nClass 6 - 3-5 shots\n41 Pen - 80 Damage\nPeacekeeper LL2\n",
+                "message": "`M80` (if you buy ≥ 50)\n1.62 $ Per Unit \nClass 5 - 1-3 shots\nClass 6 - 3-5 shots\n41 Pen - 80 Damage\nPeacekeeper LL2\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -486,7 +486,7 @@
                 "storage": "1",
                 "varName": "919",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "`AP 6.3` (if you buy ≥ 100)\n4.55 $\nClass 3 - 2-5 shots\nClass 4 - 5-8 shots\n25 Pen - 52 Damage\nPeacekeeper LL3\n",
+                "message": "`AP 6.3` (if you buy ≥ 50)\n4.12 $\nClass 3 - 2-5 shots\nClass 4 - 5-8 shots\n25 Pen - 52 Damage\nPeacekeeper LL3\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -494,7 +494,7 @@
                 "storage": "1",
                 "varName": "919",
                 "fieldName": "```Highest Flesh```",
-                "message": "`RIP`\n10/02-20 Flea Market Price:\nApprox 700 ₽ Per Unit\n2 Pen - 102 Damage\nRecoil +20%\nFM | AI | FIR | Crafting\nSkier LL4 Barter\n2x Chainlets -> 20 bullets\n",
+                "message": "`RIP`\n11/04-20 Flea Market Price:\nApprox 770 ₽ Per Unit\n2 Pen - 102 Damage\nRecoil +20%\nFM | AI | FIR | Crafting\nSkier LL4 Barter\n2x Chainlets -> 20 bullets\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -545,7 +545,7 @@
                 "storage": "1",
                 "varName": "921",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "`SP13` 251 ₽\nClass 4 - 2-3 shots\nClass 5 - 5-7 shots\n36 Pen - 62 Damage\nPrapor LL4\n",
+                "message": "`SP13` 276 ₽\nClass 4 - 2-3 shots\nClass 5 - 5-7 shots\n36 Pen - 62 Damage\nPrapor LL4\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -596,7 +596,7 @@
                 "storage": "1",
                 "varName": "939",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "`7N12 BP`\n10/02-20 Flea Market Price:\n1490 ₽ - 1500 ₽ Per Unit\nClass 5 - 1 shot\nClass 6 - 3-4 shots\n50 Pen - 60 Damage\nAccuracy +15% \nRecoil +5%\nFM | AI | FIR | Crafting\nPrapor LL4 Barter after Grenadier \n1x strike -> 8 bullets",
+                "message": "`7N12 BP`\n11/04-20 Flea Market Price:\n1650 ₽ Per Unit\nClass 5 - 1 shot\nClass 6 - 3-4 shots\n50 Pen - 60 Damage\nAccuracy +15% \nRecoil +5%\nFM | AI | FIR | Crafting\nPrapor LL4 Barter after Grenadier \n1x strike -> 8 bullets",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -706,7 +706,7 @@
                 "storage": "1",
                 "varName": "12gs",
                 "fieldName": "```Best/Highest Pen```",
-                "message": "`AP-20` 182 ₽ \nClass 4 - 2-3 shots\nClass 5 - 5-6 shots\n32 Pen - 164 Damage\nRecoil +50%\nAccuracy +125%\nJaeger LL4",
+                "message": "`AP-20` 196 ₽ \nClass 4 - 2-3 shots\nClass 5 - 5-6 shots\n32 Pen - 164 Damage\nRecoil +50%\nAccuracy +125%\nJaeger LL4",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -714,7 +714,7 @@
                 "storage": "1",
                 "varName": "12gs",
                 "fieldName": "```Highest Flesh```",
-                "message": "`RIP`\n10/02-20 Flea Market Price:\n1000 ₽ - 2000 ₽ Per Unit\n0 Pen - 235 Damage\nAccuracy +80%\nRecoil +35%\nFM | AI | FIR | Crafting\nSkier LL3 Barter after Bullshit\n1x T-plug -> 5 slugs",
+                "message": "`RIP`\n11/04-20 Flea Market Price:\n750 ₽ Per Unit\n0 Pen - 235 Damage\nAccuracy +80%\nRecoil +35%\nFM | AI | FIR | Crafting\nSkier LL3 Barter after Bullshit\n1x T-plug -> 5 slugs",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -972,7 +972,7 @@
                 "storage": "1",
                 "varName": "armor",
                 "fieldName": "Example",
-                "message": "Name of the armor - 5.11 Tactec Plate Carrier\n\nSlots will only show if it is possible - Slots: 18\n\nWhich areas the armor protects - Area: Thorax\n\nTrue Durability and Durability - 111/50\nmore info on True Durability will come soon\n\nRepairability which might be good to know if you plan on reusing a armor: Very good\n\nDifferent Penalties a armor will give you if you wear it: MoveSp -7%  | TurnSp -3%  | Ergo -3\n\nThis will only show trader price in cash. No barters or any approximates for flea: No trader price.",
+                "message": "Name of the armor - 5.11 Tactec Plate Carrier\n\nSlots will only show if it is possible - Slots: 18\n\nWhich areas the armor protects - Area: Thorax\n\nTrue Durability and Durability - 111/50\nmore info on True Durability will come soon\n\nRepairability which might be good to know if you plan on reusing a armor:\nVery good\n\nDifferent Penalties a armor will give you if you wear it:\nMoveSp -7%  | TurnSp -3%  | Ergo -3%\n\nThis will only show trader price in cash. No barters or any approximates for flea: No trader price.",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1007,7 +1007,7 @@
                 "storage": "1",
                 "varName": "class2",
                 "fieldName": "The Worst Class",
-                "message": "```PACA \nArea: Thorax + Stomach\nTD/Durability: 200/50\nRepairability: Good\nPenalties:\nMoveSp -6% | TurnSp -5% | Ergo -6\nRagman LL1 18706 ₽\nPeacekeeper LL2 190 $```\n```Module-3M \nArea: Thorax + Stomach \nTD/Durability: 160/40\nRepairability: Good\nPenalties:\nMoveSp -7% | TurnSp -6% | Ergo -4\nNo trader price.```\n```6B2 \nArea:Thorax + Stomach\nTD/Durability: 145/80\nRepairability: Good\nPenalties:\nMoveSp -6% | TurnSp -3% | Ergo -7\nRagman LL2 27122 ₽```",
+                "message": "```PACA \nArea: Thorax + Stomach\nTD/Durability: 200/50\nRepairability: Good\nPenalties:\nMoveSp -6% | TurnSp -5% | Ergo -6%\nRagman LL1 18706 ₽\nPeacekeeper LL2 190 $```\n```Module-3M \nArea: Thorax + Stomach \nTD/Durability: 160/40\nRepairability: Good\nPenalties:\nMoveSp -7% | TurnSp -6% | Ergo -4%\nNo trader price.```\n```6B2 \nArea:Thorax + Stomach\nTD/Durability: 145/80\nRepairability: Good\nPenalties:\nMoveSp -6% | TurnSp -3% | Ergo -7%\nRagman LL2 27122 ₽```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1042,7 +1042,7 @@
                 "storage": "1",
                 "varName": "class3",
                 "fieldName": "Budget Class",
-                "message": "```MF-Untar \nArea: Thorax + Stomach\nTD/Durability: 75/45\nRepairability: Good\nPenalties:\nMoveSp -18% | TurnSp -6% | Ergo -8\nPeacekeeper LL2 406 $```\n```6B23-1 \nArea: Thorax + Stomach\nTD/Durability: 86/60\nRepairability: Very Good\nPenalties:\nMoveSp -11% | TurnSp -5% | Ergo -9 \nRagman LL2 42315 ₽```\n```Zhuk-3 Press\nArea: Thorax + Stomach\nTD/Durability: 111/50\nRepairability: Very Good\nPenalties:\nMoveSp -10% | TurnSp -4% | Ergo -5\nNo trader price.```\n```BNTI Kirasa-N\nArea: Thorax + Stomach\nTD/Durability: 140/70\nRepairability: OK\nPenalties:\nMoveSp -8% | TurnSp -5% | Ergo -6\nRagman LL3 61064 ₽```\n```6B5-15 Zh-86\nArea: Thorax + Stomach\nTD/Durability: 145/80\nRepairability: Good\nPenalties:\nMoveSp -9% | TurnSp -5% | Ergo -12\nNo trader price.```",
+                "message": "```MF-Untar \nArea: Thorax + Stomach\nTD/Durability: 75/45\nRepairability: Good\nPenalties:\nMoveSp -18% | TurnSp -6% | Ergo -8%\nPeacekeeper LL2 406 $```\n```6B23-1 \nArea: Thorax + Stomach\nTD/Durability: 86/60\nRepairability: Very Good\nPenalties:\nMoveSp -11% | TurnSp -5% | Ergo -9%\nRagman LL2 42315 ₽```\n```Zhuk-3 Press\nArea: Thorax + Stomach\nTD/Durability: 111/50\nRepairability: Very Good\nPenalties:\nMoveSp -10% | TurnSp -4% | Ergo -5%\nNo trader price.```\n```BNTI Kirasa-N\nArea: Thorax + Stomach\nTD/Durability: 140/70\nRepairability: OK\nPenalties:\nMoveSp -8% | TurnSp -5% | Ergo -6%\nRagman LL3 61064 ₽```\n```6B5-15 Zh-86\nArea: Thorax + Stomach\nTD/Durability: 145/80\nRepairability: Good\nPenalties:\nMoveSp -9% | TurnSp -5% | Ergo -12%\nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1077,7 +1077,7 @@
                 "storage": "1",
                 "varName": "class4",
                 "fieldName": "Decent Class",
-                "message": "```6B13 \nArea:\nThorax + Stomach\nTD/Durability: 59/47\nRepairability: Bad \nPenalties:\nMoveSp -12%\nTurnSp -3%\nErgo -5 \nRagman LL3 64155 ₽```\n```6B23-2 \nArea:\nThorax + Stomach\nTD/Durability: 69/55\nRepairability: Bad\nPenalties:\nMoveSp -11%\nTurnSp -3%\nErgo -9 \nRagman LL3 71925 ₽```\n```Highcom Trooper\nArea: Thorax\nTD/Durability: 156/70\nRepairability: Very Good\nPenalties:\nMoveSp -9%\nTurnSp -5%\nErgo -3 \nNo trader price.```",
+                "message": "```6B13 \nArea:\nThorax + Stomach\nTD/Durability: 59/47\nRepairability: Bad \nPenalties:\nMoveSp -12%\nTurnSp -3%\nErgo -5%\nRagman LL3 64155 ₽```\n```6B23-2 \nArea:\nThorax + Stomach\nTD/Durability: 69/55\nRepairability: Bad\nPenalties:\nMoveSp -11%\nTurnSp -3%\nErgo -9%\nRagman LL3 71925 ₽```\n```Highcom Trooper\nArea: Thorax\nTD/Durability: 156/70\nRepairability: Very Good\nPenalties:\nMoveSp -9%\nTurnSp -5%\nErgo -3%\nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1085,7 +1085,7 @@
                 "storage": "1",
                 "varName": "class4",
                 "fieldName": "Armored Rigs",
-                "message": "```6B3TM-01M \nSlots: 12\nArea:\nThorax + Stomach\nTD/Durability: 73/40\nRepairability: Good\nPenalties:\nMoveSp -10%\nTurnSp -5%\nErgo -15 \nRagman LL2 47565 ₽```\n```ANA Tactical M2\nSlots: 18\nArea:\nThorax + Stomach\nTD/Durability: 109/60\nRepairability: Good\nPenalties:\nMoveSp -8%\nTurnSp -5%\nErgo -2 \nNo trader price.```\n```ANA Tactical M1\nSlots: 20\nArea:\nThorax + Stomach\nTD/Durability: 118/65\nRepairability: Good\nPenalties\nMoveSp -10%\nTurnSp -5%\nErgo -5 \nNo trader price.```",
+                "message": "```6B3TM-01M \nSlots: 12\nArea:\nThorax + Stomach\nTD/Durability: 73/40\nRepairability: Good\nPenalties:\nMoveSp -10%\nTurnSp -5%\nErgo -15%\nRagman LL2 47565 ₽```\n```ANA Tactical M2\nSlots: 18\nArea:\nThorax + Stomach\nTD/Durability: 109/60\nRepairability: Good\nPenalties:\nMoveSp -8%\nTurnSp -5%\nErgo -2%\nNo trader price.```\n```ANA Tactical M1\nSlots: 20\nArea:\nThorax + Stomach\nTD/Durability: 118/65\nRepairability: Good\nPenalties\nMoveSp -10%\nTurnSp -5%\nErgo -5%\nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1093,7 +1093,7 @@
                 "storage": "1",
                 "varName": "class4",
                 "fieldName": "Armored Rigs Continued",
-                "message": "```Ars Arma A18 \nSlots: 25\nArea: Thorax \nTD/Durability: 160/80\nRepairability: Ok \nPenalties:\nMoveSp -7%\nTurnSp -4%\nErgo -6\nNo trader price.```\n```Wartech TV-110 \nSlots: 23\nArea: Thorax \nTD/Durability: 121/85\nRepairability: Very Good\nPenalties:\nMoveSp -6%\nTurnSp -4%\nErgo -5\nRagman LL4 95760 ₽```\n\n```Crye Precision AVS\nSlots: 23\nArea:\nThorax + Stomach\nTD/Durability: 140/70\nRepairability: OK\nPenalties:\nMoveSp -10%\nTurnSp -2%\nErgo -2\nNo trader price.```",
+                "message": "```Ars Arma A18 \nSlots: 25\nArea: Thorax \nTD/Durability: 160/80\nRepairability: Ok \nPenalties:\nMoveSp -7%\nTurnSp -4%\nErgo -6%\nNo trader price.```\n```Wartech TV-110 \nSlots: 23\nArea: Thorax \nTD/Durability: 121/85\nRepairability: Very Good\nPenalties:\nMoveSp -6%\nTurnSp -4%\nErgo -5%\nRagman LL4 95760 ₽```\n\n```Crye Precision AVS\nSlots: 23\nArea:\nThorax + Stomach\nTD/Durability: 140/70\nRepairability: OK\nPenalties:\nMoveSp -10%\nTurnSp -2%\nErgo -2%\nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1128,7 +1128,7 @@
                 "storage": "1",
                 "varName": "class5",
                 "fieldName": "Scav Homie think this is the best class",
-                "message": "```5.11 Tactec\nSlots: 18\nArea: Thorax \nTD/Durability: 111/50\nRepairability: Very Good\nPenalties: MoveSp -7%,\nTurnSp -3%, Ergo -3\nNo trader price.```\n```IOTV Gen4 HMK\nArea: Thorax + Stomach\nTD/Durability: 113/62\nRepairability: Good\nPenalties: MoveSp -11%, TurnSp -15%, Ergo -11\nNo trader price.```\n```FORT Redut-M\nArea: Thorax + Stomach\nTD/Durability: 114/57\nRepairability: OK\nPenalties: MoveSp -13%, TurnSp -12%, Ergo -11\nRagman LL3 226838 ₽```\n```IOTV Gen4 Assault\nArea: Thorax + Stomach + Arms\nTD/Durability: 124/68\nRepairability: Good\nPenalties: MoveSp -17%, TurnSp -9%, Ergo -8\nNo trader price.```",
+                "message": "```5.11 Tactec\nSlots: 18\nArea: Thorax \nTD/Durability: 111/50\nRepairability: Very Good\nPenalties: MoveSp -7%,\nTurnSp -3%, Ergo -3%\nNo trader price.```\n```IOTV Gen4 HMK\nArea: Thorax + Stomach\nTD/Durability: 118/65\nRepairability: Good\nPenalties: MoveSp -11%, TurnSp -17%, Ergo -12%\nNo trader price.```\n```FORT Redut-M\nArea: Thorax + Stomach\nTD/Durability: 120/60\nRepairability: OK\nPenalties: MoveSp -13%, TurnSp -12%, Ergo -11%\nRagman LL3 226838 ₽```\n```IOTV Gen4 Assault\nArea: Thorax + Stomach + Arms\nTD/Durability: 137/75\nRepairability: Good\nPenalties: MoveSp -20%, TurnSp -14%, Ergo -14%\nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1136,7 +1136,7 @@
                 "storage": "1",
                 "varName": "class5",
                 "fieldName": "Class 5",
-                "message": "```IOTV Gen4 Full\nArea: Thorax + Stomach + Arms\nTD/Durability: 145/80\nRepairability: Good\nPenalties: MoveSp -33%, TurnSp -15%, Ergo -18\nNo trader price.```\n```FORT Redut-T\nArea: Thorax + Stomach + Arms\nTD/Durability: 190/95\nRepairability: OK \nPenalties: MoveSp -37%, TurnSp -15%, Ergo -14 \nNo trader price.```\n```BNTI Gzhel-K\nArea: Thorax + Stomach\nTD/Durability: 82/65\nRepairability: Bad\nPenalties: MoveSp -10%, TurnSp -3%, Ergo -4\nRagman LL3 after \"Supervisor\" 119521 ₽```\n```6B13 M Assault\nArea: Thorax + Stomach\nTD/Durability: 133/60\nRepairability: Very Good \nPenalties: MoveSp -9%,\nTurnSp -3%, Ergo -5\nNo trader price.\nScav Boss Armor (Killa)```",
+                "message": "```IOTV Gen4 Full\nArea: Thorax + Stomach + Arms\nTD/Durability: 172/95\nRepairability: Good\nPenalties: MoveSp -33%, TurnSp -19%, Ergo -22%\nNo trader price.```\n```FORT Redut-T5\nArea: Thorax + Stomach + Arms\nTD/Durability: 200/100\nRepairability: OK \nPenalties: MoveSp -37%, TurnSp -15%, Ergo -14%\nNo trader price.```\n```BNTI Gzhel-K\nArea: Thorax + Stomach\nTD/Durability: 82/65\nRepairability: Bad\nPenalties: MoveSp -10%, TurnSp -3%, Ergo -4%\nRagman LL3 after \"Supervisor\" 119521 ₽```\n```6B13 M Assault\nArea: Thorax + Stomach\nTD/Durability: 133/60\nRepairability: Very Good \nPenalties: MoveSp -9%,\nTurnSp -3%, Ergo -5%\nNo trader price.\nScav Boss Armor (Killa)```\n```Ars Arma CPC MOD.2\nArea: Thorax\nTD/Durability: 133/60\nRepairability: Very Good \nPenalties: MoveSp -6%,\nTurnSp -3%, Ergo -5%\nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1171,7 +1171,7 @@
                 "storage": "1",
                 "varName": "class6",
                 "fieldName": "Highest Class",
-                "message": "```Zhuk-6a Heavy\nArea: Thorax + Stomach\nTD/Durability: 94/75\nRepairability: Bad\nPenalties:\nMoveSp -13% | TurnSp -5% | Ergo -6\nNo trader price.```\n```6B43 Zabralo-Sh 6A (Fort)\nArea: Thorax + Stomach + Arms\nTD/Durability: 150/75\nRepairability: OK\nPenalties:\nMoveSp -40% | TurnSp -18% | Ergo -27\nNo trader price.```",
+                "message": "```Zhuk-6a Heavy\nArea: Thorax + Stomach\nTD/Durability: 94/75\nRepairability: Bad\nPenalties:\nMoveSp -13% | TurnSp -5% | Ergo -6%\nNo trader price.```\n```6B43 Zabralo-Sh 6A (Fort)\nArea: Thorax + Stomach + Arms\nTD/Durability: 170/85\nRepairability: OK\nPenalties:\nMoveSp -42% | TurnSp -21% | Ergo -27%\nNo trader price.```\n```LBT 6094A Slick \nArea: Thorax \nTD/Durability: 178/80\nRepairability: Very Good\nPenalties:\nMoveSp -10% | TurnSp -2% | Ergo -1%\nNo trader price.```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -1497,7 +1497,7 @@
                 "storage": "1",
                 "varName": "weaponcmd",
                 "fieldName": "Explanation",
-                "message": "Best Recoil = br\nBest Ergo = be\nBudget = b\nExample: bm4, brak74m, behk\n\nsome weapons like dt mdr are 2 weapons with the same \nname but the 556 is just mdr and 762 is dtmdr.\n\nSome commands can show builds that work for multiple weapons.",
+                "message": "Best Recoil = br\nBest Ergo = be\nBudget = b\nExample: bm4, brak74m, behk\n\nSome weapons like the DT MDR are 2 weapons with the same \nname but the 556 is just mdr and 762 is dtmdr.\n\nSome commands can show builds that work for multiple weapons.",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -3546,7 +3546,7 @@
                 "storage": "1",
                 "varName": "bradarstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as `M4A1`.",
+                "message": "For best ergo, type `bem4`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3672,7 +3672,7 @@
                 "storage": "1",
                 "varName": "brtx15stats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as `M4A1`.",
+                "message": "For best ergo, type `bem4`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3881,7 +3881,7 @@
                 "storage": "1",
                 "varName": "brak103stats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as `AK-74N` except stock.",
+                "message": "For best ergo, type `beak74n` except stock.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -3972,7 +3972,7 @@
                 "storage": "1",
                 "varName": "brak104stats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as `AK-105`.",
+                "message": "For best ergo, type `beak105`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4063,7 +4063,7 @@
                 "storage": "1",
                 "varName": "brakmstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as `AK-74N`.",
+                "message": "For best ergo, type `beak74n`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4154,7 +4154,7 @@
                 "storage": "1",
                 "varName": "brakmstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as `AK-74N`.",
+                "message": "For best ergo, type `beak74n`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4245,7 +4245,7 @@
                 "storage": "1",
                 "varName": "brakmstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as `AK-74N`.",
+                "message": "For best ergo, type `beak74n`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -4336,7 +4336,7 @@
                 "storage": "1",
                 "varName": "brakmstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as `AK-74N` except stock.",
+                "message": "For best ergo, type `beak74n` except stock.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
