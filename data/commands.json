@@ -8501,7 +8501,7 @@
                 "storage": "1",
                 "varName": "upd",
                 "fieldName": "Latest update",
-                "message": "Bot Version **1.0.1**\n\n```2020-02-27 1.0.1```\nMinor changes of info on bullets and builds.\nAdded Info command for support, suggestions and bot list website.\nAdded markdown to text for aesthetics.",
+                "message": "Bot Version **0.0.1b**\n\n```2020-02-27 0.0.1b```\nMinor changes of info on bullets and builds.\nAdded Info command for support, suggestions and bot list website.\nAdded markdown to text for aesthetics.",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -8536,7 +8536,7 @@
                 "storage": "1",
                 "varName": "allupd",
                 "fieldName": "1 update so far",
-                "message": "Bot Version **1.0.1**\n\n```2020-02-27 1.0.1```\nMinor changes of info on bullets and builds.\nAdded Info command for support, suggestions and bot list website.\nAdded markdown to text for aesthetics.\n\n",
+                "message": "Bot Version **0.0.1b**\n\n```2020-02-27 0.0.1b```\nMinor changes of info on bullets and builds.\nAdded Info command for support, suggestions and bot list website.\nAdded markdown to text for aesthetics.\n\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
