@@ -2162,7 +2162,7 @@
                 "storage": "1",
                 "varName": "br74n",
                 "fieldName": "Ammunition",
-                "message": "`Budget ammo: `PS`\nTop tier ammo: `BP`",
+                "message": "Budget ammo: `PS`\nTop tier ammo: `BP`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5885,7 +5885,7 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/K8W6Dcp5/mp5x-2.png",
+                "imageUrl": "https://i.postimg.cc/8zB8J61W/bemp5-1.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "bemp5",
@@ -5898,7 +5898,7 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/kXT3Dvxz/mp5x-3.png",
+                "imageUrl": "https://i.postimg.cc/sDWCzLqT/bemp5-2.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "bemp5stats",
@@ -5911,7 +5911,7 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/8zs8vf45/mp5x-4.png",
+                "imageUrl": "https://i.postimg.cc/dVKPVBKw/bemp5-3.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "bemp5mods",
@@ -8715,6 +8715,49 @@
             {
                 "storage": "1",
                 "varName": "bsks",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Bmp5",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Budget MP5",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/ncqV2MFV/bmp5.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "bmp5",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "bmp5",
+                "fieldName": "Ammo for the build",
+                "message": "```Budget pen: pst gzh (18 Pen / 54 Dmg)\nMechanic LL1 65 ₽\nBest pen: AP 6.3 (25 Pen / 52 Dmg)\nPeacekeeper LL3 (if you buy ≥ 50) 4.12 $ Per Unit\nGood flesh: Luger CCI (70 damage)\nSkier LL4 350 ₽\nBest flesh: RIP (102 Damage)\n11/04-20 Flea Market Price: ~770 ₽```",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "bmp5",
+                "fieldName": "Mod List",
+                "message": "```MP5: ~26k  \nMount: MFI HK | ~9k ₽\nMuzzle: HK Noveske | ~11k ₽  \nXPS3-2 | ~16k ₽\nTotal: ~62k ₽```\n\n**All prices taken from flea.**",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "bmp5",
                 "channel": "0",
                 "varName2": "",
                 "name": "Send Embed Message"
