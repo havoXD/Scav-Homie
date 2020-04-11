@@ -8501,7 +8501,7 @@
                 "storage": "1",
                 "varName": "upd",
                 "fieldName": "Latest update",
-                "message": "Bot Version **0.0.1b**\n\n```2020-02-27 0.0.1b```\nMinor changes of info on bullets and builds.\nAdded Info command for support, suggestions and bot list website.\nAdded markdown to text for aesthetics.",
+                "message": "Bot Version **0.0.1b**\n\n```2020-04-11 0.0.1b```\nI've decided to dedicate this to updates that\nbring new features and/or big changes.\nScav Homie is being re-written into better and more effective code.\nAfter that Scav Homie will bring more features but he needs your ideas and wishes.\nDM havoX#7808 for any questions.",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -8536,7 +8536,7 @@
                 "storage": "1",
                 "varName": "allupd",
                 "fieldName": "1 update so far",
-                "message": "Bot Version **0.0.1b**\n\n```2020-02-27 0.0.1b```\nMinor changes of info on bullets and builds.\nAdded Info command for support, suggestions and bot list website.\nAdded markdown to text for aesthetics.\n\n",
+                "message": "Bot Version **0.0.1b**\n\n```2020-04-11 0.0.1b```\nNo big updates have come yet but they are on the way.\nDM havoX#7808 for any questions.",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
