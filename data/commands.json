@@ -1354,7 +1354,7 @@
                 "storage": "1",
                 "varName": "cmd",
                 "fieldName": "Bot Version: 0.0.1b",
-                "message": "`Info` - Support, suggestions and voting for my bot. \n`Update` - Shows latest update\n`Allupdates` - Shows all updats since release\nLast Updated: `03/04-20`\nBased on game version: `0.12.3.6152`\n",
+                "message": "`Info` - Support, suggestions and voting for my bot. \n`Update` - Shows latest update\n`Allupdates` - Shows all updats since release\nLast Updated: `11/04-20`\nBased on game version: `0.12.4.6675`\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
