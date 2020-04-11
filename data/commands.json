@@ -5234,34 +5234,43 @@
         ]
     },
     {
+        
         "name": "BEm700",
         "permissions": "NONE",
         "restriction": "1",
         "actions": [
             {
-                "title": "Coming Soon",
+                "title": "Best Ergo M700",
                 "author": "",
                 "color": "",
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "",
+                "imageUrl": "https://i.postimg.cc/bJ52fxRb/bem700.png",
                 "thumbUrl": "",
                 "storage": "1",
-                "varName": "m700",
+                "varName": "bem700",
                 "name": "Create Embed Message"
             },
             {
                 "storage": "1",
-                "varName": "m700",
-                "fieldName": "Other Commands",
-                "message": "Type `BRm700` to get the best recoil build.",
+                "varName": "bem700",
+                "fieldName": "Ammo for the build",
+                "message": "```Best Flesh: M80 (41 Pen / 80 Dmg)\nPeacekeeper LL2\n(if you buy ≥ 50) 1.62 $ Per Unit\nBest pen: M61 (68 Pen / 70 Dmg)\nPeacekeeper LL4 9 $\nafter Wet Job - Part 6```",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
             {
                 "storage": "1",
-                "varName": "m700",
+                "varName": "bem700",
+                "fieldName": "Mod List",
+                "message": "```M700: ~23k  \nChassi: MOD X Gen.3 | ~18k ₽\nMuzzle: SHREWD | ~13k ₽  \nSights: MBUS Rear+Front | ~10k ₽\nBuffer tube: COLT A2 | ~4k ₽\nStock: PRS GEN3 | ~15k ₽\nBarrel: 20 inch | ~17k ₽\nPistol Grip: Hogue OMRG | ~5k ₽\nHandguard: A*B Arms | ~14k ₽\nMount: A*B Arms | ~4k ₽\nMount: Strike 6 inch | ~6k ₽\nGrip: Hera CQR | ~21k ₽\nTotal: ~150k ₽```\n\n**All prices taken from flea.**",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "bem700",
                 "channel": "0",
                 "varName2": "",
                 "name": "Send Embed Message"
@@ -5371,7 +5380,7 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/XqFvgyx9/sr25-2.png",
+                "imageUrl": "https://i.postimg.cc/qMBBkhzZ/sr25x.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "brsr25",
@@ -5384,7 +5393,7 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/TwK1psD7/sr25-3.png",
+                "imageUrl": "https://i.postimg.cc/Wz82Gjfn/sr25x-2.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "brsr25stats",
@@ -5397,7 +5406,7 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/KzCzL57Z/sr25-4.png",
+                "imageUrl": "https://i.postimg.cc/CMsLTHLq/sr25x-3.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "brsr25mods",
@@ -5462,7 +5471,7 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/L6pPbHfm/svd-2.png",
+                "imageUrl": "https://i.postimg.cc/J7xCzJzk/svdsbr.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "brsvd",
@@ -5475,7 +5484,7 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/HnQykKGG/svd-3.png",
+                "imageUrl": "https://i.postimg.cc/RhSrTCXh/svdsbr-2.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "brsvdstats",
@@ -5488,7 +5497,7 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/ZY33H9Wf/svd-4.png",
+                "imageUrl": "https://i.postimg.cc/T1CzN849/svdsbr-3.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "brsvdmods",
@@ -5498,7 +5507,7 @@
                 "storage": "1",
                 "varName": "brsr25",
                 "fieldName": "Ammunition",
-                "message": "Budget ammo: `LPS gzh`\nTop tier Pen ammo: `7N37`\nTop tier Flesh ammo: `7N1`",
+                "message": "Budget ammo: `LPS gzh`\nBest Pen ammo: `7N37`\nBest Flesh ammo: `7N1`",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -5506,7 +5515,7 @@
                 "storage": "1",
                 "varName": "brsvdstats",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, change following:\n`RK-2` -> `Fortis Shift`\nNo Suppressor\n",
+                "message": "For best ergo, change following:\n`RK-2` -> `Fortis Shift`\n`Izhmash handguard` -> `SAG MK1`\nNo Suppressor\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -8758,6 +8767,49 @@
             {
                 "storage": "1",
                 "varName": "bmp5",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "BRmp153",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Recoil MP-153",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/0QyHBstj/brmp153-2.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "BRmp153",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "BRmp153",
+                "fieldName": "Ammo for the build",
+                "message": "```Best pen: AP-20 (32 Pen / 164 Dmg)\nJaeger LL4 196 ₽\nBudget flesh: 7mm (8 x 32 Dmg)\nPrapor LL1 31 ₽\nBest Buckshot flesh: 8.5mm (8 x 44 Dmg)\nJaeger LL2 51 ₽\nBest Slug flesh: RIP (235 Dmg)\n11/04-20 Flea Market Price: ~750 ₽```",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "BRmp153",
+                "fieldName": "Mod List",
+                "message": "```MP-153: ~19k\nAdapter: ME Cylinder | ~2k ₽\nMuzzle: Tromix | ~10k ₽  \nMount: SPRM | ~4k ₽\nSight: Any Sight | ~10k-20k ₽\nBarrel: 750mm | ~7k ₽\nAdapter: 12003 | ~3k ₽\nPistol Grip: AGR-870 | ~6k ₽\nBuffer tube: AGR-870 | ~3k ₽\nStock: HK E1 | ~16k ₽\nTotal: ~80k ₽```\n\n**All prices taken from flea.**",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "BRmp153",
                 "channel": "0",
                 "varName2": "",
                 "name": "Send Embed Message"
