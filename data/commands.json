@@ -8897,7 +8897,7 @@
                 "storage": "1",
                 "varName": "Bsa58",
                 "fieldName": "Mod List",
-                "message": "```SA-58: ~60k\nMuzzle: Austrian | ~2k ₽\nPistol Grip: TAPCO SAW | ~4k ₽  \nMount: M-LOK 4.1 | ~3k ₽\nSight: Any Sight | ~10k-20k ₽\nHandguard: M-LOK | ~6k ₽\nAdapter: Tube adapter | ~3k ₽\nGrip: RVG | ~9k ₽\nStock: Baskak | ~4k ₽\nDust cover: DS Arms | ~15k ₽\nTotal: ~110-120k ₽```\n\n**All prices taken from flea.**",
+                "message": "```SA-58: ~60k\nMuzzle: Austrian | ~2k ₽\nPistol Grip: TAPCO SAW | ~4k ₽  \nMount: M-LOK 4.1 | ~3k ₽\nSight: Any Sight | ~10k-20k ₽\nHandguard: Quad Rail | ~12k ₽\nAdapter: Tube adapter | ~3k ₽\nGrip: RVG | ~9k ₽\nStock: Baskak | ~4k ₽\nDust cover: DS Arms | ~15k ₽\nTotal: ~115-125k ₽```\n\n**All prices taken from flea.**",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
