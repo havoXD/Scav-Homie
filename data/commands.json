@@ -8666,7 +8666,7 @@
                 "storage": "1",
                 "varName": "bmpx",
                 "fieldName": "Ammo for the build",
-                "message": "Type `919` to get info on the best bullets for this caliber",
+                "message": "Type `919` to get the right ammo",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -8709,7 +8709,7 @@
                 "storage": "1",
                 "varName": "bsks",
                 "fieldName": "Ammo for the build",
-                "message": "Type `762` to get info on the best bullets for this caliber",
+                "message": "Type `762` to get the right ammo",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -8752,7 +8752,7 @@
                 "storage": "1",
                 "varName": "bmp5",
                 "fieldName": "Ammo for the build",
-                "message": "Type `919` to get info on the best bullets for this caliber",
+                "message": "Type `919` to get the right ammo",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -8795,7 +8795,7 @@
                 "storage": "1",
                 "varName": "BRmp153",
                 "fieldName": "Ammo for the build",
-                "message": "Type `12gb` or `12gs` to get info on the best bullets for this caliber",
+                "message": "Type `12gb` or `12gs` to get the right ammo",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -8838,7 +8838,7 @@
                 "storage": "1",
                 "varName": "Bsa58",
                 "fieldName": "Ammo for the build",
-                "message": "Type `n762` to get info on the best bullets for this caliber",
+                "message": "Type `n762` to get the right ammo",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -8889,7 +8889,7 @@
                 "storage": "1",
                 "varName": "Bsa58",
                 "fieldName": "Ammo for the build",
-                "message": "Type `n762` to get info on the best bullets for this caliber",
+                "message": "Type `n762` to get the right ammo",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
