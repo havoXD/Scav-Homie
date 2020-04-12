@@ -8666,7 +8666,7 @@
                 "storage": "1",
                 "varName": "bmpx",
                 "fieldName": "Ammo for the build",
-                "message": "**Penetration Ammo**\n```Budget ammo: Pst gzh (18 Pen / 54 Dmg)\nMechanic LL1 65 ₽\nTop tier ammo: AP 6.3 (25 Pen / 52 Dmg)\nPeacekeeper LL3 5 $```**Flesh Damage Ammo**```Alt. ammo: Luger CCI (10 Pen / 70 Dmg)\nSkier LL4 350 ₽ or\nMarket Price as of 03-03: 420 ₽ \nTop tier ammo: RIP (2 Pen / 102 Dmg)\nMarket Price as of 03-03: ~750 ₽```\n",
+                "message": "Type `919` to get info on the best bullets for this caliber",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -8709,7 +8709,7 @@
                 "storage": "1",
                 "varName": "bsks",
                 "fieldName": "Ammo for the build",
-                "message": "```Budget ammo: PS (34 Pen / 54 Dmg)\nPrapor LL1 87 ₽\nTop tier ammo: BP (47 Pen / 58 Dmg)\nPrapor LL3 after \nThe Punisher - Part 3 731 ₽```\n",
+                "message": "Type `762` to get info on the best bullets for this caliber",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -8752,7 +8752,7 @@
                 "storage": "1",
                 "varName": "bmp5",
                 "fieldName": "Ammo for the build",
-                "message": "```Budget pen: pst gzh (18 Pen / 54 Dmg)\nMechanic LL1 65 ₽\nBest pen: AP 6.3 (25 Pen / 52 Dmg)\nPeacekeeper LL3 (if you buy ≥ 50) 4.12 $ Per Unit\nGood flesh: Luger CCI (70 damage)\nSkier LL4 350 ₽\nBest flesh: RIP (102 Damage)\n11/04-20 Flea Market Price: ~770 ₽```",
+                "message": "Type `919` to get info on the best bullets for this caliber",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -8795,7 +8795,7 @@
                 "storage": "1",
                 "varName": "BRmp153",
                 "fieldName": "Ammo for the build",
-                "message": "```Best pen: AP-20 (32 Pen / 164 Dmg)\nJaeger LL4 196 ₽\nBudget flesh: 7mm (8 x 32 Dmg)\nPrapor LL1 31 ₽\nBest Buckshot flesh: 8.5mm (8 x 44 Dmg)\nJaeger LL2 51 ₽\nBest Slug flesh: RIP (235 Dmg)\n11/04-20 Flea Market Price: ~750 ₽```",
+                "message": "Type `12gb` or `12gs` to get info on the best bullets for this caliber",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -8810,6 +8810,108 @@
             {
                 "storage": "1",
                 "varName": "BRmp153",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Bsa58",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Budget SA-58",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/4NqP9f3b/bsa58x.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Bsa58",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Bsa58",
+                "fieldName": "Ammo for the build",
+                "message": "Type `n762` to get info on the best bullets for this caliber",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bsa58",
+                "fieldName": "Mod List",
+                "message": "```SA-58: ~60k\nMuzzle: Austrian | ~2k ₽\nPistol Grip: TAPCO SAW | ~4k ₽  \nMount: M-LOK 4.1 | ~3k ₽\nSight: Any Sight | ~10k-20k ₽\nHandguard: M-LOK | ~6k ₽\nAdapter: Tube adapter | ~3k ₽\nGrip: RVG | ~9k ₽\nStock: Baskak | ~4k ₽\nTotal: ~100-110k ₽```\n\n**All prices taken from flea.**",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bsa58",
+                "fieldName": "Alternative",
+                "message": "Type `BSA58x` to get an alternative build",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bsa58",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Bsa58x",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Budget short SA-58",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/c4rTCgdL/bsa582-2.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Bsa58",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Bsa58",
+                "fieldName": "Ammo for the build",
+                "message": "Type `n762` to get info on the best bullets for this caliber",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bsa58",
+                "fieldName": "Mod List",
+                "message": "```SA-58: ~60k\nMuzzle: Austrian | ~2k ₽\nPistol Grip: TAPCO SAW | ~4k ₽  \nMount: M-LOK 4.1 | ~3k ₽\nSight: Any Sight | ~10k-20k ₽\nHandguard: M-LOK | ~6k ₽\nAdapter: Tube adapter | ~3k ₽\nGrip: RVG | ~9k ₽\nStock: Baskak | ~4k ₽\nDust cover: DS Arms | ~15k ₽\nTotal: ~110-120k ₽```\n\n**All prices taken from flea.**",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bsa58",
+                "fieldName": "Alternative",
+                "message": "Type `BSA58` to get an alternative build",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bsa58",
                 "channel": "0",
                 "varName2": "",
                 "name": "Send Embed Message"
