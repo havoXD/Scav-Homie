@@ -5460,6 +5460,97 @@
         ]
     },
     {
+        "name": "BEsr25",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Recoil KAC SR-25",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/qMBBkhzZ/sr25x.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "bEsr25",
+                "name": "Create Embed Message"
+            },
+            {
+                "title": "Stats",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/Wz82Gjfn/sr25x-2.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "bEsr25stats",
+                "name": "Create Embed Message"
+            },
+            {
+                "title": "Modifications",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/CMsLTHLq/sr25x-3.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "bEsr25mods",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "bEsr25",
+                "fieldName": "Ammunition",
+                "message": "Budget ammo: M80\nTop tier ammo: M61/M62",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "bEsr25stats",
+                "fieldName": "Best Ergo",
+                "message": "For best ergo, change following:\n`HK E1` -> `PRS GEN3`\n`RK-2` -> `Fortis Shift`\n",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "bEsr25mods",
+                "fieldName": "Suppressors",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`\n",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "bEsr25",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "bEsr25stats",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "bEsr25mods",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
         "name": "BRsvds",
         "permissions": "NONE",
         "restriction": "1",
@@ -5544,6 +5635,97 @@
             {
                 "storage": "1",
                 "varName": "brsvdmods",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "BEsvds",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Recoil SVDS",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/J7xCzJzk/svdsbr.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "bEsvd",
+                "name": "Create Embed Message"
+            },
+            {
+                "title": "Stats",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/RhSrTCXh/svdsbr-2.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "brsvdstats",
+                "name": "Create Embed Message"
+            },
+            {
+                "title": "Modifications",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/T1CzN849/svdsbr-3.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "bEsvdmods",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "bEsvd",
+                "fieldName": "Ammunition",
+                "message": "Budget ammo: `LPS gzh`\nBest Pen ammo: `7N37`\nBest Flesh ammo: `7N1`",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "bEsvdstats",
+                "fieldName": "Best Ergo",
+                "message": "For best ergo, change following:\n`RK-2` -> `Fortis Shift`\n`Izhmash handguard` -> `SAG MK1`\nNo Suppressor\n",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "bEsvdmods",
+                "fieldName": "Suppressors",
+                "message": "Best suppressor: `Rotor 43 7.62x54`\n",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "bEsvd",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "bEsvdstats",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "bEsvdmods",
                 "channel": "0",
                 "varName2": "",
                 "name": "Send Embed Message"
@@ -6719,8 +6901,8 @@
             {
                 "storage": "1",
                 "varName": "bevalstats",
-                "fieldName": "VSS config",
-                "message": "`VSS` has the same mount and grip but can not change stock.",
+                "fieldName": "",
+                "message": "",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -7518,7 +7700,7 @@
                 "storage": "1",
                 "varName": "baks74unstats",
                 "fieldName": "Only works for UN/UB",
-                "message": "This Build only works for AKS-74UN/UB if you want to use a sight.\nThe UN/UB have a mount for the sight which U does not have.",
+                "message": "This Build only works for AKS-74UN/UB if you want to use a sight.\nThe UN/UB have a mount for the sight which U does not have.\n`B-11` Mount is required to put a sight on the `AKS-74U`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -8917,5 +9099,440 @@
                 "name": "Send Embed Message"
             }
         ]
-    }
+    },
+    {
+        "name": "Brash12",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Recoil ASh-12",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/KjVDTMLb/brash12.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Brash12",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Brash12",
+                "fieldName": "Ammo for the build",
+                "message": "Type `127` to get the right ammo",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brash12",
+                "fieldName": "Mod List",
+                "message": "```ASh-12: ~80k\nMuzzle: ASh-12 Regular | ~6k ₽\nGrip: RK-2 | ~29k ₽  \nSight/Scope: Any Sight/Scope | ~17k/~35k ₽\nTotal: ~135-150k ₽```\n\n**All prices taken from flea.**",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brash12",
+                "fieldName": "Best Ergo",
+                "message": "For best ergo, change following:\n`RK-2` -> `Fortis Shift`",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brash12",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Beash12",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Recoil ASh-12",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/KjVDTMLb/brash12.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Beash12",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Beash12",
+                "fieldName": "Ammo for the build",
+                "message": "Type `127` to get the right ammo",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Beash12",
+                "fieldName": "Mod List",
+                "message": "```ASh-12: ~80k\nMuzzle: ASh-12 Regular | ~6k ₽\nGrip: RK-2 | ~29k ₽\nSight/Scope: Any Sight/Scope | ~17k/~35k ₽\nTotal: ~135-150k ₽```\n\n**All prices taken from flea.**",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Beash12",
+                "fieldName": "Best Ergo",
+                "message": "For best ergo, change following:\n`RK-2` -> `Fortis Shift`",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Beash12",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Brmp7a2",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Recoil MP7A2",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/C1FSRjG5/brmp7.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "fieldName": "Ammo for the build",
+                "message": "Type `46` to get the right ammo",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "fieldName": "Mod List",
+                "message": "```MP7A2: ~46k\nGrip: RK-2 | ~29k ₽\nSight/Scope: Any Sight/Scope | ~17k/~35k ₽\nSuppressor: Rotex 2 | ~50k ₽\nTotal: ~140-160k ₽```\n\n**All prices taken from flea.**",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "fieldName": "Best Recoil MP7A1",
+                "message": "Same build for MP7A1 except you can't change the grip",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Bemp7a2",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Ergo MP7A2",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/jj6Rq8JB/bemp7.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "fieldName": "Ammo for the build",
+                "message": "Type `46` to get the right ammo",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "fieldName": "Mod List",
+                "message": "```MP7A2: ~46k\nGrip: Fortis Shift | ~21k ₽\nSight/Scope: Any Sight/Scope | ~17k/~35k ₽\nNOTE: adding KAC or MBUS iron sights gives 2+ ergo\nTotal: ~80-100k ₽```\n\n**All prices taken from flea.**",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "fieldName": "Best Ergo MP7A1",
+                "message": "The `MP7A1` gets best ergo by just adding `KAC` or `MBUS` iron sights.",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Brmp7a1",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Recoil MP7A2",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/C1FSRjG5/brmp7.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "fieldName": "Ammo for the build",
+                "message": "Type `46` to get the right ammo",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "fieldName": "Mod List",
+                "message": "```MP7A2: ~46k\nGrip: RK-2 | ~29k ₽\nSight/Scope: Any Sight/Scope | ~17k/~35k ₽\nSuppressor: Rotex 2 | ~50k ₽\nTotal: ~140-160k ₽```\n\n**All prices taken from flea.**",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "fieldName": "Best Recoil MP7A1",
+                "message": "Same build for MP7A1 except you can't change the grip",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Bemp7a1",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Ergo MP7A2",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/jj6Rq8JB/bemp7.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "fieldName": "Ammo for the build",
+                "message": "Type `46` to get the right ammo",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "fieldName": "Mod List",
+                "message": "```MP7A2: ~46k\nGrip: Fortis Shift | ~21k ₽\nSight/Scope: Any Sight/Scope | ~17k/~35k ₽\nNOTE: adding KAC or MBUS iron sights gives 2+ ergo\nTotal: ~80-100k ₽```\n\n**All prices taken from flea.**",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "fieldName": "Best Ergo MP7A1",
+                "message": "The `MP7A1` gets best ergo by just adding `KAC` or `MBUS` iron sights.",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7a2",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Brmp7",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "MP7 Builds",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Brmp7",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7",
+                "fieldName": "Ammo for the builds",
+                "message": "Type `46` to get the right ammo",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7",
+                "fieldName": "MP7A1 or MP7A2",
+                "message": "You have to type BR/BE `MP7A1` or `MP7A2`",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Brmp7",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Bemp7",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "MP7 Builds",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Brmp7",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Bemp7",
+                "fieldName": "Ammo for the builds",
+                "message": "Type `46` to get the right ammo",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bemp7",
+                "fieldName": "MP7A1 or MP7A2",
+                "message": "You have to type BR/BE `MP7A1` or `MP7A2`",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bemp7",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Bmp7",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "MP7 Builds",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Bmp7",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Bmp7",
+                "fieldName": "Ammo for the builds",
+                "message": "Type `46` to get the right ammo",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bmp7",
+                "fieldName": "MP7A1 or MP7A2",
+                "message": "You have to type BR/BE `MP7A1` or `MP7A2`",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bmp7",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    } 
 ]
