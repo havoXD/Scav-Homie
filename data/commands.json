@@ -9534,5 +9534,91 @@
                 "name": "Send Embed Message"
             }
         ]
-    } 
+    },
+    {
+        "name": "Bmp7a1",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "MP7 Builds",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Bmp7",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Bmp7",
+                "fieldName": "Ammo for the builds",
+                "message": "Type `46` to get the right ammo",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bmp7",
+                "fieldName": "MP7A1 or MP7A2",
+                "message": "You have to type BR/BE `MP7A1` or `MP7A2`",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bmp7",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
+        "name": "Bmp7a2",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "MP7 Builds",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "Bmp7",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "Bmp7",
+                "fieldName": "Ammo for the builds",
+                "message": "Type `46` to get the right ammo",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bmp7",
+                "fieldName": "MP7A1 or MP7A2",
+                "message": "You have to type BR/BE `MP7A1` or `MP7A2`",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "Bmp7",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    }  
 ]
