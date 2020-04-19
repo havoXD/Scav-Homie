@@ -5143,6 +5143,97 @@
         ]
     },
     {
+        "name": "Bersass",
+        "permissions": "NONE",
+        "restriction": "1",
+        "actions": [
+            {
+                "title": "Best Recoil Remington R11 RSASS",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/YC184nHx/rsass-2.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "brrsass",
+                "name": "Create Embed Message"
+            },
+            {
+                "title": "Stats",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/Kv30bcpw/rsass-3.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "brrsassstats",
+                "name": "Create Embed Message"
+            },
+            {
+                "title": "Modifications",
+                "author": "",
+                "color": "",
+                "timestamp": "false",
+                "url": "",
+                "authorIcon": "",
+                "imageUrl": "https://i.postimg.cc/Gm0qm0Z2/rsass-4.png",
+                "thumbUrl": "",
+                "storage": "1",
+                "varName": "brrsassmods",
+                "name": "Create Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "brrsass",
+                "fieldName": "Ammunition",
+                "message": "Budget ammo: `M80`\nTop tier ammo: `M61` or `M62`",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "brrsassstats",
+                "fieldName": "**Best Ergo**",
+                "message": "For best ergo, change following:\n`HK E1` -> `PRS GEN3`\n`RK-2` -> `Fortis Shift`\n",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "brrsassmods",
+                "fieldName": "Suppressors",
+                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
+                "inline": "1",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "brrsass",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "brrsassstats",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            },
+            {
+                "storage": "1",
+                "varName": "brrsassmods",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
+            }
+        ]
+    },
+    {
         "name": "BRm700",
         "permissions": "NONE",
         "restriction": "1",
