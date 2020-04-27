@@ -1354,7 +1354,7 @@
                 "storage": "1",
                 "varName": "cmd",
                 "fieldName": "Bot Version: 0.0.1b",
-                "message": "`Info` - Support, suggestions and voting for my bot. \n`Update` - Shows latest update\n`Allupdates` - Shows all updats since release\nLast Updated: `11/04-20`\nBased on game version: `0.12.4.6675`\n",
+                "message": "`Info` - Support, suggestions and voting for my bot. \n`Update` - Shows latest update\n`Allupdates` - Shows all updats since release\nLast Updated: `27/04-20`\nBased on game version: `0.12.5.6924`\n",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -2083,19 +2083,6 @@
                 "name": "Create Embed Message"
             },
             {
-                "title": "Modifications",
-                "author": "",
-                "color": "",
-                "timestamp": "false",
-                "url": "",
-                "authorIcon": "",
-                "imageUrl": "",
-                "thumbUrl": "",
-                "storage": "1",
-                "varName": "br74nmods",
-                "name": "Create Embed Message"
-            },
-            {
                 "storage": "1",
                 "varName": "br74n",
                 "fieldName": "Ammunition",
@@ -2105,7 +2092,7 @@
             },
             {
                 "storage": "1",
-                "varName": "br74nmods",
+                "varName": "br74n",
                 "fieldName": "Mod List",
                 "message": "Best Suppressor: `PBS-4`\n\nParts:\n`Kocherga` Stock **~20k₽**\n`Hexagon` Handguard **~30k₽**\n`DTK-1` Muzzle **~5k₽**\n`Fortis Shift` Grip **150-250$**\n`RK-3` Pistol grip **~9k₽**\n`PDC` Dust cover **18-30k₽**\n`RP-1` Charging handle **~3k₽**\n`Hexagon` Rail **~2k₽**\nAny sight **10-20k₽**\nAny scope **20-45k**",
                 "inline": "1",
@@ -2114,13 +2101,6 @@
             {
                 "storage": "1",
                 "varName": "br74n",
-                "channel": "0",
-                "varName2": "",
-                "name": "Send Embed Message"
-            },
-            {
-                "storage": "1",
-                "varName": "br74nmods",
                 "channel": "0",
                 "varName2": "",
                 "name": "Send Embed Message"
@@ -3063,36 +3043,10 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/Bbk9V8Sh/ak101-2.png",
+                "imageUrl": "https://i.postimg.cc/85ZkZgTk/brak101.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "brak101",
-                "name": "Create Embed Message"
-            },
-            {
-                "title": "Stats",
-                "author": "",
-                "color": "",
-                "timestamp": "false",
-                "url": "",
-                "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/JnTWj69C/ak101-3.png",
-                "thumbUrl": "",
-                "storage": "1",
-                "varName": "brak101stats",
-                "name": "Create Embed Message"
-            },
-            {
-                "title": "Modifications",
-                "author": "",
-                "color": "",
-                "timestamp": "false",
-                "url": "",
-                "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/Wzhc8mvF/ak101-4.png",
-                "thumbUrl": "",
-                "storage": "1",
-                "varName": "brak101mods",
                 "name": "Create Embed Message"
             },
             {
@@ -3105,40 +3059,19 @@
             },
             {
                 "storage": "1",
-                "varName": "brak101stats",
+                "varName": "brak101",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as `AK-74n` except the stock.",
-                "inline": "1",
-                "name": "Add Embed Field"
-            },
-            {
-                "storage": "1",
-                "varName": "brak101mods",
-                "fieldName": "Suppressors",
-                "message": "Best suppressor: `Rotor 43`",
+                "message": "For best ergo, type `%BEAK74N` only difference is the stock.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
             {
                 "storage": "1",
                 "varName": "brak101",
-                "channel": "0",
-                "varName2": "",
-                "name": "Send Embed Message"
-            },
-            {
-                "storage": "1",
-                "varName": "brak101stats",
-                "channel": "0",
-                "varName2": "",
-                "name": "Send Embed Message"
-            },
-            {
-                "storage": "1",
-                "varName": "brak101mods",
-                "channel": "0",
-                "varName2": "",
-                "name": "Send Embed Message"
+                "fieldName": "Mod List",
+                "message": "```AK-101: ~40k\nStock adapter: AK74 PT LOCK | 6k ₽\nStock: PT-3 | 20k ₽\nPistol grip: RK-3 | 9k ₽\nHandguard: VLTOR CMRD | 42k ₽\nDust cover: Fab Defence | 33k ₽\nMuzzle Adapter: CNC Warrior | 4k ₽\nMuzzle: Daniel Defence | 11k ₽\nSuppressor: Wave QD | 55k ₽\nGrip: RK-2 | 35k ₽\nGrip mount: Strike 6 inch | 9k ₽\nAny sight/scope: 17k/35k ₽\nTotal: 290k-310k ₽```",
+                "inline": "0",
+                "name": "Add Embed Field"
             }
         ]
     },
@@ -3154,36 +3087,10 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/TPTdmHtC/ak102-2.png",
+                "imageUrl": "https://i.postimg.cc/HnjYKvLw/brak102.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "brak102",
-                "name": "Create Embed Message"
-            },
-            {
-                "title": "Stats",
-                "author": "",
-                "color": "",
-                "timestamp": "false",
-                "url": "",
-                "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/mgf2ZrCx/ak102-3.png",
-                "thumbUrl": "",
-                "storage": "1",
-                "varName": "brak102stats",
-                "name": "Create Embed Message"
-            },
-            {
-                "title": "Modifications",
-                "author": "",
-                "color": "",
-                "timestamp": "false",
-                "url": "",
-                "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/W1GpdPwd/ak102-4.png",
-                "thumbUrl": "",
-                "storage": "1",
-                "varName": "brak102mods",
                 "name": "Create Embed Message"
             },
             {
@@ -3196,37 +3103,23 @@
             },
             {
                 "storage": "1",
-                "varName": "brak102stats",
+                "varName": "brak102",
                 "fieldName": "Best Ergo",
-                "message": "For best ergo, same as `AK-105`.",
-                "inline": "1",
-                "name": "Add Embed Field"
-            },
-            {
-                "storage": "1",
-                "varName": "brak102mods",
-                "fieldName": "Suppressors",
-                "message": "Best suppressor: `Rotor 43`",
+                "message": "For best ergo, Type `%BEAK105`.",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
             {
                 "storage": "1",
                 "varName": "brak102",
-                "channel": "0",
-                "varName2": "",
-                "name": "Send Embed Message"
+                "fieldName": "Mod List",
+                "message": "```AK-102: ~60k\nStock adapter: AK74 PT LOCK | 6k ₽\nStock: PT-3 | 20k ₽\nPistol grip: RK-3 | 9k ₽\nHandguard: Aggressor | 42k ₽\nDust cover: Fab Defence | 33k ₽\nMuzzle Adapter: CNC Warrior | 4k ₽\nMuzzle: Daniel Defence | 11k ₽\nSuppressor: Wave QD | 55k ₽\nGrip: RK-2 | 35k ₽\nAny sight/scope: 17k/35k ₽\nTotal: 280k-300k ₽```",
+                "inline": "1",
+                "name": "Add Embed Field"
             },
             {
                 "storage": "1",
-                "varName": "brak102stats",
-                "channel": "0",
-                "varName2": "",
-                "name": "Send Embed Message"
-            },
-            {
-                "storage": "1",
-                "varName": "brak102mods",
+                "varName": "brak102",
                 "channel": "0",
                 "varName2": "",
                 "name": "Send Embed Message"
@@ -6499,36 +6392,10 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/L6VcWKvr/g17-2.png",
+                "imageUrl": "https://i.postimg.cc/RC7SqtkQ/brg17x.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "brg17",
-                "name": "Create Embed Message"
-            },
-            {
-                "title": "Stats",
-                "author": "",
-                "color": "",
-                "timestamp": "false",
-                "url": "",
-                "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/mZ7fQF9Z/g17-3.png",
-                "thumbUrl": "",
-                "storage": "1",
-                "varName": "brg17stats",
-                "name": "Create Embed Message"
-            },
-            {
-                "title": "Modifications",
-                "author": "",
-                "color": "",
-                "timestamp": "false",
-                "url": "",
-                "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/7YDvXY13/g17-4.png",
-                "thumbUrl": "",
-                "storage": "1",
-                "varName": "brg17mods",
                 "name": "Create Embed Message"
             },
             {
@@ -6541,29 +6408,15 @@
             },
             {
                 "storage": "1",
-                "varName": "brg17mods",
+                "varName": "brg17",
                 "fieldName": "Suppressors",
-                "message": "Best suppressor: `Sig SRD 9`",
+                "message": "Best suppressor: `Fischer Development`",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
             {
                 "storage": "1",
                 "varName": "brg17",
-                "channel": "0",
-                "varName2": "",
-                "name": "Send Embed Message"
-            },
-            {
-                "storage": "1",
-                "varName": "brg17stats",
-                "channel": "0",
-                "varName2": "",
-                "name": "Send Embed Message"
-            },
-            {
-                "storage": "1",
-                "varName": "brg17mods",
                 "channel": "0",
                 "varName2": "",
                 "name": "Send Embed Message"
@@ -8947,7 +8800,7 @@
                 "storage": "1",
                 "varName": "bmpx",
                 "fieldName": "Mod List",
-                "message": "```MPX: ~30k \nStock: Maxim | 6k ₽\nPistol Grip: HG-15 | 5k ₽\nMuzzle: TACCOM | 7k ₽\nGrip: AFG | 6k ₽\nAny sight | 10-20k ₽\nTotal: ~65-75k ₽```\n\n**All prices taken from flea since mods are only available at high level traders.**",
+                "message": "```MPX: ~30k ₽\nStock: Maxim | 6k ₽\nPistol Grip: HG-15 | 5k ₽\nMuzzle: TACCOM | 7k ₽\nGrip: AFG | 6k ₽\nAny sight | 10-20k ₽\nTotal: ~65-75k ₽```\n\n**All prices taken from flea since mods are only available at high level traders.**",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
