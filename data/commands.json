@@ -3072,6 +3072,13 @@
                 "message": "```AK-101: ~40k\nStock adapter: AK74 PT LOCK | 6k ₽\nStock: PT-3 | 20k ₽\nPistol grip: RK-3 | 9k ₽\nHandguard: VLTOR CMRD | 42k ₽\nDust cover: Fab Defence | 33k ₽\nMuzzle Adapter: CNC Warrior | 4k ₽\nMuzzle: Daniel Defence | 11k ₽\nSuppressor: Wave QD | 55k ₽\nGrip: RK-2 | 35k ₽\nGrip mount: Strike 6 inch | 9k ₽\nAny sight/scope: 17k/35k ₽\nTotal: 290k-310k ₽```",
                 "inline": "0",
                 "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "brak101",
+                "channel": "0",
+                "varName2": "",
+                "name": "Send Embed Message"
             }
         ]
     },
