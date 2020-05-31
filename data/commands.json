@@ -4,8 +4,7 @@
         "name": "545",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```5.45x39mm```",
                 "author": "",
                 "color": "",
@@ -71,8 +70,7 @@
         "name": "556",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```5.56x45mm```",
                 "author": "",
                 "color": "",
@@ -130,8 +128,7 @@
         "name": "46",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```4.6x30mm```",
                 "author": "",
                 "color": "",
@@ -189,8 +186,7 @@
         "name": "57",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```5.7x28mm```",
                 "author": "",
                 "color": "",
@@ -240,8 +236,7 @@
         "name": "762",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```7.62x39mm```",
                 "author": "",
                 "color": "",
@@ -291,8 +286,7 @@
         "name": "n762",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```7.62x51```",
                 "author": "",
                 "color": "",
@@ -358,8 +352,7 @@
         "name": "r762",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```7.62x54r```",
                 "author": "",
                 "color": "",
@@ -409,8 +402,7 @@
         "name": "918",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```9x18mm```",
                 "author": "",
                 "color": "",
@@ -468,8 +460,7 @@
         "name": "919",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```9x19mm```",
                 "author": "",
                 "color": "",
@@ -527,8 +518,7 @@
         "name": "921",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```9x21mm```",
                 "author": "",
                 "color": "",
@@ -578,8 +568,7 @@
         "name": "939",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```9x39mm Subsonic```",
                 "author": "",
                 "color": "",
@@ -637,8 +626,7 @@
         "name": "12gb",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```12x70 Buckshot```",
                 "author": "",
                 "color": "",
@@ -688,8 +676,7 @@
         "name": "12gs",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```12x70 Slug```",
                 "author": "",
                 "color": "",
@@ -739,8 +726,7 @@
         "name": "20gb",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```20x70 Buckshot```",
                 "author": "",
                 "color": "",
@@ -774,8 +760,7 @@
         "name": "20gs",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```20x70 Slug```",
                 "author": "",
                 "color": "",
@@ -817,8 +802,7 @@
         "name": "t762",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```7.62x25mm```",
                 "author": "",
                 "color": "",
@@ -860,8 +844,7 @@
         "name": "366",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```.366```",
                 "author": "",
                 "color": "",
@@ -903,8 +886,7 @@
         "name": "127",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```12.7x55mm```",
                 "author": "",
                 "color": "",
@@ -954,8 +936,7 @@
         "name": "armor",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "How to read: Armor list",
                 "author": "",
                 "color": "",
@@ -989,8 +970,7 @@
         "name": "armor2",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```Class 2 Armor```",
                 "author": "",
                 "color": "",
@@ -1024,8 +1004,7 @@
         "name": "armor3",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```Class 3 Armor```",
                 "author": "",
                 "color": "",
@@ -1059,8 +1038,7 @@
         "name": "armor4",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```Class 4 Armor```",
                 "author": "",
                 "color": "",
@@ -1110,8 +1088,7 @@
         "name": "armor5",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```Class 5 Armor```",
                 "author": "",
                 "color": "",
@@ -1153,8 +1130,7 @@
         "name": "armor6",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "```Class 6 Armor```",
                 "author": "",
                 "color": "",
@@ -1188,8 +1164,7 @@
         "name": "armorchart",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Armor Chart by discord user Sadrele#2075",
                 "author": "",
                 "color": "ff0000",
@@ -1223,8 +1198,7 @@
         "name": "weaponguide",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Weapon Builds Guide by Virion",
                 "author": "",
                 "color": "ff0000",
@@ -1258,8 +1232,7 @@
         "name": "ammochart",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Ammo Chart by NoFoodAfterMidnight",
                 "author": "",
                 "color": "ff0000",
@@ -1293,8 +1266,7 @@
         "name": "Credits",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Credits",
                 "author": "",
                 "color": "",
@@ -1328,8 +1300,7 @@
         "name": "commands",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Scav Homie",
                 "author": "",
                 "color": "ff0000",
@@ -1371,38 +1342,33 @@
         "name": "penvalues",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
-                "channel": "0",
-                "varName": "",
-                "message": "To easily understand what armor any bullet can penetrate you divide the bullets pen value by 10 and the result is what armor class the bullet will penetrate. Example: 7N39 Igolnik has 62 in pen value and divide that by 10 and you get 6.2 so that means that the bullet is powerful enough to go through any armor in the game at the moment because the highest class for armors is 6.",
-                "storage": "0",
-                "varName2": "",
-                "name": "Send Message"
-            }
-        ]
+        "actions": [{
+            "channel": "0",
+            "varName": "",
+            "message": "To easily understand what armor any bullet can penetrate you divide the bullets pen value by 10 and the result is what armor class the bullet will penetrate. Example: 7N39 Igolnik has 62 in pen value and divide that by 10 and you get 6.2 so that means that the bullet is powerful enough to go through any armor in the game at the moment because the highest class for armors is 6.",
+            "storage": "0",
+            "varName2": "",
+            "name": "Send Message"
+        }]
     },
     {
         "name": "wiki",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
-                "channel": "0",
-                "varName": "",
-                "message": "https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki",
-                "storage": "0",
-                "varName2": "",
-                "name": "Send Message"
-            }
-        ]
+        "actions": [{
+            "channel": "0",
+            "varName": "",
+            "message": "https://escapefromtarkov.gamepedia.com/Escape_from_Tarkov_Wiki",
+            "storage": "0",
+            "varName2": "",
+            "name": "Send Message"
+        }]
     },
     {
         "name": "ammocmd",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Commands for Ammunition",
                 "author": "",
                 "color": "",
@@ -1444,8 +1410,7 @@
         "name": "armorcmd",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Commands for Armor and Headgear",
                 "author": "",
                 "color": "",
@@ -1479,8 +1444,7 @@
         "name": "weaponcmd",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Commands for Weapons Builds",
                 "author": "",
                 "color": "",
@@ -1514,8 +1478,7 @@
         "name": "questitems",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Items to keep",
                 "author": "",
                 "color": "",
@@ -1541,8 +1504,7 @@
         "name": "hideout",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Items needed to max the hideout",
                 "author": "",
                 "color": "",
@@ -1568,8 +1530,7 @@
         "name": "clear",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "info": "0",
                 "infoIndex": "1",
                 "storage": "1",
@@ -1590,8 +1551,7 @@
         "name": "BRm4",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil M4A1",
                 "author": "",
                 "color": "",
@@ -1673,8 +1633,7 @@
         "name": "BEm4",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo M4A1/ADAR/TX15",
                 "author": "",
                 "color": "",
@@ -1756,8 +1715,7 @@
         "name": "BRak74",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best recoil AK-74/74N",
                 "author": "",
                 "color": "",
@@ -1839,8 +1797,7 @@
         "name": "BRak74n",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best recoil AK-74/74N",
                 "author": "",
                 "color": "",
@@ -1922,8 +1879,7 @@
         "name": "BRak74m",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best recoil AK-74M",
                 "author": "",
                 "color": "",
@@ -2005,8 +1961,7 @@
         "name": "BEak74",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo AK-74/74N, VPO-136/209 and AKM/AKMN",
                 "author": "",
                 "color": "",
@@ -2068,8 +2023,7 @@
         "name": "BEak74n",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo AK-74/74N, VPO-136/209 and AKM/AKMN",
                 "author": "",
                 "color": "",
@@ -2111,8 +2065,7 @@
         "name": "BEakm",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo AK-74/74N, VPO-136/209 and AKM/AKMN",
                 "author": "",
                 "color": "",
@@ -2174,8 +2127,7 @@
         "name": "BEakmn",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo AK-74/74N, VPO-136/209 and AKM/AKMN",
                 "author": "",
                 "color": "",
@@ -2237,8 +2189,7 @@
         "name": "BEvpo136",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo AK-74/74N, VPO-136/209 and AKM/AKMN",
                 "author": "",
                 "color": "",
@@ -2300,8 +2251,7 @@
         "name": "BEvpo209",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo AK-74/74N, VPO-136/209 and AKM/AKMN",
                 "author": "",
                 "color": "",
@@ -2363,8 +2313,7 @@
         "name": "BRaks74u",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AKS-74U/UN/UB",
                 "author": "",
                 "color": "",
@@ -2446,8 +2395,7 @@
         "name": "BRaks74ub",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AKS-74U/UN/UB",
                 "author": "",
                 "color": "",
@@ -2529,8 +2477,7 @@
         "name": "BRaks74un",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AKS-74U/UN/UB",
                 "author": "",
                 "color": "",
@@ -2612,8 +2559,7 @@
         "name": "BRaks74n",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AKS-74/74N",
                 "author": "",
                 "color": "",
@@ -2695,8 +2641,7 @@
         "name": "BRaks74",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AKS-74/74N",
                 "author": "",
                 "color": "",
@@ -2778,8 +2723,7 @@
         "name": "BRak105",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AK-105",
                 "author": "",
                 "color": "",
@@ -2861,8 +2805,7 @@
         "name": "BEak105",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo AK-105",
                 "author": "",
                 "color": "",
@@ -2944,8 +2887,7 @@
         "name": "BRRPK",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil RPK-16",
                 "author": "",
                 "color": "",
@@ -3035,8 +2977,7 @@
         "name": "BRak101",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AK-101",
                 "author": "",
                 "color": "",
@@ -3086,8 +3027,7 @@
         "name": "BRak102",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AK-102",
                 "author": "",
                 "color": "",
@@ -3137,8 +3077,7 @@
         "name": "BRhk",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil HK 416A5",
                 "author": "",
                 "color": "",
@@ -3220,8 +3159,7 @@
         "name": "BEhk",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo HK 416A5",
                 "author": "",
                 "color": "",
@@ -3303,8 +3241,7 @@
         "name": "BRmdr",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil DT MDR",
                 "author": "",
                 "color": "",
@@ -3394,8 +3331,7 @@
         "name": "BRadar",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil ADAR 2-15",
                 "author": "",
                 "color": "",
@@ -3485,8 +3421,7 @@
         "name": "BEadar",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Same build as M4A1",
                 "author": "",
                 "color": "",
@@ -3520,8 +3455,7 @@
         "name": "BRtx15",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil Lone Star TX-15",
                 "author": "",
                 "color": "",
@@ -3611,8 +3545,7 @@
         "name": "BEtx15",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Same build as M4A1",
                 "author": "",
                 "color": "",
@@ -3646,8 +3579,7 @@
         "name": "BRtt",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil TT pistol",
                 "author": "",
                 "color": "",
@@ -3729,8 +3661,7 @@
         "name": "BRak103",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AK-103",
                 "author": "",
                 "color": "",
@@ -3820,8 +3751,7 @@
         "name": "BRak104",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AK-104",
                 "author": "",
                 "color": "",
@@ -3911,8 +3841,7 @@
         "name": "BRakm",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AKM/AKMN/VPO-136",
                 "author": "",
                 "color": "",
@@ -4002,8 +3931,7 @@
         "name": "BRakmn",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AKM/AKMN",
                 "author": "",
                 "color": "",
@@ -4093,8 +4021,7 @@
         "name": "BRvpo136",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AKM/AKMN/VPO-136",
                 "author": "",
                 "color": "",
@@ -4184,8 +4111,7 @@
         "name": "BRakms",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AKMS/AKMSN",
                 "author": "",
                 "color": "",
@@ -4275,8 +4201,7 @@
         "name": "BRakmsn",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AKMS/AKMSN",
                 "author": "",
                 "color": "",
@@ -4366,8 +4291,7 @@
         "name": "BRsks",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil SKS",
                 "author": "",
                 "color": "",
@@ -4457,8 +4381,7 @@
         "name": "BRopsks",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil `OP-SKS`",
                 "author": "",
                 "color": "",
@@ -4540,8 +4463,7 @@
         "name": "BEopsks",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo `OP-SKS`",
                 "author": "",
                 "color": "",
@@ -4623,8 +4545,7 @@
         "name": "BRsa58",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil SA-58",
                 "author": "",
                 "color": "",
@@ -4706,8 +4627,7 @@
         "name": "BEsa58",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo SA-58",
                 "author": "",
                 "color": "",
@@ -4789,8 +4709,7 @@
         "name": "BRm1a",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil Springfield Armory M1A",
                 "author": "",
                 "color": "",
@@ -4872,8 +4791,7 @@
         "name": "BEm1a",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo Springfield Armory M1A",
                 "author": "",
                 "color": "",
@@ -4955,8 +4873,7 @@
         "name": "BRrsass",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil Remington R11 RSASS",
                 "author": "",
                 "color": "",
@@ -5046,8 +4963,7 @@
         "name": "Bersass",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil Remington R11 RSASS",
                 "author": "",
                 "color": "",
@@ -5137,8 +5053,7 @@
         "name": "BRm700",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil Remington Model 700",
                 "author": "",
                 "color": "",
@@ -5225,12 +5140,11 @@
         ]
     },
     {
-        
+
         "name": "BEm700",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo M700",
                 "author": "",
                 "color": "",
@@ -5272,8 +5186,7 @@
         "name": "BRdtmdr",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil DT MDR 7.62x51",
                 "author": "",
                 "color": "",
@@ -5363,8 +5276,7 @@
         "name": "BRsr25",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil KAC SR-25",
                 "author": "",
                 "color": "",
@@ -5454,8 +5366,7 @@
         "name": "BEsr25",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil KAC SR-25",
                 "author": "",
                 "color": "",
@@ -5545,8 +5456,7 @@
         "name": "BRsvds",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil SVDS",
                 "author": "",
                 "color": "",
@@ -5636,8 +5546,7 @@
         "name": "BEsvds",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil SVDS",
                 "author": "",
                 "color": "",
@@ -5727,8 +5636,7 @@
         "name": "BRmosin",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil Mosin",
                 "author": "",
                 "color": "",
@@ -5810,8 +5718,7 @@
         "name": "BEmosin",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Real Sniper Mosin",
                 "author": "",
                 "color": "",
@@ -5893,8 +5800,7 @@
         "name": "BRsv98",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil SV-98",
                 "author": "",
                 "color": "",
@@ -5976,8 +5882,7 @@
         "name": "BRmp5",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil MP5",
                 "author": "",
                 "color": "",
@@ -6059,8 +5964,7 @@
         "name": "BEmp5",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo MP5",
                 "author": "",
                 "color": "",
@@ -6142,8 +6046,7 @@
         "name": "BRmpx",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil MPX",
                 "author": "",
                 "color": "",
@@ -6225,8 +6128,7 @@
         "name": "BEmpx",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo MPX",
                 "author": "",
                 "color": "",
@@ -6308,8 +6210,7 @@
         "name": "BRpp19",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil PP-19-01 Vityaz-SN",
                 "author": "",
                 "color": "",
@@ -6391,8 +6292,7 @@
         "name": "BRGlock17",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil Glock 17",
                 "author": "",
                 "color": "",
@@ -6434,8 +6334,7 @@
         "name": "BRGlock18c",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil Glock 18C",
                 "author": "",
                 "color": "",
@@ -6517,8 +6416,7 @@
         "name": "BRasval",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AS VAL/VSS",
                 "author": "",
                 "color": "",
@@ -6600,8 +6498,7 @@
         "name": "BEasval",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo AS VAL/VSS",
                 "author": "",
                 "color": "",
@@ -6683,8 +6580,7 @@
         "name": "Basval",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget AS VAL",
                 "author": "",
                 "color": "",
@@ -6718,8 +6614,7 @@
         "name": "BRvss",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil AS VAL/VSS",
                 "author": "",
                 "color": "",
@@ -6801,8 +6696,7 @@
         "name": "BEvss",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo AS VAL/VSS",
                 "author": "",
                 "color": "",
@@ -6884,8 +6778,7 @@
         "name": "Bvss",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget VSS",
                 "author": "",
                 "color": "",
@@ -6919,8 +6812,7 @@
         "name": "Bak74n",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget AK-74/74N",
                 "author": "",
                 "color": "",
@@ -7002,8 +6894,7 @@
         "name": "Bak74",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget AK-74/74N",
                 "author": "",
                 "color": "",
@@ -7085,8 +6976,7 @@
         "name": "Bm4",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget M4A1",
                 "author": "",
                 "color": "",
@@ -7168,8 +7058,7 @@
         "name": "Badar",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget ADAR 2-15",
                 "author": "",
                 "color": "",
@@ -7251,8 +7140,7 @@
         "name": "Bhk",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget HK 416A5",
                 "author": "",
                 "color": "",
@@ -7334,8 +7222,7 @@
         "name": "Bhk2",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Alternative HK 416A5",
                 "author": "",
                 "color": "",
@@ -7417,8 +7304,7 @@
         "name": "Baks74un",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget AKS-74UN/UB",
                 "author": "",
                 "color": "",
@@ -7508,8 +7394,7 @@
         "name": "Baks74ub",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget AKS-74UN/UB",
                 "author": "",
                 "color": "",
@@ -7599,8 +7484,7 @@
         "name": "Baks74u",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget AKS-74UN/UB",
                 "author": "",
                 "color": "",
@@ -7690,8 +7574,7 @@
         "name": "Bak74m",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget AK-74M",
                 "author": "",
                 "color": "",
@@ -7773,8 +7656,7 @@
         "name": "Bakm",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget AKM/AKMN/VPO-136",
                 "author": "",
                 "color": "",
@@ -7856,8 +7738,7 @@
         "name": "Bakmn",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget AKM/AKMN/VPO-136",
                 "author": "",
                 "color": "",
@@ -7939,8 +7820,7 @@
         "name": "Bvpo136",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget AKM/AKMN/VPO-136",
                 "author": "",
                 "color": "",
@@ -8022,8 +7902,7 @@
         "name": "Bopsks",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget OP-SKS",
                 "author": "",
                 "color": "",
@@ -8105,8 +7984,7 @@
         "name": "Reserve",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for Reserve ",
                 "author": "",
                 "color": "",
@@ -8140,8 +8018,7 @@
         "name": "Reservekeys",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for keys/doors on Reserve",
                 "author": "",
                 "color": "",
@@ -8167,8 +8044,7 @@
         "name": "Customs",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for Customs",
                 "author": "",
                 "color": "",
@@ -8202,8 +8078,7 @@
         "name": "CustomsHS",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for hidden stashes on Customs",
                 "author": "",
                 "color": "",
@@ -8229,8 +8104,7 @@
         "name": "Customskeys",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for keys/doors on Customs",
                 "author": "",
                 "color": "",
@@ -8256,8 +8130,7 @@
         "name": "Interchange",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for Interchange",
                 "author": "",
                 "color": "",
@@ -8291,8 +8164,7 @@
         "name": "InterchangeHS",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for hidden stashes on Interchange",
                 "author": "",
                 "color": "",
@@ -8318,8 +8190,7 @@
         "name": "Factory",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for Factory",
                 "author": "",
                 "color": "",
@@ -8345,8 +8216,7 @@
         "name": "Shoreline",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for Shoreline",
                 "author": "",
                 "color": "",
@@ -8380,8 +8250,7 @@
         "name": "ShorelineHS",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for hidden stashes on Shoreline",
                 "author": "",
                 "color": "",
@@ -8407,8 +8276,7 @@
         "name": "ShorelineKS",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for key spawns on Shoreline",
                 "author": "",
                 "color": "",
@@ -8434,8 +8302,7 @@
         "name": "ShorelineHR",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for Keys/Doors in health resort",
                 "author": "",
                 "color": "",
@@ -8461,8 +8328,7 @@
         "name": "Woods",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for Woods",
                 "author": "",
                 "color": "",
@@ -8496,8 +8362,7 @@
         "name": "WoodsHS",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for hidden stashes on Woods",
                 "author": "",
                 "color": "",
@@ -8523,8 +8388,7 @@
         "name": "Labs",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "A Map for Basement Labs",
                 "author": "",
                 "color": "",
@@ -8590,8 +8454,7 @@
         "name": "Maps",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Different types of maps",
                 "author": "",
                 "color": "",
@@ -8608,7 +8471,7 @@
                 "storage": "1",
                 "varName": "maps",
                 "fieldName": "Map Commands",
-                "message": "Type the name of the map to get more info.\n\nLabs: Basement Map | 1st Floor Map | 2nd Floor\n\nReserve: Normal Map | Keys \n\nCustoms: Normal Map | Hidden Stashes | Keys\n\nLabs: Basement Map | 1st Floor Map | 2nd Floor\n\nReserve: Normal Map | Keys\n\nCustoms: Normal Map | Hidden Stashes | Keys \n\nShoreline: Normal Map | Hidden Stashes | Health Resort | Key Spawns",
+                "message": "Type the name of the map to get more info.\n\nLabs: Basement Map | 1st Floor Map | 2nd Floor\n\nReserve: Normal Map | Keys \n\nCustoms: Normal Map | Hidden Stashes | Keys\n\nShoreline: Normal Map | Hidden Stashes | Health Resort | Key Spawns\n\nFactory: Normal Map\n\nInterchange: Normal Map | Hidden Stashes\n\nWoods: Normal Map | Hidden Stashes",
                 "inline": "1",
                 "name": "Add Embed Field"
             },
@@ -8625,8 +8488,7 @@
         "name": "update",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Latest Update",
                 "author": "",
                 "color": "",
@@ -8660,8 +8522,7 @@
         "name": "allupdates",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "All updates since release",
                 "author": "",
                 "color": "",
@@ -8695,8 +8556,7 @@
         "name": "info",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Info",
                 "author": "havoX #7808",
                 "color": "23395d",
@@ -8746,8 +8606,7 @@
         "name": "supportserver",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Scav Homie's hideout",
                 "author": "havoX #7808",
                 "color": "23395d",
@@ -8781,8 +8640,7 @@
         "name": "Bmpx",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget MPX",
                 "author": "",
                 "color": "",
@@ -8824,8 +8682,7 @@
         "name": "Bsks",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget SKS",
                 "author": "",
                 "color": "",
@@ -8867,8 +8724,7 @@
         "name": "Bmp5",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget MP5",
                 "author": "",
                 "color": "",
@@ -8910,8 +8766,7 @@
         "name": "BRmp153",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil MP-153",
                 "author": "",
                 "color": "",
@@ -8953,8 +8808,7 @@
         "name": "Bsa58",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget SA-58",
                 "author": "",
                 "color": "",
@@ -9004,8 +8858,7 @@
         "name": "Bsa58x",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Budget short SA-58",
                 "author": "",
                 "color": "",
@@ -9055,8 +8908,7 @@
         "name": "Brash12",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil ASh-12",
                 "author": "",
                 "color": "",
@@ -9106,8 +8958,7 @@
         "name": "Beash12",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil ASh-12",
                 "author": "",
                 "color": "",
@@ -9157,8 +9008,7 @@
         "name": "Brmp7a2",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil MP7A2",
                 "author": "",
                 "color": "",
@@ -9208,8 +9058,7 @@
         "name": "Bemp7a2",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo MP7A2",
                 "author": "",
                 "color": "",
@@ -9259,8 +9108,7 @@
         "name": "Brmp7a1",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Recoil MP7A2",
                 "author": "",
                 "color": "",
@@ -9310,8 +9158,7 @@
         "name": "Bemp7a1",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "Best Ergo MP7A2",
                 "author": "",
                 "color": "",
@@ -9361,8 +9208,7 @@
         "name": "Brmp7",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "MP7 Builds",
                 "author": "",
                 "color": "",
@@ -9404,8 +9250,7 @@
         "name": "Bemp7",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "MP7 Builds",
                 "author": "",
                 "color": "",
@@ -9447,8 +9292,7 @@
         "name": "Bmp7",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "MP7 Builds",
                 "author": "",
                 "color": "",
@@ -9490,8 +9334,7 @@
         "name": "Bmp7a1",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "MP7 Builds",
                 "author": "",
                 "color": "",
@@ -9533,8 +9376,7 @@
         "name": "Bmp7a2",
         "permissions": "NONE",
         "restriction": "1",
-        "actions": [
-            {
+        "actions": [{
                 "title": "MP7 Builds",
                 "author": "",
                 "color": "",
@@ -9571,5 +9413,5 @@
                 "name": "Send Embed Message"
             }
         ]
-    }  
+    }
 ]
