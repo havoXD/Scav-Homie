@@ -1316,6 +1316,14 @@
             {
                 "storage": "1",
                 "varName": "cmd",
+                "fieldName": "BIG NEWS!!!",
+                "message": "I am working on a a big, big, big update for Scav Homie.\nCome check the progress day by day and some of the new work if you want to!\nType **%supportserver** to get a link to the server.",
+                "inline": "0",
+                "name": "Add Embed Field"
+            },
+            {
+                "storage": "1",
+                "varName": "cmd",
                 "fieldName": "Bot Maker: havoX#7808",
                 "message": "Prefix is %\n`Credits` - my sources and their authors\n`Wiki` - A link to the EFT wiki   \n`Penvalues`- a little explanation about pen values in EFT\n`Ammocmd` - Shows ammo commands\n`Armorcmd` - Shows armor commands\n`Weaponcmd` - Shows Budget and Best builds \n`Maps` - Shows map commands\n\n",
                 "inline": "0",
@@ -5067,72 +5075,16 @@
                 "name": "Create Embed Message"
             },
             {
-                "title": "Stats",
-                "author": "",
-                "color": "",
-                "timestamp": "false",
-                "url": "",
-                "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/0j0WTVyn/m700-3.png",
-                "thumbUrl": "",
-                "storage": "1",
-                "varName": "brm700stats",
-                "name": "Create Embed Message"
-            },
-            {
-                "title": "Modifications",
-                "author": "",
-                "color": "",
-                "timestamp": "false",
-                "url": "",
-                "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/G3F5TmxD/m700-4.png",
-                "thumbUrl": "",
-                "storage": "1",
-                "varName": "brm700mods",
-                "name": "Create Embed Message"
-            },
-            {
                 "storage": "1",
                 "varName": "brm700",
-                "fieldName": "Ammunition",
-                "message": "Budget ammo: `M80`\nTop tier ammo: `M61` or `M62`\nNOTE!!! THE IMAGE OF THE GUN IS THE ONE THAT IS RIGHT. THIS IS A TEMPORARY FIX, MOD LIST WILL BE UPDATED VERY SOON.",
+                "fieldName": "Info",
+                "message": "**Ammo**\n Type **%n762** for info about the right bullets for the bulld.\n**Stats**\nErgonomics: 42\nAccuracy: 0.77 MOA\nVertical Recoil: 42\nHorizontal Recoil: 152\nMuzzle Velocity: 821 m/s\n**Mod List**\nMuzzle: Lantac Dragon\nMuzzle Accessories: Blast Mitigation Device + Adapter\nBody: MOD X Gen.3\nHandguard: AB Arms\nRail: 6 inch Strike\nGrip: RK-2\nStock: HK-E1\nPistol grip: Hogue\nTube adapter: Side folder adapter\nTube: SI Advanced\nMount: AB Arms\nIron sights: MBUS\n",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
             {
                 "storage": "1",
-                "varName": "brm700stats",
-                "fieldName": "Best Ergo",
-                "message": "For best ergo, change following:\n`HK E1` -> `PRS GEN3`\n`RK-2` -> `Fortis Shift`",
-                "inline": "1",
-                "name": "Add Embed Field"
-            },
-            {
-                "storage": "1",
-                "varName": "brm700mods",
-                "fieldName": "Suppressors",
-                "message": "Best suppressor: `Wave QD suppr.` + `Wave Muzzlebrake`",
-                "inline": "1",
-                "name": "Add Embed Field"
-            },
-            {
-                "storage": "1",
                 "varName": "brm700",
-                "channel": "0",
-                "varName2": "",
-                "name": "Send Embed Message"
-            },
-            {
-                "storage": "1",
-                "varName": "brm700stats",
-                "channel": "0",
-                "varName2": "",
-                "name": "Send Embed Message"
-            },
-            {
-                "storage": "1",
-                "varName": "brm700mods",
                 "channel": "0",
                 "varName2": "",
                 "name": "Send Embed Message"
@@ -5151,7 +5103,7 @@
                 "timestamp": "false",
                 "url": "",
                 "authorIcon": "",
-                "imageUrl": "https://i.postimg.cc/CKvjzmtv/bem700.png",
+                "imageUrl": "https://i.postimg.cc/qBLNHKr2/bem700p.png",
                 "thumbUrl": "",
                 "storage": "1",
                 "varName": "bem700",
@@ -5160,17 +5112,9 @@
             {
                 "storage": "1",
                 "varName": "bem700",
-                "fieldName": "Ammo for the build",
-                "message": "```Best Flesh: M80 (41 Pen / 80 Dmg)\nPeacekeeper LL2\n(if you buy ≥ 50) 1.62 $ Per Unit\nBest pen: M61 (68 Pen / 70 Dmg)\nPeacekeeper LL4 9 $\nafter Wet Job - Part 6```",
+                "fieldName": "Info",
+                "message": "**Ammo**\n Type **%n762** for info about the right bullets for the bulld.\n**Stats**\nErgonomics: 70\nAccuracy: 0.75 MOA\nVertical Recoil: 82\nHorizontal Recoil: 296\nMuzzle Velocity: 860 m/s\n**Mod List**\nMuzzle: SHREWD\nBody: MOD X Gen.3\nHandguard: AB Arms\nRail: 6 inch Strike\nGrip: Fortis Shift\nStock: PRS GEN3\nPistol grip: Hogue\nTube adapter: Side folder adapter\nTube: COLT A2\nMount: AB Arms\nIron sights: MBUS\n",
                 "inline": "0",
-                "name": "Add Embed Field"
-            },
-            {
-                "storage": "1",
-                "varName": "bem700",
-                "fieldName": "Mod List",
-                "message": "NOTE!!! The image is showing the right build and the list is not updated. Will be updated SoonTM\n```M700: ~23k  \nChassi: MOD X Gen.3 | ~18k ₽\nMuzzle: SHREWD | ~13k ₽  \nSights: MBUS Rear+Front | ~10k ₽\nBuffer tube: COLT A2 | ~4k ₽\nStock: PRS GEN3 | ~15k ₽\nBarrel: 20 inch | ~17k ₽\nPistol Grip: Hogue OMRG | ~5k ₽\nHandguard: A*B Arms | ~14k ₽\nMount: A*B Arms | ~4k ₽\nMount: Strike 6 inch | ~6k ₽\nGrip: Hera CQR | ~21k ₽\nTotal: ~150k ₽```\n\n**All prices taken from flea.**",
-                "inline": "1",
                 "name": "Add Embed Field"
             },
             {
@@ -8841,7 +8785,7 @@
                 "storage": "1",
                 "varName": "Bsa58",
                 "fieldName": "Alternative",
-                "message": "Type `BSA58x` to get an alternative build",
+                "message": "Type `BSA582` to get an alternative build",
                 "inline": "0",
                 "name": "Add Embed Field"
             },
@@ -8855,7 +8799,7 @@
         ]
     },
     {
-        "name": "Bsa58x",
+        "name": "Bsa582",
         "permissions": "NONE",
         "restriction": "1",
         "actions": [{
