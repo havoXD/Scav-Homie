@@ -5,34 +5,11 @@ const fs = require('fs');
 const { prefix, token } = require('./config.json');
 
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
-const weaponCmds = fs.readdirSync('./commands/weaponcmds').filter(file => file.endsWith('.js'));
-const BestECommand = fs.readdirSync('./commands/weaponcmds/bewpncmds').filter(file => file.endsWith('.js'))
-const BestRCommand = fs.readdirSync('./commands/weaponcmds/brwpncmds').filter(file => file.endsWith('.js'))
-const BestBCommand = fs.readdirSync('./commands/weaponcmds/bwpncmds').filter(file => file.endsWith('.js'))
 
 for (const file of commandFiles) {
     const command = require(`./commands/${file}`);
     client.commands.set(command.name, command);
 }
-
-for (const file of weaponCmds) {
-    const wpncommand = require(`./commands/weaponcmds/${file}`);
-    client.commands.set(wpncommand.name, wpncommand);
-}
-
-for (const file of BestECommand) {
-    const bewpnCmds = require(`./commands/weaponcmds/bewpncmds/${file}`);
-    client.commands.set(bewpnCmds.name, bewpnCmds);
-}
-for (const file of BestRCommand) {
-    const brwpnCmds = require(`./commands/weaponcmds/brwpncmds/${file}`);
-    client.commands.set(brwpnCmds.name, brwpnCmds);
-}
-for (const file of BestBCommand) {
-    const bwpnCmds = require(`./commands/weaponcmds/bwpncmds/${file}`);
-    client.commands.set(bwpnCmds.name, bwpnCmds);
-}
-
 
 const cooldowns = new Discord.Collection();
 
@@ -40,14 +17,6 @@ client.on("ready", () => {
     console.log('Ready!' + client.guilds.cache.size);
     client.user.setActivity((prefix) + 'help')
 });
-
-function getCategory(name) {
-    request('https://api.tarkov.dev/query/' + name + '?filter=category'), { json: true }, (err, res, body) => {
-        if (err) { return console.log(err); }
-        return body;
-    }
-}
-
 
 client.on('message', message => {
     if (!message.content.includes(prefix) || message.author.bot) return;
