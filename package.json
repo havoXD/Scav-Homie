@@ -11,7 +11,7 @@
     },
     "devDependencies": {},
     "scripts": {
-        "start": "start"
+        "test": "test"
     },
     "author": "Alan",
     "license": "ISC"
