@@ -21,7 +21,7 @@ module.exports = {
                 },
                 {
                     name: '**Bot version 0.1.0**',
-                    value: "**Last Updated** - `04/08-20`",
+                    value: "**Last Updated** - `10/08-20`",
                 },
             ],
             footer: {
