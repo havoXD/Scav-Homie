@@ -38,7 +38,7 @@ module.exports = {
                 },
                 {
                     name: 'Continuation',
-                    value: (config.topNoted + config.lantac + config.srvv + config.cnc + config.wave + config.waveqd + config.pt3 + config.ak74pt + config.aks74pt + config.aggressor + config.xrsu47 + config.gp25 + config.endTable) + '\n**Best Recoil AK-74 ↓↓↓**',
+                    value: (config.topNoted + config.lantac + config.srvv + config.cnc + config.wave + config.waveqd + config.pt3 + config.ak74pt + config.aks74pt + config.aggressor + config.xrsu47 + config.gp25 + config.endTable + config.vposup) + '\n**Best Recoil AK-74 ↓↓↓**',
                 },
             ],
             footer: {

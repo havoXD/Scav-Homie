@@ -3,7 +3,7 @@ const config = require("./config.json")
 module.exports = {
     name: 'bepp19',
     cooldown: 30,
-    aliases: ['besaiga-9', 'besaiga9', 'bepp1901', 'be1901', 'bepp-19-01', 'bevityaz', 'bevityazsn', 'bevityaz-sn', 'bepp', 'bepp01', 'bepp-01', 'bepp-19-01 vityaz-sn', 'be19-01vityaz', 'be1901vityaz', 'be1901vityaz-sn'],
+    aliases: ['besaiga-9', 'besaiga9', 'bepp1901', 'be1901', 'bepp-19-01', 'bevityaz', 'bevityazsn', 'bevityaz-sn', 'bepp', 'bepp01', 'bepp-01', 'bepp-19-01 vityaz-sn', 'be19-01vityaz', 'be1901vityaz', 'be1901vityaz-sn', 'besaiga9', 'besaiga-9'],
     description: 'Best Ergo build for PP-19-01 and Saiga-9.',
     guildOnly: true,
     execute(message, args) {

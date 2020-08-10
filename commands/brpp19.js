@@ -3,7 +3,7 @@ const config = require("./config.json")
 module.exports = {
     name: 'brpp19',
     cooldown: 30,
-    aliases: ['brpp1901', 'br1901', 'brpp-19-01', 'brvityaz', 'brvityazsn', 'brvityaz-sn', 'brpp', 'brpp01', 'brpp-01', 'brpp-19-01 vityaz-sn', 'br19-01vityaz', 'br1901vityaz', 'br1901vityaz-sn'],
+    aliases: ['brpp1901', 'br1901', 'brpp-19-01', 'brvityaz', 'brvityazsn', 'brvityaz-sn', 'brpp', 'brpp01', 'brpp-01', 'brpp-19-01 vityaz-sn', 'br19-01vityaz', 'br1901vityaz', 'br1901vityaz-sn', 'brsaiga9', 'brsaiga-9'],
     description: 'Best Recoil build for PP-19-01.',
     guildOnly: true,
     execute(message, args) {

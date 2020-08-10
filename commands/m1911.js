@@ -9,7 +9,7 @@ module.exports = {
     execute(message, args) {
         const Embed = {
             color: 0x0099ff,
-            title: 'The **M1911A1**',
+            title: 'Build for the **M1911A1**',
             author: {
                 name: config.author,
                 url: config.invitelink
@@ -17,12 +17,12 @@ module.exports = {
             description: 'Type **%45acp** for info about ammo',
             fields: [{
                     name: 'Stats',
-                    value: "**Ergo: 82\nVertical Recoil: 514\nHorizontal Recoil: 344**",
+                    value: "**Ergo: 82\nVertical Recoil: 456\nHorizontal Recoil: 305**",
                     inline: true,
                 },
                 {
-                    name: '**The gun**',
-                    value: "The **M1911A1** does not have any mods that can be put on it as of now."
+                    name: '**Mod List**',
+                    value: config.topTable + config.pachm19 + config.wilson + config.stihex + config.caspian + config.anarchy + config.weigand + config.fnrmr + config.rmr + config.mecgar + config.endTable,
                 },
             ],
             footer: {

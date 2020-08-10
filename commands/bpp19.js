@@ -3,7 +3,7 @@ const config = require("./config.json")
 module.exports = {
     name: 'bpp19',
     cooldown: 30,
-    aliases: ['bpp1901', 'b1901', 'bpp-19-01', 'bvityaz', 'bvityazsn', 'bvityaz-sn', 'bpp', 'bpp01', 'bpp-01', 'bpp-19-01 vityaz-sn', 'b19-01vityaz', 'b1901vityaz', 'b1901vityaz-sn'],
+    aliases: ['bpp1901', 'b1901', 'bpp-19-01', 'bvityaz', 'bvityazsn', 'bvityaz-sn', 'bpp', 'bpp01', 'bpp-01', 'bpp-19-01 vityaz-sn', 'b19-01vityaz', 'b1901vityaz', 'b1901vityaz-sn', 'bsaiga9', 'bsaiga-9'],
     description: 'Budget build for PP-19-01.',
     guildOnly: true,
     execute(message, args) {
