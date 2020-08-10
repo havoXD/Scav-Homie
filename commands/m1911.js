@@ -15,6 +15,9 @@ module.exports = {
                 url: config.invitelink
             },
             description: 'Type **%45acp** for info about ammo',
+            image: {
+                url: 'https://i.postimg.cc/XqGCkddd/m1911.png',
+            },
             fields: [{
                     name: 'Stats',
                     value: "**Ergo: 82\nVertical Recoil: 456\nHorizontal Recoil: 305**",

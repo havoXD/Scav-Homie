@@ -9,7 +9,7 @@ module.exports = {
     execute(message, args) {
         const Embed = {
             color: 0x0099ff,
-            title: 'Budget **PP-19**',
+            title: 'Budget **PP-19** and **Saiga-9**',
             author: {
                 name: config.author,
                 url: config.invitelink

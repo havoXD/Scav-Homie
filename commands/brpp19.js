@@ -9,7 +9,7 @@ module.exports = {
     execute(message, args) {
         const Embed = {
             color: 0x0099ff,
-            title: 'Best Recoil **PP-19**',
+            title: 'Best Recoil **PP-19** and **Saiga-9**',
             author: {
                 name: config.author,
                 url: config.invitelink
