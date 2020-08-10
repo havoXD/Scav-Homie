@@ -17,7 +17,7 @@ module.exports = {
             description: '[A VERY useful customs map.](https://escapefromtarkov.gamepedia.com/Customs_Interactive_Map)',
             fields: [{
                 name: 'Type "%customsinfo" to get detailed info about the area',
-                value: "Made for **0.12.3**\nMap is missing recently expanded area."
+                value: "Made for **0.12.7**\nMap is missing recently expanded area."
             }, ],
             footer: {
                 text: (config.gameUpdate),

@@ -16,11 +16,11 @@ module.exports = {
             },
             description: 'A useful customs map.',
             image: {
-                url: "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/c/c8/Customs_Nuxx_20190106_1.2.png?version=a3b44edf49616eaad2736c6523c977b0"
+                url: "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/55/CustomsLargeExpansionGloryMonki.png?version=05e8ef2534c9023c2000b724a1f0c7f8"
             },
             fields: [{
                 name: 'Type "%customsinfo" to get detailed info about the area',
-                value: "Made for **0.12.2**\nMap is missing recently expanded area."
+                value: "Made for **0.12.7**\nMap is missing recently expanded area."
             }, ],
             footer: {
                 text: (config.gameUpdate),
