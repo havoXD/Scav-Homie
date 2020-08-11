@@ -20,7 +20,7 @@ module.exports = {
             },
             fields: [{
                 name: 'Type "%customsinfo" to get detailed info about the area',
-                value: "Made for **0.12.7**\nMap is missing recently expanded area."
+                value: "Made for **0.12.7**"
             }, ],
             footer: {
                 text: (config.gameUpdate),
