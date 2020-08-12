@@ -16,7 +16,7 @@ module.exports = {
             description: 'Explanation',
             fields: [{
                     name: 'For every single gun in the game',
-                    value: "Scav Homie has commands for every single gun as of 0.12.7 (except the GL).\n\n**B**\n`Budget` and/or just `Build`.\nSince some weapons are not very modifiable Scav Homie will show the same build no matter if you type br/be or b.\n**Examples**\n`%bak74, %bm4, %bdtmdr, %bm1911, %bdvl10.`\n\n**BR**\n`Best Recoil` builds are available for most guns.\n**Examples**\n`%brak74, %brm4, %brdtmdr, %brsr25, %brrpk.`\n\n**BE**\n`Best Ergo` builds are as available as 'BR' commands.\n**Examples**\n`%beak74, %bem4, %bedtmdr, %besr25, %berpk.`\n\n**BA**\n`Best Accuracy` builds are new and exist for shotguns and sniper rifles.\n**Examples**\n`%bam700, %bam590, %bam870, %badvl10, %basaiga12.`",
+                    value: "Scav Homie has commands for every single gun as of 0.12.7 (except the GL).\n\n**B**\n`Budget` and/or just `Build`.\nSince some weapons are not very modifiable Scav Homie will show the same build no matter if you type br/be or b.\n**Examples**\n%b(gunname)\n`%bak74, %bm4, %bdtmdr, %bm1911, %bdvl10.`\n\n**BR**\n`Best Recoil` builds are available for most guns.\n**Examples**\n%br(gunname)\n`%brak74, %brm4, %brdtmdr, %brsr25, %brrpk.`\n\n**BE**\n`Best Ergo` builds are as available as 'BR' commands.\n**Examples**\n%be(gunname)\n`%beak74, %bem4, %bedtmdr, %besr25, %berpk.`\n\n**BA**\n`Best Accuracy` builds are new and exist for shotguns and sniper rifles.\n**Examples**\n%ba(gunname)\n`%bam700, %bam590, %bam870, %badvl10, %basaiga12.`",
                 },
                 {
                     name: 'Special commands',
