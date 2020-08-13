@@ -47,7 +47,11 @@ module.exports = {
                 },
                 {
                     name: 'Continuation',
-                    value: (config.m1ap + config.sass + config.mesa + config.moear15 + config.m1a22 + config.space + config.sr25p + config.sitube + config.mlok4 + config.psg1 + config.urx4 + config.sr2520 + config.space + config.rsassp + config.sitube + config.rsasshg + config.rahg4 + config.psg1 + config.ar1022 + config.endTable) + '\n**Best Recoil SA-58 ↓↓↓**',
+                    value: (config.m1ap + config.sass + config.mesa + config.moear15 + config.m1a22 + config.space + config.sr25p + config.sitube + config.mlok4 + config.psg1 + config.urx4 + config.sr2520 + config.space + config.rsassp + config.sitube + config.rsasshg + config.rahg4 + config.psg1 + config.ar1022 + config.endTable),
+                },
+                {
+                    name: '‏‏‎ ',
+                    value: '**Best Recoil SA-58 ↓↓↓**',
                 },
             ],
             footer: {

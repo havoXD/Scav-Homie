@@ -17,11 +17,11 @@ module.exports = {
             description: 'Leave suggestions to havoX#7808',
             fields: [{
                     name: '**Commands**',
-                    value: "**GO UPVOTE MY [->REDDIT POST<-](https://www.reddit.com/r/EscapefromTarkov/comments/i7ajqt/scav_homie_eft_discord_info_and_helper_bot/) THANKS**\nPrefix is **%**\n`new` - What is new?\n`Ammocmd` - shows ammo commands\n`weaponcmd` - shows commands for weapon builds.\n`Maps` - shows map commands",
+                    value: "**Prefix is %**\n`new` - What is new?\n`Ammocmd` - shows ammo commands\n`weaponcmd` - shows commands for weapon builds.\n`Maps` - shows map commands",
                 },
                 {
-                    name: '**Bot version 0.1.0**',
-                    value: "**Last Updated** - `10/08-20`",
+                    name: '**Bot version 0.1.0.5**',
+                    value: "**Last Updated** - `13/08-20`",
                 },
             ],
             footer: {
