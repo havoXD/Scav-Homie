@@ -20,7 +20,7 @@ module.exports = {
             },
             fields: [{
                     name: 'Stats',
-                    value: "**Ergo: 56\nVertical Recoil: 33\nHorizontal Recoil: 288**",
+                    value: "**Ergo: 56\nVertical Recoil: 133\nHorizontal Recoil: 288**",
                     inline: true,
                 },
                 {
