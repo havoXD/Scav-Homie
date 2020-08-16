@@ -16,9 +16,14 @@ module.exports = {
             },
             description: 'Type **%b45** for a budget/best version',
             fields: [{
-                name: 'Stats',
-                value: (config.all45acp),
-            }, ],
+                    name: 'Stats',
+                    value: (config.all45acp1),
+                },
+                {
+                    name: 'Stats',
+                    value: (config.all45acp2),
+                },
+            ],
             footer: {
                 text: (config.gameUpdate),
             },
