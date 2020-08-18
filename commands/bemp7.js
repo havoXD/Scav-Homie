@@ -16,7 +16,7 @@ module.exports = {
             },
             description: 'Type **%46** for info about ammo',
             image: {
-                url: 'https://i.postimg.cc/7L9TX1dX/brmp7.png',
+                url: 'https://i.postimg.cc/rwrXC614/bemp7.png',
             },
             fields: [{
                     name: 'Stats',
