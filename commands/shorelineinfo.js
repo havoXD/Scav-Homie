@@ -28,7 +28,7 @@ module.exports = {
                 },
                 {
                     name: 'Boss',
-                    value: '**Name:** Sanitar\n\n**Location:** marked circles on the map\nPort/Pier Area\nLocked cottage area\nHealth resort east and west wing\n**as of 0.12.6**\n\n**Health:** 1270 Total, Head: 70, Thorax: 360,\nStomach: 140, Arms: 120 each, Legs: 230 each.\n\n**Followers:** Two well armored guards.'
+                    value: '**Name:** Sanitar\n\n**Location:** marked circles on the map\nPort/Pier Area\nLocked cottage area\nHealth resort east and west wing\n**as of 0.12.7**\n\n**Health:** **1270 Total**\nHead: __70__, Thorax: __360__, Stomach: __140__, Arms: __120__, Legs: __230__ \n\n**Followers:** Two well armored guards.'
                 },
                 {
                     name: 'Suggestions',

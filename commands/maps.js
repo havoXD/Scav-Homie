@@ -20,7 +20,7 @@ module.exports = {
             },
             fields: [{
                 name: 'Type "%(mapname)"',
-                value: "Every area in game has different type of maps that could be useful for different things.\nScav Homie has picked a number of useful maps for each area that he thinks are useful.\n\n```Factory:\nDetailed map\n\nWoods:\nDetailed map\nHidden stashes guide\nInteractive map\n\nCustoms:\nDetailed map\nHidden stashes guide\nInteractive map\nDorms map\n\nShoreline:\nDetailed map\nHidden stashes guide\nKey spawns map\nResort map\n\nInterchange:\nDetailed map\nHidden stashes guide\n\nThe Lab:\nDetailed map\nMaps of each floor\n\nReserve: Detailed map\nDetailed map with key guide\nUnderground radio station\nD-2 Bunker map``` "
+                value: "Every area in game has different type of maps that could be useful for different things.\nScav Homie has picked a number of useful maps for each area that he thinks are useful.\n\n```Factory:\nDetailed map\n\nWoods:\nDetailed map\nHidden stashes guide\nInteractive map\n\nCustoms:\nDetailed map\nHidden stashes guide\nInteractive map\nDorms map\n\nShoreline:\nDetailed map\nHidden stashes guide\nKey spawns map\nResort map\nInteractive map\n\nInterchange:\nDetailed map\nHidden stashes guide\n\nThe Lab:\nDetailed map\nMaps of each floor\n\nReserve: Detailed map\nDetailed map with key guide\nUnderground radio station\nD-2 Bunker map``` "
             }, ],
             footer: {
                 text: (config.gameUpdate),

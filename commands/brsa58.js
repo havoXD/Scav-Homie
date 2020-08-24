@@ -43,7 +43,7 @@ module.exports = {
                 },
                 {
                     name: '**Mod List**',
-                    value: (config.topTable + config.uniparts + config.hke1 + config.lantac51 + config.direct + config.mdevice + config.rk2 + config.space + config.sa58p + config.mesa + config.casvfal + config.agfal + config.extreme + config.casv5 + config.fal21 + config.endTable),
+                    value: (config.topTable + config.uniparts + config.hke1 + config.lantac51 + config.direct + config.mdevice + config.rk2 + config.space + config.sa58p + config.faltube + config.mesa + config.casvfal + config.agfal + config.extreme + config.casv5 + config.fal21 + config.endTable),
                 },
                 {
                     name: 'Continuation',

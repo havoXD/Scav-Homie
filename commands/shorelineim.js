@@ -1,26 +1,23 @@
 const config = require("./config.json")
 
 module.exports = {
-    name: 'shoreline',
+    name: 'shorelineim',
     cooldown: 30,
-    aliases: ['sl', 'shorelinemaps'],
-    description: 'A overview of all shoreline commands.',
+    aliases: ['sim', 'shoreline interactive map'],
+    description: 'A interactive shoreline map',
     guildOnly: true,
     execute(message, args) {
         const Embed = {
             color: 0x0099ff,
-            title: 'Shoreline maps commands.',
+            title: 'Interactive map',
             author: {
                 name: config.author,
                 url: config.invitelink
             },
-            description: '**The different types of maps**',
-            image: {
-                url: "https://gamenewsplus.net/wp-content/uploads/2017/11/1-4-1.jpg"
-            },
+            description: 'Useful for callouts and locations of items and AI enemies',
             fields: [{
                 name: 'Type "%shorelineinfo" to get detailed info about the area',
-                value: "Detailed map: **%shorelinemap**\nGuide for hidden stashes: **%shorelinehs**\nKey spawns map: **%shorelinekey**\nResort map: **%slresort**\nInteractive map: **%shorelineim**"
+                value: "Made for **0.12.7** [Interactive map](https://mapgenie.io/tarkov/maps/shoreline)"
             }, ],
             footer: {
                 text: (config.gameUpdate),

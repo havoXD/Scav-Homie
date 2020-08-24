@@ -16,11 +16,11 @@ module.exports = {
             },
             description: 'A useful shoreline map.',
             image: {
-                url: "https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/5/5c/Escape_from_Tarkov_Factory_Map_by_stealtheh.jpg?version=2710f1b141acdd8916616205fe6b7370"
+                url: "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ac/Shoreline_Map_-_12.7.png/revision/latest?cb=20200809112828"
             },
             fields: [{
                 name: 'Type "%shorelineinfo" to get detailed info about the area',
-                value: "Made for **0.12.0**\nMap is still valid."
+                value: "Made for **0.12.7**"
             }, ],
             footer: {
                 text: (config.gameUpdate),
