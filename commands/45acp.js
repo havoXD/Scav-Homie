@@ -20,7 +20,7 @@ module.exports = {
                     value: (config.all45acp1),
                 },
                 {
-                    name: 'Stats',
+                    name: 'Detailed Stats',
                     value: (config.all45acp2),
                 },
             ],
