@@ -1,13 +1,94 @@
+require('dotenv').config();
 const Discord = require('discord.js');
 const client = new Discord.Client();
 client.commands = new Discord.Collection();
 const fs = require('fs');
-const { prefix, token } = require('./config.json');
+const { prefix } = require('./config.json');
+
+client.login(process.env.BOT_TOKEN);
 
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 
+const wpnallFiles = fs.readdirSync('./commands/weapons/all').filter(file => file.endsWith('.js'));
+const wpnbFiles = fs.readdirSync('./commands/weapons/b').filter(file => file.endsWith('.js'));
+const wpnbaFiles = fs.readdirSync('./commands/weapons/ba').filter(file => file.endsWith('.js'));
+const wpnbeFiles = fs.readdirSync('./commands/weapons/be').filter(file => file.endsWith('.js'));
+const wpnbrFiles = fs.readdirSync('./commands/weapons/br').filter(file => file.endsWith('.js'));
+
+const ammoFiles = fs.readdirSync('./commands/ammo').filter(file => file.endsWith('.js'));
+
+const mapFiles = fs.readdirSync('./commands/maps').filter(file => file.endsWith('.js'));
+const cFiles = fs.readdirSync('./commands/maps/customs').filter(file => file.endsWith('.js'));
+const fFiles = fs.readdirSync('./commands/maps/factory').filter(file => file.endsWith('.js'));
+const icFiles = fs.readdirSync('./commands/maps/interchange').filter(file => file.endsWith('.js'));
+const lFiles = fs.readdirSync('./commands/maps/labs').filter(file => file.endsWith('.js'));
+const rFiles = fs.readdirSync('./commands/maps/reserve').filter(file => file.endsWith('.js'));
+const slFiles = fs.readdirSync('./commands/maps/shoreline').filter(file => file.endsWith('.js'));
+const wFiles = fs.readdirSync('./commands/maps/woods').filter(file => file.endsWith('.js'));
+
 for (const file of commandFiles) {
     const command = require(`./commands/${file}`);
+    client.commands.set(command.name, command);
+}
+
+for (const file of wpnallFiles) {
+    const command = require(`./commands/weapons/all/${file}`);
+    client.commands.set(command.name, command);
+}
+for (const file of wpnbFiles) {
+    const command = require(`./commands/weapons/b/${file}`);
+    client.commands.set(command.name, command);
+}
+for (const file of wpnbaFiles) {
+    const command = require(`./commands/weapons/ba/${file}`);
+    client.commands.set(command.name, command);
+}
+for (const file of wpnbeFiles) {
+    const command = require(`./commands/weapons/be/${file}`);
+    client.commands.set(command.name, command);
+}
+for (const file of wpnbrFiles) {
+    const command = require(`./commands/weapons/br/${file}`);
+    client.commands.set(command.name, command);
+}
+
+
+for (const file of ammoFiles) {
+    const command = require(`./commands/ammo/${file}`);
+    client.commands.set(command.name, command);
+}
+
+
+for (const file of mapFiles) {
+    const command = require(`./commands/maps/${file}`);
+    client.commands.set(command.name, command);
+}
+for (const file of cFiles) {
+    const command = require(`./commands/maps/customs/${file}`);
+    client.commands.set(command.name, command);
+}
+for (const file of fFiles) {
+    const command = require(`./commands/maps/factory/${file}`);
+    client.commands.set(command.name, command);
+}
+for (const file of icFiles) {
+    const command = require(`./commands/maps/interchange/${file}`);
+    client.commands.set(command.name, command);
+}
+for (const file of lFiles) {
+    const command = require(`./commands/maps/labs/${file}`);
+    client.commands.set(command.name, command);
+}
+for (const file of rFiles) {
+    const command = require(`./commands/maps/reserve/${file}`);
+    client.commands.set(command.name, command);
+}
+for (const file of slFiles) {
+    const command = require(`./commands/maps/shoreline/${file}`);
+    client.commands.set(command.name, command);
+}
+for (const file of wFiles) {
+    const command = require(`./commands/maps/woods/${file}`);
     client.commands.set(command.name, command);
 }
 
@@ -18,7 +99,7 @@ client.on("ready", () => {
     client.user.setActivity((prefix) + 'help')
 });
 
-client.on('message', message => {
+client.on('message', async(message) => {
     if (!message.content.includes(prefix) || message.author.bot) return;
 
     const args = message.content.slice(prefix.length).split(/ +/);
@@ -74,6 +155,8 @@ client.on('message', message => {
         console.error(error);
         message.reply('there was an error trying to execute that command!');
     }
+
+
 });
 
-client.login(token);
+client.login(process.env.BOT_TOKEN);
