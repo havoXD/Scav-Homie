@@ -96,7 +96,7 @@ const cooldowns = new Discord.Collection();
 
 client.on("ready", () => {
     console.log('Ready!' + client.guilds.cache.size);
-    client.user.setActivity((prefix) + 'help')
+    client.user.setActivity((prefix) + 'help **V0.1.1**')
 });
 
 client.on('message', async(message) => {
