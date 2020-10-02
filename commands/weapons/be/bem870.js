@@ -1,26 +1,26 @@
 const config = require("../../config.json")
 
 module.exports = {
-    name: 'bam870',
+    name: 'bem870',
     cooldown: 30,
-    aliases: ['baremingtonmodelm870', 'baremingtonm870', 'best accuracy m870', 'bestaccuracym870'],
-    description: 'Best accuracy build for Remington Model M870',
+    aliases: ['beremingtonmodelm870', 'beremingtonm870', 'best ergo m870', 'bestergom870'],
+    description: 'Best ergo build for Remington Model M870',
     guildOnly: true,
     execute(message, args) {
         const Embed = {
             color: 0x0099ff,
-            title: 'Best Accuracy **M870**',
+            title: 'Best Ergo **M870**',
             author: {
                 name: config.author,
                 url: config.invitelink
             },
             description: 'Type **%12gb** and/or **%12gs** for info about ammo',
             image: {
-                url: 'https://i.postimg.cc/90qnPZgg/bam870.png',
+                url: 'https://i.postimg.cc/Y2VMBx1V/bem870.png',
             },
             fields: [{
                     name: 'Stats',
-                    value: "**Ergo: 49\nVertical Recoil: 281\nHorizontal Recoil: 351\nAccuracy: 10.67 MOA**",
+                    value: "**Ergo: 100\nVertical Recoil: 317\nHorizontal Recoil: 396\nAccuracy: 37.81 MOA**",
                     inline: true,
                 },
                 {
@@ -30,7 +30,7 @@ module.exports = {
                 },
                 {
                     name: '**Mod List**',
-                    value: (config.topTable + config.m870660 + config.Mtu + config.exps3 + config.endTable),
+                    value: (config.topTable + config.m870325 + config.moem870 + config.mlok4 + config.fortisg + config.leo + config.hogue + config.prsgen3 + config.endTable),
                 },
             ],
             footer: {

@@ -25,7 +25,7 @@ module.exports = {
                 },
                 {
                     name: '**Mod List**',
-                    value: (config.topTable + config.rp1 + config.mtu002s + config.fortisg + config.akts + config.prsgen3 + config.rk3 + config.endTable),
+                    value: (config.topTable + config.rp1 + config.mtu002s + config.fortisg + config.akts + config.prsgen3 + config.fortisg + config.endTable),
                 },
             ],
             footer: {

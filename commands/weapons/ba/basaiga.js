@@ -1,36 +1,31 @@
 const config = require("../../config.json")
 
 module.exports = {
-    name: 'bam870',
+    name: 'basaiga12',
     cooldown: 30,
-    aliases: ['baremingtonmodelm870', 'baremingtonm870', 'best accuracy m870', 'bestaccuracym870'],
-    description: 'Best accuracy build for Remington Model M870',
+    aliases: ['basaiga 12', 'basaiga-12', 'basaiga12ga', 'basaiga12', 'basaiga 12ga', 'ba saiga 12ga', 'basaiga 12 ga'],
+    description: 'Best accuracy build for Saiga-12',
     guildOnly: true,
     execute(message, args) {
         const Embed = {
             color: 0x0099ff,
-            title: 'Best Accuracy **M870**',
+            title: 'Best Accuracy **Saiga-12**',
             author: {
                 name: config.author,
                 url: config.invitelink
             },
             description: 'Type **%12gb** and/or **%12gs** for info about ammo',
             image: {
-                url: 'https://i.postimg.cc/90qnPZgg/bam870.png',
+                url: 'https://i.postimg.cc/90ydpvz6/basaiga12.png',
             },
             fields: [{
                     name: 'Stats',
-                    value: "**Ergo: 49\nVertical Recoil: 281\nHorizontal Recoil: 351\nAccuracy: 10.67 MOA**",
-                    inline: true,
-                },
-                {
-                    name: 'Notes',
-                    value: "[Build is based on stock preset of M870](https://gamepedia.cursecdn.com/escapefromtarkov_gamepedia/9/91/M870.png?version=5f3ce7b3797d1b77b97d956d4e026dd1)",
+                    value: "**Ergo: 53\nVertical Recoil: 230\nHorizontal Recoil: 384\nAccuracy: 18.15 MOA**",
                     inline: true,
                 },
                 {
                     name: '**Mod List**',
-                    value: (config.topTable + config.m870660 + config.Mtu + config.exps3 + config.endTable),
+                    value: (config.topTable + config.thread + config.b13v + config.exps3 + config.endTable),
                 },
             ],
             footer: {

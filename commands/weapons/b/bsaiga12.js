@@ -3,7 +3,7 @@ const config = require("../../config.json")
 module.exports = {
     name: 'bsaiga12',
     cooldown: 30,
-    aliases: ['bsaiga 12', 'bsaiga12ga', 'budgetsaiga12', 'bsaiga 12ga', 'b saiga 12ga', 'bsaiga 12 ga'],
+    aliases: ['bsaiga 12', 'bsaiga-12', 'bsaiga12ga', 'budgetsaiga12', 'bsaiga 12ga', 'b saiga 12ga', 'bsaiga 12 ga'],
     description: 'Budget build for Saiga 12ga',
     guildOnly: true,
     execute(message, args) {
