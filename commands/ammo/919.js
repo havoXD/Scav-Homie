@@ -17,7 +17,7 @@ module.exports = {
             description: 'Type **%b919** for a budget/best version',
             fields: [{
                     name: 'Notes',
-                    value: "```9x19 RIP:\nonly available as barter at both traders but at Skier only after completion of the quest 'Setup'.\n\nSkier Barter: 2x Chainlets -> 20x RIP\nJaeger Barter: 1x Aquamari -> 20x RIP```",
+                    value: '```9x19 RIP:\nonly available as barter at both traders but at Skier only after completion of the quest "Setup".\n\nSkier Barter: 2x Chainlets -> 20x RIP\nJaeger Barter: 1x Aquamari -> 20x RIP\nCrafted at __Workbench LL3__. Duration: 2h 05min\nx1 "Hawk" + x4 Wires = x180 **RIP**.\n\n9x19 7N31\nCrafted at __Workbench LL3__. Duration: 1h 56min\nx1 "Eagle" + x1 "Kite" + x1 Nails + x100 9x19 Pst gzh = x100 **7N31**.\n\n9x19 AP 6.3\nCrafted at __Workbench LL2__. Duration: 1h 29min\nx1 "Hawk" + x100 9x19 Pst gzh = x100 **AP 6.3**.```',
                 },
                 {
                     name: 'Basic Stats',

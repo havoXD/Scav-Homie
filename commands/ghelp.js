@@ -22,8 +22,8 @@ module.exports = {
                     inline: true,
                 },
                 {
-                    name: '**Version 0.1.1**',
-                    value: "**Last Updated** - `01/10-20`\n`Latest` - Shows latest fixes/additions (small updates)",
+                    name: '**Version 0.1.2**',
+                    value: "**Last Updated** - `20/10-20`\n`Latest` - Shows latest fixes/additions (small updates)",
                 },
             ],
             footer: {

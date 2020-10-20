@@ -32,7 +32,7 @@ module.exports = {
                 },
                 {
                     name: 'Notes',
-                    value: "```VPO-136, AKM/AKMN and AKMS/AKMSN:\nUse Lantac Dragon Muzzle.```\n```AKMS/AKMSN:\nCan't change stock but uses GP-25 as Butt pad.```\n```AK-74M, AKS-74(N/U/UB/UN) and AK-101/2/3/4/5:\nUse PT-3 Stock that requires AK74/AKS-74 PT Lock.```\n```AK-101/102: Use Wave QD Suppressor\nthat requires Wave Muzzle and CNC Adapter.```\n```AK-103/104: Use SRVV Muzzle.```\n```AK-102/4/5: Use Aggressor Handguard.```\n```AKS-74U(N/B): Use XRSU74SU Handguard.```\n```VPO-209: Uses Rotor 43 .366 TKM.```",
+                    value: "```VPO-136, AKM/AKMN and AKMS/AKMSN:\nUse Lantac Dragon Muzzle.```\n```AKMS/AKMSN:\nCan't change stock but uses GP-25 as Butt pad.```\n```AK-74M, AKS-74(N/U/UB/UN) and AK-101/2/3/4/5:\nUse PT-3 Stock that requires AK74/AKS-74 PT Lock.```\n```AK-101/102: Use Wave QD Suppressor\nthat requires Wave Muzzle and CNC Adapter.```\n```AK-103/104: Use JMAC Muzzle.```\n```AK-102/4/5: Use Aggressor Handguard.```\n```AKS-74U(N/B): Use XRSU74SU Handguard.```\n```VPO-209: Uses Rotor 43 .366 TKM.```",
                 },
                 {
                     name: '**Mod List**',
@@ -40,7 +40,7 @@ module.exports = {
                 },
                 {
                     name: 'Continuation',
-                    value: (config.topNoted + config.lantac + config.srvv + config.cnc + config.wave + config.waveqd + config.pt3 + config.ak74pt + config.aks74pt + config.aggressor + config.xrsu47 + config.gp25 + config.vposup + config.endTable) + '\n**Best Recoil AK-74 ↓↓↓**',
+                    value: (config.topNoted + config.lantac + config.jmac + config.cnc + config.wave + config.waveqd + config.pt3 + config.ak74pt + config.aks74pt + config.aggressor + config.xrsu47 + config.gp25 + config.vposup + config.endTable) + '\n**Best Recoil AK-74 ↓↓↓**',
                 },
             ],
             footer: {
