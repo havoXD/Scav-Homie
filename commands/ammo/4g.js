@@ -17,6 +17,10 @@ module.exports = {
             description: 'Type **%b23x75** for a budget/best version',
             fields: [
                 {
+                    name: '**Notes**',
+                    value: "The two `Shrapnel` rounds both have a value at the end of their name that represents the range their effective at.",
+                },
+                {
                     name: 'Basic Stats',
                     value: (config.all4g1),
                 },

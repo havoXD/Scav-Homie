@@ -21,7 +21,7 @@ module.exports = {
                 },
                 {
                     name: '**Appreciation letter**',
-                    value: "Again thanks to everyone that have been using my bot and especially to those who have given feedback and showed their support.\n\nI am happy to see so many people using my bot and also happy to see some of you jump in my discord.\n\nThe bot is as of 20/10-20 on 290+ servers!\nPlease share the bot with people who you think might find it useful and encourage admins to add it if you are on a bigger server :)\n\n**To 300 servers we go.**",
+                    value: "Again thanks to everyone that have been using my bot and especially to those who have given feedback and showed their support.\n\nI am happy to see so many people using my bot and also happy to see some of you jump in my discord.\n\nThe bot has been added to 300 servers as of 23/10-20!\nPlease share the bot with people who you think might find it useful and encourage admins to add it if you are on a bigger server :)\n\n**To 400 servers we go.**",
                 },
 
             ],

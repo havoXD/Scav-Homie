@@ -14,7 +14,7 @@ module.exports = {
                 name: config.author,
                 url: config.invitelink
             },
-            description: 'Type %23x75 or %b23x75 for info about ammo',
+            description: 'Type **%23x75** or **%b23x75** for info about ammo',
             image: {
                 url: 'https://i.postimg.cc/T1FnBMQB/ks23m.png',
             },

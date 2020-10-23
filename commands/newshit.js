@@ -14,7 +14,7 @@ module.exports = {
                 name: config.author,
                 url: config.invitelink
             },
-            description: "It's been a long while",
+            description: "Crazy",
             fields: [{
                     name: '**The new version**',
                     value: "Prefix is still **%**\n\n**Weapon commands**\nScav homie will respond with a build for every single gun in the game.\n\n**QoL**\nIt will be easier to trigger commands now that each command has aliases and if something still doesn't work let me know and I'll add a alias so that next time it triggers the command.\n\n**Ammo commands**\nThere are now two types of ammo commands, `%545` and `%b545`\n\n`%545` will show a whole table of stats for all ammo for that caliber and specific ways of obtaining some of the ammo.\n\n`%b545` is similar to how it was on the old version it will show best/best pen/best dmg/budget.\n\n**Map commands**\nMap commands have been improved by a added '%mapnameinfo' command and multiple different types of maps for each area and also a note about when the maps were last updated/made.",
