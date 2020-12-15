@@ -3,7 +3,7 @@ const config = require("../config.json")
 module.exports = {
     name: 'n762',
     cooldown: 30,
-    aliases: ['n7.62', '7.62x51'],
+    aliases: ['n7.62', '7.62x51','762x51','76251'],
     description: 'Detailed stats of all 7.62x51 ammunition',
     guildOnly: true,
     execute(message, args) {
