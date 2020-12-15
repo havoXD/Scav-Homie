@@ -4,7 +4,7 @@ module.exports = {
 	name: 'armor',
 	description: 'Information about the arguments provided.',
     args: true,
-    usage: '"armor" + "level"',
+    usage: '+ "level" Example: %armor 2',
 	execute(message, args) {
         if (args[0] === '2' ) {
 			return message.channel.send(config.class2);
