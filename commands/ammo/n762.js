@@ -17,7 +17,7 @@ module.exports = {
             description: 'Type **%bn762** for a budget/best version',
             fields: [{
                     name: 'Notes',
-                    value: '**M61:**\nUnlocked at trader after completion of:\n"Wet Job" - Part 6.\n\n**M62:**\nUnlocked at trader after completion of:\n"Spa Tour" - Part 6.',
+                    value: '```M61:\nUnlocked at trader after completion of:\n"Wet Job" - Part 6.\n\nM62:\nUnlocked at trader after completion of:\n"Spa Tour" - Part 6.```',
                 },
                 {
                     name: 'Basic Stats',

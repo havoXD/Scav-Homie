@@ -17,7 +17,7 @@ module.exports = {
             description: 'Type **%b556** for a budget/best version',
             fields: [{
                     name: 'Notes',
-                    value: '**M995:**\nCrafted at __Workbench LL3__. Duration: 2h 37min\nx1 "Eagle" + x1 OFZ = x140 **M995**\n\n**M856A1:**\nUnlocked at trader after completion of:\n"The Cult" - Part 1.\nCrafted at __Workbench LL2__. Duration: 2h\nx1 "Hawk" + x90 M855 = x180 **M855A1**\n\n**Warmage:**\nCrafted at __Workbench LL3__. Duration: 2h 26min\nx1 "Eagle" + x2 "Kite" = x200 **Warmage**\nTrade with __Peacekeeper LL3__. x4 D Size Battery -> x20 **Warmage**.\nTrade with __Jaeger LL4__. x5 Humpback -> x20 **Warmage**.',
+                    value: '```M995:\nCrafted at Workbench LL3. Duration: 2h 37min\nx1 "Eagle" + x1 OFZ = x140 M995\n\nM856A1:\nUnlocked at trader after completion of:\n"The Cult" - Part 1.\nCrafted at Workbench LL2. Duration: 2h\nx1 "Hawk" + x90 M855 = x180 M855A1\n\nWarmage:\nCrafted at Workbench LL3. Duration: 2h 26min\nx1 "Eagle" + x2 "Kite" = x200 Warmage\nTrade with Peacekeeper LL3. x4 D Size Battery -> x20 Warmage.\nTrade with Jaeger LL4. x5 Humpback -> x20 Warmage.```',
                 },
                 {
                     name: 'Basic Stats',

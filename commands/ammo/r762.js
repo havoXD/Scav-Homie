@@ -17,7 +17,7 @@ module.exports = {
             description: 'Type **%br762** for a budget/best version',
             fields: [{
                     name: 'Notes',
-                    value: '**SNB:**\nCrafted at __Workbench LL2__. Duration: 1h 58min\nx1 "Hawk" = x80 **SNB**.',
+                    value: '```SNB:\nCrafted at Workbench LL2. Duration: 1h 58min\nx1 "Hawk" = x80 SNB.```',
                 },
                 {
                     name: 'Basic Stats',

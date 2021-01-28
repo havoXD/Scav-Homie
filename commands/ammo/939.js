@@ -17,7 +17,7 @@ module.exports = {
             description: 'Type **%b939** for a budget/best version',
             fields: [{
                     name: 'Notes',
-                    value: '**BP:**\n\nTrade with __Prapor LL4__, x1 Strike Cigarettes -> x8 **BP**\nUnlocked at trader as barter after completion of:\n"Grenadier"\nCrafted at __Workbench LL3__. Duration: 2h 39min\nx1 Military power filter + x1 "Hawk" = x80 **BP**.\n\n**SPP:**\nTrade with __Prapor LL3__, x2 Insulating tape -> x8 **SPP**\nPrapor LL4 sells **SPP** for rubles.',
+                    value: '```BP:\n\nTrade with Prapor LL4, x1 Strike Cigarettes -> x8 BP\nUnlocked at trader as barter after completion of:\n"Grenadier"\nCrafted at Workbench LL3. Duration: 2h 39min\nx1 Military power filter + x1 "Hawk" = x80 BP.\n\nSPP:\nTrade with Prapor LL3, x2 Insulating tape -> x8 SPP\nPrapor LL4 sells SPP for rubles.```',
                 },
                 {
                     name: 'Basic Stats',

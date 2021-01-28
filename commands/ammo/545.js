@@ -17,7 +17,7 @@ module.exports = {
             description: 'Type **%b545** for a budget/best version',
             fields: [{
                     name: 'Notes',
-                    value: '**7N39:**\nCrafted at __Workbench LL3__. Duration: 2h 37min\nx1 "Kite" + x1 "Eagle" + x1 "Hawk" = x120 **7N39**\n\n**BS:**\nTrade with __Prapor LL3__. x2 Hot Rod -> x30 **BS**.\n\n**BT:**\nUnlocked at trader to buy with __money__ after completion of:\n"The Punisher" - Part 4\nTrade with __Prapor LL1__. x2 [Tushonka](https://escapefromtarkov.gamepedia.com/Can_of_delicious_beef_stew) -> x30 **BT**.\nTrade with __Prapor LL2__. x1 Dry Fuel -> x30 **BT**.\n\n**PS:**\nUnlocked at trader after completion of:\n"Delivery from the past".\n**Useful recipe**\nAt __Workbench LL2__. x80 **PS** + x1 Bolts = x240 PP.',
+                    value: '```7N39:\nCrafted at Workbench LL3. Duration: 2h 37min\nx1 "Kite" + x1 "Eagle" + x1 "Hawk" = x120 **7N39**\n\nBS:\nTrade with Prapor LL3. x2 Hot Rod -> x30 BS.\n\nBT:\nUnlocked at trader to buy with MONEY after completion of:\n"The Punisher" - Part 4\nTrade with Prapor LL1. x2 [Tushonka](https://escapefromtarkov.gamepedia.com/Can_of_delicious_beef_stew) -> x30 BT.\nTrade with Prapor LL2. x1 Dry Fuel -> x30 BT.\n\nPS:\nUnlocked at trader after completion of:\n"Delivery from the past".\nUseful recipe\nAt Workbench LL2. x80 PS + x1 Bolts = x240 PP.```',
                 },
                 {
                     name: 'Basic Stats',

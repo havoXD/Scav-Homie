@@ -3,7 +3,7 @@ const config = require("./config.json")
 module.exports = {
     name: 'ammocmd',
     cooldown: 30,
-    aliases: ['ammo', 'ammunitioncmd', 'ammunition'],
+    aliases: [ 'ammunitioncmd', 'ammunition'],
     description: 'A command that gives an overview of Scav Homies commands.',
     guildOnly: true,
     execute(message, args) {

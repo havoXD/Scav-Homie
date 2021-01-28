@@ -17,7 +17,7 @@ module.exports = {
             description: 'Type **%b12gs** for a budget/best version',
             fields: [{
                     name: 'Notes',
-                    value: '**RIP:**\nUnlocked at trader as barter after completion of: Bullshit\n Barter: x1 T-Shaped Plug -> x5 **RIP**\nJaeger Barter: x1 Saury -> x5 **RIP**\n\n**AP-20:**\nCrafted at __Workbench LL3__. Duration: 2h 28min\nx1 "Hawk" + x2 HDD = x120 **AP-20**.',
+                    value: '```RIP:\nUnlocked at trader as barter after completion of: Bullshit\n Barter: x1 T-Shaped Plug -> x5 RIP\nJaeger Barter: x1 Saury -> x5 RIP\n\nAP-20:\nCrafted at Workbench LL3. Duration: 2h 28min\nx1 "Hawk" + x2 HDD = x120 AP-20.```',
                 },
                 {
                     name: 'Basic Stats',

@@ -17,7 +17,7 @@ module.exports = {
             description: 'Type **%b366** for a budget/best version',
             fields: [{
                     name: 'Notes',
-                    value: '**AP:**\nCrafted at __Workbench LL2__. Duration: 1h 43min\nx50 SP-6 + x100 7.62x39 PS = x100 **AP**',
+                    value: '```AP:\nCrafted at Workbench LL2. Duration: 1h 43min\nx50 SP-6 + x100 7.62x39 PS = x100 AP```',
                 }, {
                     name: 'Stats',
                     value: (config.all3661),

@@ -17,7 +17,7 @@ module.exports = {
             description: 'Type **%b762** for a budget/best version',
             fields: [{
                     name: 'Notes',
-                    value: '**BP:**\nUnlocked at trader after completion of:\n"The Punisher" - Part 5.\nCrafted at __Workbench LL3__. Duration: 2h 30min\nx1 "Eagle" = x120 **BP**.',
+                    value: '```BP:\nUnlocked at trader after completion of:\n"The Punisher" - Part 5.\nCrafted at Workbench LL3. Duration: 2h 30min\nx1 "Eagle" = x120 BP.```',
                 },
                 {
                     name: 'Basic Stats',
