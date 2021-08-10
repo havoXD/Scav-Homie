@@ -18,7 +18,7 @@ module.exports = {
             description: 'Leave suggestions to havoX#7808',
             fields: [{
                     name: '**Commands**',
-                    value: "**ATTENTION**\nDeveloper is back. Bot is now **open-source on github.**\nType `%github` to get to the repo.\n**Thanks in advance for any help :)**\n**Prefix is %**\n`New` - What is new? (big updates)\n`Ammocmd` - Shows ammo commands.\n`Weaponcmd` - Explanation of Weapon build commands.\n`Maps` - Shows map commands.\n`Donate` - If you want to donate :)",
+                    value: "**ATTENTION**\nDeveloper is back. Bot is now **open-source on github.**\n[Vote for Scav Homie on top.gg](https://top.gg/bot/483733410389557259/vote)\nType `%github` to get to the repo.\n**Thanks in advance for any help :)**\n**Prefix is %**\n`New` - What is new? (big updates)\n`Ammocmd` - Shows ammo commands.\n`Weaponcmd` - Explanation of Weapon build commands.\n`Maps` - Shows map commands.\n`Donate` - If you want to donate :)",
                     inline: true,
                 },
                 {
