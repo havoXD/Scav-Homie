@@ -96,8 +96,16 @@ const cooldowns = new Discord.Collection();
 
 client.on("ready", () => {
     console.log('Ready!' + client.guilds.cache.size);
-    client.user.setActivity((prefix) + 'help V0.1.2')
+    client.user.setActivity((prefix) + 'help V0.1.21')
 });
+
+const { AutoPoster } = require('topgg-autoposter')
+
+const ap = AutoPoster('eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQ4MzczMzQxMDM4OTU1NzI1OSIsImJvdCI6dHJ1ZSwiaWF0IjoxNTg5NTkzNjU1fQ.3W4dz4Fz42BJK85XiUd0vN-3JwkbLnvL0ujGC1cOeLw', client)
+
+ap.on('posted', () => {
+    console.log('Posted stats')
+})
 
 client.on('message', async(message) => {
     if (!message.content.includes(prefix) || message.author.bot) return;

@@ -18,12 +18,12 @@ module.exports = {
             description: 'Leave suggestions to havoX#7808',
             fields: [{
                     name: '**Commands**',
-                    value: "**ATTENTION**\nClick on the top of any message sent by scav homie to fill out a survey.\n__Your time and opinion is valuable to me.__\n**Thanks in advance :)**\n**Prefix is %**\n`New` - What is new? (big updates)\n`Ammocmd` - Shows ammo commands.\n`Weaponcmd` - Explanation of Weapon build commands.\n`Maps` - Shows map commands.\n`Donate` - If you want to donate :)",
+                    value: "**ATTENTION**\nDeveloper is back. Bot is now **open-source on github.**\nType `%github` to get to the repo.\n**Thanks in advance for any help :)**\n**Prefix is %**\n`New` - What is new? (big updates)\n`Ammocmd` - Shows ammo commands.\n`Weaponcmd` - Explanation of Weapon build commands.\n`Maps` - Shows map commands.\n`Donate` - If you want to donate :)",
                     inline: true,
                 },
                 {
-                    name: '**Version 0.1.2**',
-                    value: "**Last Updated** - `23/10-20`\n`Latest` - Shows latest fixes/additions (small updates)",
+                    name: '**Version 0.1.21**',
+                    value: "**Last Updated** - `10/08-21`\n`Latest` - Shows latest fixes/additions (small updates)\n**Weapon builds are and will be out of date for a while because of recent major changes to modifications.**",
                 },
             ],
             footer: {
